@@ -17,9 +17,10 @@
 - ChatGPT additionally **individually opened all B10 / 577–640** full-original JPEGs and recorded observations in groups G0082 through G0097, without redoing prior sealed batches. Batch B10 sealed via `tools/checkpoint.py B10`, SHA256 `297a96a567a0fc507ca77a64ce1bc741d391e36a7a16e179dd607dda2f1133c8`.
 - ChatGPT subsequently **individually opened all B11 / 641–704** full-original JPEGs, writing independent per-image observations in groups G0098 through G0113. Batch B11 sealed via `tools/checkpoint.py B11`, SHA256 `a26c7d0995360be842c2c13c332fdc6788ca901dbcbbbb53f9487091e6ba85d2`.
 - ChatGPT subsequently **individually opened all B12 / 705–768** full-original JPEGs, writing per-image observations in groups G0114 through G0129. Batch B12 sealed via `tools/checkpoint.py B12`, SHA256 `a3663e983a54bb0eaaf300469631796d576f6433b9e74e743ca71db1211ea233`.
-- Total structurally closed: **768/3281**, 12/52 batches (final batch may be partial). Next unreviewed image is **769** (B13 = 769–832).
-- Verified with `py -3 tools/validate.py --check-media`: PASS; 768/768 record-to-inventory checks, all relevant original JPG SHA256s (directly extracted or from the media ZIP), sealed-batch hashes, and linked ledger.
-- The validator *does not* prove an image was actually looked at. For B09–B12 individual full-JPG view calls were actually made and recorded; for original Claude's B01–B08 only structural/provenance checks were done here.
+- ChatGPT subsequently **individually opened all B13 / 769–832** full-original JPEGs, writing per-image observations in groups G0130 through G0145. Batch B13 sealed via `tools/checkpoint.py B13`, SHA256 `7ff487a8431d4d972b50146cefc65365d1f2e59c1c0a26606732e79c2df58baf`.
+- Total structurally closed: **832/3281**, 13/52 batches (final batch may be partial). Next unreviewed image is **833** (B14 = 833–896).
+- Verified with `py -3 tools/validate.py --check-media`: PASS; 832/832 record-to-inventory checks, all relevant original JPG SHA256s (directly extracted or from the media ZIP), sealed-batch hashes, and linked ledger.
+- The validator *does not* prove an image was actually looked at. For B09–B13 individual full-JPG view calls were actually made and recorded; for original Claude's B01–B08 only structural/provenance checks were done here.
 
 ## Observed source content and epistemic notes
 
@@ -33,16 +34,18 @@ B11 contains Slide 10 throughout. The presenter blue pointer travels backward an
 
 B12 confirms the green annotation in frames 705–712 as **`Bulls finally got bounce`**. Its diagonal green arrow points toward a green rectangle under the first bullish move after the lowest trough, long after the four earlier minor bullish attempts had failed. Frames 713–768 remain on the same static Slide 10; the only changes are the speaker's blue pointer examining the prior bear decline and the later bounce. These are teaching overlays applied retrospectively and cannot be taken as realtime pre-trade signals. The displayed `80%` is the author's didactic rule, not verified from a sample in these stills.
 
+B13 remains entirely on the same Slide 10, `Inertia In Trends: 80% Rule`: the red ex-post small bull attempts subsequently turning into bear flags, the green first bounce arrow, and the black-and-white candle sequence stay static. The presenter cursor repeatedly moves between the four early failed countertrend rises, the final trough, and late tall white bullish bars. This is instruction and context review, **not** a live-by-bar replay or independent probability measurement; no new title, signal trigger, or failure-path definition appears in frames 769–832.
+
 ## How to continue
 
 1. Open `docs/2D-METHOD.md` and `tools/review_lib.py` before recording.
-2. Run `py -3 tools/extract_batch.py B13`; it extracts/verifies 64 JPGs in `restored/zip/高清原始分辨率/`.
+2. Run `py -3 tools/extract_batch.py B14`; it extracts/verifies 64 JPGs in `restored/zip/高清原始分辨率/`.
 3. Use `Core.view_image` for **each** full JPG in ascending order, record specific visually grounded changes with `tools/record.py`, setting session and read_via correctly; do not call `record.py` before the actual image is opened.
-4. Once every 769–832 record exists, run `py -3 tools/checkpoint.py B13` (only once); then `py -3 tools/validate.py --check-media`.
+4. Once every 833–896 record exists, run `py -3 tools/checkpoint.py B14` (only once); then `py -3 tools/validate.py --check-media`.
 5. Keep the same independent local continuation branch unless explicitly asked to push elsewhere. Do not overwrite Claude's branch, original media, or completed existing B batches.
 
 ## Restrictions and notices
 
-- No final 2D Skill has been produced from this incomplete review; 2513 stills remain.
+- No final 2D Skill has been produced from this incomplete review; 2449 stills remain.
 - The GitHub repository appears **public** even though the README says private/plan-only, and its media ZIP is accessible from its public release. Treat public exposure as a separate issue to be addressed if intended to be confidential.
-- `restored/` contains a large original ZIP, extracted JPGs, and transient group input JSONL files, deliberately ignored by Git and not published. The durable Git-tracked evidence consists of B09–B12 JSONL, progress and ledger plus scripts and this note.
+- `restored/` contains a large original ZIP, extracted JPGs, and transient group input JSONL files, deliberately ignored by Git and not published. The durable Git-tracked evidence consists of B09–B13 JSONL, progress and ledger plus scripts and this note.

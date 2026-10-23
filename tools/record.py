@@ -32,6 +32,9 @@ def last_seq():
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--group", required=True, help="view-group id: the images opened together in one step")
+    ap.add_argument("--session", default=SESSION, help="source session for newly recorded images")
+    ap.add_argument("--read-via", default="Read tool on the full original JPG (restored/zip/<path>)",
+                    help="the actual tool used for individual full-resolution image viewing")
     args = ap.parse_args()
 
     by_file, ordered = manifest()
@@ -58,10 +61,10 @@ def main():
             "seq": m["seq"], "file": m["file"], "path": m["path"], "kind": m["kind"],
             "sha256": digest, "bytes": len(data), "w": m["w"], "h": m["h"],
             "t": m.get("t"), "cues": m.get("cues", []), "cue_gap": m.get("cue_gap"),
-            "read": True, "read_via": "Read tool on the full original JPG (restored/zip/<path>)",
+            "read": True, "read_via": args.read_via,
             "group": args.group, "batch": f"B{batch_of(m['seq']):02d}",
             "rec_utc": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
-            "session": SESSION,
+            "session": args.session,
         }
         full.update({k: v for k, v in rec.items() if k != "f"})
         full.setdefault("cf", "h")

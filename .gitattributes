@@ -1,0 +1,5 @@
+evidence/2D/frames/*.jsonl text eol=lf
+evidence/2D/frames/*.json text eol=lf
+evidence/2D/inventory/*.jsonl text eol=lf
+docs/*.md text eol=lf
+tools/*.py text eol=lf

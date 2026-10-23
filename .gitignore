@@ -6,3 +6,4 @@
 *.key
 *credential*
 __pycache__/
+restored/

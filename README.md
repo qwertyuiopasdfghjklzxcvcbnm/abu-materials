@@ -1,16 +1,19 @@
-﻿# 阿布 2D 原课素材（私有）
+# Abu 2D original material — plan only (private)
 
-**本仓库只用于测试一节尚未制作 Skill 的课程：2D。**
+This is a newly created private repository containing one course, Abu 2D. The previous materials repository has been deleted. No earlier Git history is reused.
 
-- `source-original/2D.mp4`：完整原始 2D 课程视频（Git LFS），不是动态裁剪片段
-- `source-original/2D-en.srt`、`2D-ch.srt`：原始中英文字幕
-- `course-audit/`：2D 课程画面清单、检查报告和中英文对照等已有批处理元数据
-- `frames/2D-media.zip`：仅含原始高清 JPG 图片的备份（Git LFS；不含任何 MP4），附 SHA-256
+**Current authorization is planning only. Claude Code must NOT create or modify any Skill, run media extraction, or commit any changes without a new user instruction.**
 
-其他 1A–3B 课程、其他 200 多节课、动态 MP4 保护片段、之前旧版素材仓库的 Git 历史均不加入此新仓库。
+Included:
 
-## 下一步：只讨论方案，不执行
+- source-original/2D-en.srt and source-original/2D-ch.srt: full English and Chinese course subtitles
+- course-audit/: existing 2D still-frame index, reports and metadata
+- assets/manifest.json: SHA256 and part list for original full 2D.mp4 and image-only 2D-media.zip
+- assets/2D-original-video/part-*.bin: exact-byte lossless parts of complete original video
+- assets/2D-hd-frames/part-*.bin: exact-byte lossless parts of high-definition original JPG archive
+- restore_2d_assets.py: verifies all part SHA256s and reassembles into restored/2D.mp4 and restored/2D-media.zip
+- PLAN_ONLY_CLAUDE.md: request for a design/verification plan, with no execution
 
-希望 Claude Code 以当前可用的最高推理档位进行**规划讨论**。请先阅读 `PLAN_ONLY_CLAUDE.md` 和这些课程文件，评估如何按完整原视频与原始画面制作符合既有 1A/2A/2B/2C 标准的 abu-2d Skill。
+Binary parts are stored directly in Git, NOT Git LFS. Each part is no larger than 32 MiB. After explicit user authorization, Python 3.12+ can reconstruct the byte-for-byte original MP4 and image-only ZIP using restore_2d_assets.py. This is not recomposing clips; it is restoring the original MP4 exactly.
 
-**禁止在用户明确下达开始指令之前实际创建/修改 Skill、执行批量提取与审阅、运行素材处理或提交代码。** 回答应先给出准备采用的核验步骤、能力限制、时间/资源消耗和可验证的交付物。
+Always use the highest available model and thinking capability to discuss an evidence-based plan first, then wait for approval.

@@ -12,3 +12,4 @@
 6. 你需要用户先提供什么，哪些输入目前已足够？请明确哪些是推测，而不是已经验证的情况。
 
 只给方案，等待用户说“开始”后才执行。不要创建 Skill，不要提交 PR，不要修改素材。
+IMPORTANT 2026-10-23: complete video and full high-definition ZIP are not yet verified as available on GitHub; only transcripts, audit index and 36 original JPG samples are in the repository. Do NOT claim to have examined unavailable complete assets. Planning only.

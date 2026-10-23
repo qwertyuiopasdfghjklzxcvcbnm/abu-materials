@@ -1,0 +1,8 @@
+﻿.env
+.env.*
+*.pem
+*.p12
+*.pfx
+*.key
+*credential*
+__pycache__/

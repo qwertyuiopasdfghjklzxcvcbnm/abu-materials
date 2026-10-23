@@ -1,0 +1,2330 @@
+﻿1
+00:00:01.820 --> 00:00:03.072
+I’m Al Brooks.
+
+2
+00:00:03.072 --> 00:00:05.506
+Thank you for watching the
+Brooks Trading Course.
+
+3
+00:00:05.873 --> 00:00:11.245
+This is the final video on
+chart basics and price action.
+
+4
+00:00:14.915 --> 00:00:19.620
+I will be talking about candlestick
+patterns, I will talk about...
+
+5
+00:00:19.620 --> 00:00:24.892
+..what traders talk about, and finally
+I will talk some about indicators.
+
+6
+00:00:29.696 --> 00:00:33.954
+I think one of the unfortunate
+things that beginners see...
+
+7
+00:00:33.954 --> 00:00:39.126
+..when they start out is a collection
+of ads and claims on the Internet
+
+8
+00:00:39.126 --> 00:00:43.577
+and in books and magazines that make
+it sound like if you simply memorize...
+
+9
+00:00:43.577 --> 00:00:46.780
+..a handful of candlestick patterns,
+you’re going to get rich.
+
+10
+00:00:49.949 --> 00:00:53.921
+And it’s really deceiving, because
+there’s nothing easy in trading.
+
+11
+00:00:53.922 --> 00:00:57.744
+You’re competing against the smartest
+people in the world who are working...
+
+12
+00:00:57.744 --> 00:01:01.895
+..extremely hard, and they are not
+going to give up their money easily.
+
+13
+00:01:01.896 --> 00:01:06.927
+So if you see ads like this
+that tell you that you can make...
+
+14
+00:01:06.928 --> 00:01:11.058
+..an incredible amount of money with
+minimum work – where for example,
+
+15
+00:01:11.058 --> 00:01:17.044
+this one says you can turn $250 into
+$34,000 completely on autopilot.
+
+16
+00:01:18.078 --> 00:01:19.039
+It’s really tempting.
+
+17
+00:01:19.039 --> 00:01:21.488
+Everyone starting out is
+looking for protection.
+
+18
+00:01:21.488 --> 00:01:23.750
+They’re afraid of losing their money.
+
+19
+00:01:24.491 --> 00:01:26.887
+They’re looking for someone who’s
+going to take care of them.
+
+20
+00:01:26.887 --> 00:01:28.589
+But nobody’s going to
+take care of them.
+
+21
+00:01:28.590 --> 00:01:32.159
+They’re looking for some
+easy way to make money...
+
+22
+00:01:32.425 --> 00:01:35.862
+..that’s guaranteed to not lose money.
+
+23
+00:01:36.230 --> 00:01:40.414
+And all of the ads imply that
+all you have to do is memorize...
+
+24
+00:01:40.414 --> 00:01:43.730
+..a few candlestick patterns and
+they’ll work all the time,
+
+25
+00:01:43.730 --> 00:01:47.174
+or they’ll work 90% of the
+time, and you’ll soon be rich...
+
+26
+00:01:47.174 --> 00:01:50.044
+..like everybody else,
+like Warren Buffett.
+
+27
+00:01:50.044 --> 00:01:52.052
+But that’s not real,
+it’s just not real.
+
+28
+00:01:52.052 --> 00:01:53.380
+It’s misleading.
+
+29
+00:01:53.380 --> 00:01:56.690
+So whenever you see anything
+like this, just ignore it.
+
+30
+00:01:56.690 --> 00:01:58.185
+Move on to something else.
+
+31
+00:02:00.153 --> 00:02:04.458
+Now you correctly believe that there are
+institutions that make a lot of money.
+
+32
+00:02:04.458 --> 00:02:10.430
+There are high frequency trading firms
+(HFT firms), hedge funds, Goldman Sachs.
+
+33
+00:02:11.431 --> 00:02:13.867
+Most of the firms out there
+making a lot of money...
+
+34
+00:02:13.868 --> 00:02:16.870
+..are not making them based
+upon candlestick patterns.
+
+35
+00:02:17.638 --> 00:02:20.974
+And if candlestick patterns
+were the key to wealth,
+
+36
+00:02:20.975 --> 00:02:23.717
+everyone would be using
+them to make money.
+
+37
+00:02:23.717 --> 00:02:25.012
+But that’s not the reality.
+
+38
+00:02:27.080 --> 00:02:30.817
+Lots of successful day traders
+talk about their trades.
+
+39
+00:02:31.251 --> 00:02:35.322
+For example, if you watch Fast
+Money, the television show on CNBC,
+
+40
+00:02:35.323 --> 00:02:38.592
+you’ll listen to the traders
+talk constantly about trends,
+
+41
+00:02:38.592 --> 00:02:43.664
+channels, prior highs, prior
+lows, support and resistance.
+
+42
+00:02:43.664 --> 00:02:48.068
+And you’ll never hear them say anything
+about a particular candlestick pattern.
+
+43
+00:02:48.069 --> 00:02:50.904
+Like “Oh I sold because
+of a dark cloud cover...
+
+44
+00:02:50.905 --> 00:02:53.574
+..or shooting star or Harami pattern.”
+
+45
+00:02:54.207 --> 00:02:58.785
+They don’t talk about that
+because that is such a tiny part...
+
+46
+00:02:58.785 --> 00:03:02.249
+..of trading that it’s not
+going to make you any money.
+
+47
+00:03:02.250 --> 00:03:05.385
+You have to learn far more
+than that to be successful.
+
+48
+00:03:07.521 --> 00:03:08.449
+Now look at this.
+
+49
+00:03:08.449 --> 00:03:10.257
+Here’s a candlestick bottom.
+
+50
+00:03:11.158 --> 00:03:14.695
+The market’s going down, tries to
+bottom, tries to bottom again.
+
+51
+00:03:14.696 --> 00:03:18.198
+Can you make money from this candlestick
+pattern? Of course you can.
+
+52
+00:03:19.166 --> 00:03:21.515
+The way to do it is you don’t buy.
+
+53
+00:03:21.515 --> 00:03:22.903
+You wait for a few bars.
+
+54
+00:03:25.072 --> 00:03:28.975
+Then you sell where the
+bulls will get out.
+
+55
+00:03:29.669 --> 00:03:31.538
+The bulls are trying to buy a bottom.
+
+56
+00:03:31.538 --> 00:03:35.515
+Trends are resistant to change;
+they’re probably going to continue.
+
+57
+00:03:36.249 --> 00:03:39.686
+The bulls who buy here are going
+to get trapped and lose money,
+
+58
+00:03:39.687 --> 00:03:42.469
+so rather than buy here, look to sell...
+
+59
+00:03:42.469 --> 00:03:44.758
+..where they’ll get out,
+where they’ll get stopped out.
+
+60
+00:03:44.759 --> 00:03:48.904
+So yes, you can make money trading a
+candlestick pattern doing the opposite...
+
+61
+00:03:48.904 --> 00:03:53.667
+..of what conventional candlestick
+pattern teaches you to do.
+
+62
+00:03:55.936 --> 00:03:56.870
+Look at this.
+
+63
+00:03:56.870 --> 00:03:59.973
+Here we have a bearish engulfing
+top on the daily chart.
+
+64
+00:04:00.180 --> 00:04:05.005
+The textbooks would tell you, “Ah,
+this bar traded above the high...
+
+65
+00:04:05.005 --> 00:04:07.267
+..of that bar and then
+it closed on its low,
+
+66
+00:04:07.267 --> 00:04:12.519
+and it’s a big bear bar closing on its
+low – it’s a short. It’s a short.”
+
+67
+00:04:13.620 --> 00:04:15.896
+Well, the risk is not all that great.
+
+68
+00:04:15.896 --> 00:04:16.657
+It’s to this point.
+
+69
+00:04:16.657 --> 00:04:18.946
+The reward, maybe we come
+all the way down here.
+
+70
+00:04:18.946 --> 00:04:19.887
+That’s good too.
+
+71
+00:04:19.887 --> 00:04:21.595
+So, great risk/reward.
+
+72
+00:04:21.962 --> 00:04:28.068
+However, what about probability?
+80% of reversal attempts fail.
+
+73
+00:04:28.468 --> 00:04:32.246
+So this failed, this failed, this
+failed, this failed, this failed.
+
+74
+00:04:32.246 --> 00:04:33.173
+Failed.
+
+75
+00:04:33.874 --> 00:04:38.345
+This one looks better than the others,
+but is it going to succeed?
+
+76
+00:04:40.133 --> 00:04:43.049
+No. Whenever you see a top,
+you have to expect...
+
+77
+00:04:43.049 --> 00:04:46.053
+..that the top will fail
+and become a bull flag.
+
+78
+00:04:46.900 --> 00:04:49.189
+Don’t be too quick to sell a top.
+
+79
+00:04:49.189 --> 00:04:54.561
+Instead, you have a better chance of
+making money if you wait a few bars
+
+80
+00:04:54.561 --> 00:04:59.666
+for the top to fail and become a bull flag
+and then buy as the trend resumes up.
+
+81
+00:05:01.735 --> 00:05:02.636
+Look at this.
+
+82
+00:05:02.636 --> 00:05:05.272
+Here we have a bullish engulfing bar.
+
+83
+00:05:05.273 --> 00:05:07.541
+It traded below the lows
+of all of these bars...
+
+84
+00:05:07.541 --> 00:05:10.243
+..and then reversed up strongly
+and closed on its high.
+
+85
+00:05:10.677 --> 00:05:12.479
+But you need context.
+
+86
+00:05:13.213 --> 00:05:16.616
+Context means you have to look
+at all the bars to the left,
+
+87
+00:05:16.617 --> 00:05:18.385
+and they have to support your trade.
+
+88
+00:05:19.820 --> 00:05:21.454
+Now look at these bars to the left.
+
+89
+00:05:21.848 --> 00:05:27.394
+A very Tight Bear Channel with very little
+in terms of pullbacks along the way.
+
+90
+00:05:28.028 --> 00:05:31.818
+What is the probability that
+the first reversal up is going...
+
+91
+00:05:31.818 --> 00:05:35.502
+..to lead to a bull trend? The
+probability is very low,
+
+92
+00:05:35.503 --> 00:05:38.505
+yet you have a great-looking
+candlestick pattern.
+
+93
+00:05:38.805 --> 00:05:41.975
+But the candlestick pattern
+alone is not enough.
+
+94
+00:05:41.975 --> 00:05:47.874
+It has to be in a context that makes
+sense, and this does not make sense.
+
+95
+00:05:47.874 --> 00:05:49.649
+This is a low probability trade.
+
+96
+00:05:50.584 --> 00:05:55.222
+So what do you do? Well, you know
+the candlestick guys are buying,
+
+97
+00:05:55.223 --> 00:05:59.399
+betting on the trend reversal,
+but the smart guys are saying...
+
+98
+00:05:59.399 --> 00:06:03.563
+..“Ah, this is a pullback in a bear
+trend, and therefore it’ll fail...
+
+99
+00:06:03.563 --> 00:06:08.134
+..and become a bear flag.” What
+they do is they don’t buy here;
+
+100
+00:06:08.134 --> 00:06:11.705
+they place a sell stop to go short
+below the bear bar that followed it,
+
+101
+00:06:12.773 --> 00:06:16.710
+betting that, like most
+reversals, this one will fail...
+
+102
+00:06:16.710 --> 00:06:18.812
+..and the bear trend will continue.
+
+103
+00:06:24.151 --> 00:06:26.353
+Markets have inertia.
+
+104
+00:06:26.354 --> 00:06:31.738
+That means they are resistant to
+change, and there’s an 80% chance...
+
+105
+00:06:31.738 --> 00:06:34.961
+..that they’ll continue doing
+what they have been doing.
+
+106
+00:06:35.214 --> 00:06:39.646
+So for example, if you want to know
+what the bars to the right look like,
+
+107
+00:06:39.646 --> 00:06:42.529
+the ones that you don’t see
+yet, look to the left.
+
+108
+00:06:42.529 --> 00:06:46.039
+If we’re in a bear trend, chances are
+we’re going to continue in a bear trend.
+
+109
+00:06:47.641 --> 00:06:51.011
+If we’re in a Trading Range, chances
+are we’ll continue in a Trading Range.
+
+110
+00:06:51.011 --> 00:06:54.347
+There’s much more to a bottom than
+simply a candlestick pattern.
+
+111
+00:06:55.715 --> 00:07:01.188
+So if you’re in a bear trend, you make
+more money expecting reversals to fail.
+
+112
+00:07:01.189 --> 00:07:04.758
+Y’know we had lots of reversals
+here – here, here, here.
+
+113
+00:07:05.659 --> 00:07:10.463
+We tried to reverse here and here, here
+– most reversals are going to fail.
+
+114
+00:07:12.799 --> 00:07:15.202
+Every one of those reversals is minor.
+
+115
+00:07:15.203 --> 00:07:17.704
+They are not Major Trend Reversals.
+
+116
+00:07:17.704 --> 00:07:21.541
+They are not going to change a
+bear trend into a bull trend.
+
+117
+00:07:21.542 --> 00:07:24.811
+They’re going to change a
+bear trend into a bear flag,
+
+118
+00:07:24.812 --> 00:07:29.249
+and then the bear flag will lead
+to a resumption of the bear trend.
+
+119
+00:07:32.066 --> 00:07:34.636
+My 80% rule, inertia.
+
+120
+00:07:35.408 --> 00:07:39.546
+When the market’s in a trend, 80%
+of reversal attempts will fail.
+
+121
+00:07:40.538 --> 00:07:43.677
+They’re minor reversals and
+they become bear flags,
+
+122
+00:07:43.677 --> 00:07:46.494
+and they lead to resumption
+of the trend down.
+
+123
+00:07:46.495 --> 00:07:48.937
+So for example, here we’re
+trying to reverse up.
+
+124
+00:07:48.937 --> 00:07:50.385
+We have a small Double Bottom.
+
+125
+00:07:50.906 --> 00:07:53.012
+Am I going to buy that bar? No.
+
+126
+00:07:53.013 --> 00:07:56.241
+If anything, I’m going to place a limit
+order to sell the high of the bar.
+
+127
+00:07:56.241 --> 00:07:57.140
+Same here.
+
+128
+00:07:57.704 --> 00:07:59.565
+Here’s a bull bar closing on its high.
+
+129
+00:07:59.565 --> 00:08:01.833
+Am I going to buy that close? No.
+
+130
+00:08:01.833 --> 00:08:05.732
+If anything, I’m going to place a
+market order to sell as soon as I see...
+
+131
+00:08:05.732 --> 00:08:09.662
+..that big bull bar attempting to
+reverse up, because I know the math...
+
+132
+00:08:09.662 --> 00:08:12.927
+..is it’s more likely to
+lead to resumption down.
+
+133
+00:08:12.928 --> 00:08:14.283
+And that’s true all the way down.
+
+134
+00:08:14.283 --> 00:08:16.021
+Every one of the reversal attempts,
+
+135
+00:08:16.021 --> 00:08:19.648
+I’m viewing as a bear flag,
+and I’m looking to sell.
+
+136
+00:08:22.734 --> 00:08:24.530
+Bulls finally got their bounce.
+
+137
+00:08:25.032 --> 00:08:28.155
+The bulls who have been buying all
+the way down finally made money,
+
+138
+00:08:28.155 --> 00:08:31.613
+but they lost money on all
+the other prior attempts.
+
+139
+00:08:31.613 --> 00:08:35.007
+And what they make here
+will probably not be enough...
+
+140
+00:08:35.007 --> 00:08:36.695
+..to offset their prior losses.
+
+141
+00:08:36.696 --> 00:08:39.553
+And even this is only a minor reversal.
+
+142
+00:08:39.554 --> 00:08:43.096
+When the channel is this tight, you
+might bounce for 10 or 20 bars,
+
+143
+00:08:43.096 --> 00:08:46.324
+but the odds are you’re going to
+come back down and test this low.
+
+144
+00:08:46.598 --> 00:08:49.506
+At that point you might
+get a major reversal,
+
+145
+00:08:49.507 --> 00:08:53.376
+but all these reversals, including
+this one, is probably minor.
+
+146
+00:08:55.796 --> 00:08:59.372
+Now, my 80% rule also
+applies to Trading Ranges.
+
+147
+00:09:00.418 --> 00:09:03.486
+In a trend, 80% of
+reversal attempts fail.
+
+148
+00:09:03.916 --> 00:09:09.498
+In a Trading Range, 80% of attempts
+to break out into a trend will fail.
+
+149
+00:09:11.840 --> 00:09:15.060
+So we tried to go to a new
+high but reversed down.
+
+150
+00:09:15.061 --> 00:09:16.668
+A new low, reversed up.
+
+151
+00:09:16.668 --> 00:09:17.938
+New low, reversed up.
+
+152
+00:09:17.938 --> 00:09:19.399
+New high, reversed down.
+
+153
+00:09:19.399 --> 00:09:21.121
+New low, reversed up.
+
+154
+00:09:21.121 --> 00:09:22.841
+New high, reversed down.
+
+155
+00:09:24.487 --> 00:09:27.675
+If you see a market having a lot
+of Trading Range price action,
+
+156
+00:09:27.676 --> 00:09:30.409
+don’t get excited when it
+breaks to the downside.
+
+157
+00:09:31.269 --> 00:09:34.896
+You have to assume the
+downside breakout will fail.
+
+158
+00:09:34.897 --> 00:09:37.457
+And don’t get excited when
+it breaks to the upside.
+
+159
+00:09:37.881 --> 00:09:40.598
+Even when it’s breaking strongly
+to the upside like this,
+
+160
+00:09:40.598 --> 00:09:44.924
+the odds are that it will fail,
+at least pull back a little.
+
+161
+00:09:44.924 --> 00:09:47.007
+Here it pulled back all
+the way to a new low.
+
+162
+00:09:51.210 --> 00:09:53.276
+Trading is difficult to do.
+
+163
+00:09:53.276 --> 00:09:55.549
+I’ve been trading for 30 years,
+and it’s still difficult,
+
+164
+00:09:55.549 --> 00:09:59.170
+but I enjoy doing it and I’m
+very peaceful when I do it.
+
+165
+00:09:59.402 --> 00:10:03.009
+When traders start out, they quickly
+learn that they lose money.
+
+166
+00:10:03.009 --> 00:10:08.157
+No matter how hard they try to trade
+really well, no matter how much...
+
+167
+00:10:08.157 --> 00:10:11.005
+..they know about candlestick
+patterns, they’re losing money.
+
+168
+00:10:11.005 --> 00:10:12.848
+So they realize they’re
+missing something.
+
+169
+00:10:13.354 --> 00:10:14.826
+For example, here.
+
+170
+00:10:15.052 --> 00:10:18.070
+A sell, a sell, but the
+market keeps going up.
+
+171
+00:10:20.166 --> 00:10:23.030
+What they’re missing is
+understanding context.
+
+172
+00:10:23.031 --> 00:10:25.974
+Context means all of
+the bars to the left.
+
+173
+00:10:25.975 --> 00:10:29.761
+And what the market has been
+doing prior to the current bar
+
+174
+00:10:29.761 --> 00:10:33.718
+is far more important than what
+the current bar looks like.
+
+175
+00:10:34.649 --> 00:10:37.295
+Candlestick patterns alone are useless.
+
+176
+00:10:37.295 --> 00:10:39.988
+If anything, when you’re
+starting out, you’ll lose money...
+
+177
+00:10:39.988 --> 00:10:45.132
+..because you’ll constantly be
+betting that trends will reverse
+
+178
+00:10:45.133 --> 00:10:49.360
+and you’ll constantly be betting
+that Trading Ranges will break out –
+
+179
+00:10:49.361 --> 00:10:52.144
+and 80% of the time, you’re wrong.
+
+180
+00:10:52.442 --> 00:10:56.386
+You’re taking 20% best, and
+it’s virtually impossible...
+
+181
+00:10:56.386 --> 00:10:59.392
+..to be making money if you
+win only 20% of the time.
+
+182
+00:11:02.059 --> 00:11:05.807
+After traders lose enough money,
+they start to look for help.
+
+183
+00:11:05.807 --> 00:11:07.986
+They’re desperate to
+believe in anything.
+
+184
+00:11:07.986 --> 00:11:11.566
+And there are lots of
+well-intentioned people out there...
+
+185
+00:11:11.566 --> 00:11:15.094
+..who want to help you, but a
+lot of them are dishonest,
+
+186
+00:11:15.095 --> 00:11:19.798
+and a lot of them teach you that
+knowing candlestick patterns...
+
+187
+00:11:19.799 --> 00:11:23.476
+..is the only road to making
+a fortune as a trader.
+
+188
+00:11:24.018 --> 00:11:25.702
+And that’s simply not the case.
+
+189
+00:11:25.703 --> 00:11:27.506
+Here, big bull reversal bar.
+
+190
+00:11:27.506 --> 00:11:29.193
+Buy? No, you don’t buy.
+
+191
+00:11:29.194 --> 00:11:30.562
+It’s following 3 bear bars.
+
+192
+00:11:30.562 --> 00:11:31.734
+Look to the left.
+
+193
+00:11:31.734 --> 00:11:34.986
+The market’s going down, so if
+anything, you’re looking to sell.
+
+194
+00:11:37.274 --> 00:11:41.084
+So if candlesticks are not the
+answer, then what is price action?
+
+195
+00:11:41.368 --> 00:11:43.333
+Listen to the traders on television,
+
+196
+00:11:43.333 --> 00:11:45.612
+expert traders, traders
+who trade for a living.
+
+197
+00:11:46.087 --> 00:11:47.230
+Listen to what they say.
+
+198
+00:11:47.230 --> 00:11:49.148
+They tell you every
+day what’s important,
+
+199
+00:11:49.149 --> 00:11:52.443
+and they virtually never
+mention a candlestick pattern.
+
+200
+00:11:54.048 --> 00:11:56.643
+So what do traders talk about?
+If they’re not talking...
+
+201
+00:11:56.643 --> 00:11:59.754
+..about all these candlestick patterns
+that you see on the Internet,
+
+202
+00:11:59.755 --> 00:12:02.446
+what are they talking about?
+How are they making money?
+
+203
+00:12:04.878 --> 00:12:09.482
+One of the most important things that they
+talk about is support and resistance.
+
+204
+00:12:09.764 --> 00:12:11.827
+And that comes in many forms.
+
+205
+00:12:12.133 --> 00:12:13.490
+Moving Averages.
+
+206
+00:12:13.490 --> 00:12:14.606
+Channels.
+
+207
+00:12:15.194 --> 00:12:17.974
+Here’s the average price, right?
+They’re interested to see...
+
+208
+00:12:17.980 --> 00:12:20.383
+..how the market reacts
+to the average price.
+
+209
+00:12:20.383 --> 00:12:23.832
+So we’re falling down strongly,
+and when it gets back...
+
+210
+00:12:23.832 --> 00:12:26.616
+..to the average price,
+that’s probably expensive.
+
+211
+00:12:26.616 --> 00:12:28.059
+Traders will look to sell.
+
+212
+00:12:28.570 --> 00:12:30.622
+It becomes resistance.
+
+213
+00:12:30.974 --> 00:12:32.840
+Here, we’re rallying strongly.
+
+214
+00:12:32.841 --> 00:12:35.083
+When it gets down near
+the average price...
+
+215
+00:12:35.083 --> 00:12:38.431
+..over the past 20 bars, 100
+bars, it reverses up.
+
+216
+00:12:38.633 --> 00:12:39.733
+Support.
+
+217
+00:12:39.733 --> 00:12:41.191
+And they also look at channels.
+
+218
+00:12:41.191 --> 00:12:46.720
+Here’s a bear channel after a bull
+breakout, so it’s probably a bull flag.
+
+219
+00:12:48.118 --> 00:12:51.620
+Traders also spend a lot of time
+looking at prior highs and lows.
+
+220
+00:12:52.876 --> 00:12:55.402
+The market rallied to
+this point and sold off.
+
+221
+00:12:55.944 --> 00:13:01.453
+It broke strongly above it, came down
+near that point, and it’s now support.
+
+222
+00:13:01.453 --> 00:13:02.831
+It rallied again.
+
+223
+00:13:02.831 --> 00:13:05.604
+It broke below it, tried to
+get above it again, failed.
+
+224
+00:13:05.604 --> 00:13:07.533
+Tried to get above it again, failed.
+
+225
+00:13:07.534 --> 00:13:13.061
+That high was resistance, and then
+support, and then resistance again.
+
+226
+00:13:13.061 --> 00:13:15.832
+This low, the market broke
+strongly low below it.
+
+227
+00:13:15.832 --> 00:13:17.622
+It tested it, could not get above it.
+
+228
+00:13:17.622 --> 00:13:18.616
+There was resistance.
+
+229
+00:13:18.616 --> 00:13:20.612
+Tried to get above it
+again, resistance.
+
+230
+00:13:20.612 --> 00:13:22.781
+Tried to get above it
+again, resistance.
+
+231
+00:13:25.326 --> 00:13:30.065
+Another thing that traders always
+talk about is how strong a trend is.
+
+232
+00:13:30.338 --> 00:13:35.481
+For example, if the market’s in a bull
+trend, you want to see Higher Lows.
+
+233
+00:13:36.112 --> 00:13:38.088
+You want to see Higher Highs.
+
+234
+00:13:38.088 --> 00:13:43.979
+And if you see that, traders are more
+inclined to buy – buy for any reason.
+
+235
+00:13:44.661 --> 00:13:50.286
+In a bear trend, they look at Lower
+Highs and they want to see Lower Lows.
+
+236
+00:13:50.300 --> 00:13:52.323
+And if the market is going
+down, they’re more inclined...
+
+237
+00:13:52.323 --> 00:13:55.089
+..to sell until there’s
+a clear reversal up.
+
+238
+00:13:55.089 --> 00:13:58.617
+Here, a bear trend,
+strong bull breakout.
+
+239
+00:13:58.618 --> 00:14:02.761
+Higher Low, big enough pattern
+for a Major Trend Reversal,
+
+240
+00:14:02.762 --> 00:14:04.704
+and it reversed into a bull trend.
+
+241
+00:14:09.199 --> 00:14:11.201
+Bear channel, bear trend.
+
+242
+00:14:11.201 --> 00:14:13.331
+Bull channel, bull trend.
+
+243
+00:14:17.186 --> 00:14:21.829
+There are two forces that are very
+important, and they control all markets.
+
+244
+00:14:21.829 --> 00:14:24.104
+First of all there’s
+context, and momentum.
+
+245
+00:14:25.378 --> 00:14:29.278
+Remember I said that context
+means all the bars to the left.
+
+246
+00:14:29.279 --> 00:14:32.873
+Where is the support and resistance?
+I talk about this...
+
+247
+00:14:32.873 --> 00:14:35.761
+..in a separate video on
+support and resistance.
+
+248
+00:14:38.019 --> 00:14:42.985
+For example, we’re falling here, and
+if you draw a line across these tops,
+
+249
+00:14:42.999 --> 00:14:46.088
+you’ll see that every time it
+gets near the line, it falls.
+
+250
+00:14:46.088 --> 00:14:49.110
+Even if it gets above the line, it
+falls – above the line, it falls.
+
+251
+00:14:50.050 --> 00:14:53.653
+And prior highs and lows are important.
+
+252
+00:14:53.653 --> 00:14:56.064
+We’re in a bear trend;
+you’re looking to sell.
+
+253
+00:14:56.064 --> 00:15:00.084
+Selling pullbacks is a good thing to
+do, so if it gets near a trend line...
+
+254
+00:15:00.084 --> 00:15:02.898
+..and reverses down, that’s
+a good thing to sell.
+
+255
+00:15:02.898 --> 00:15:04.552
+Near the trend line, reverses down.
+
+256
+00:15:04.552 --> 00:15:09.833
+Near the trend line, place a stop order
+to go short just below the prior bar.
+
+257
+00:15:10.943 --> 00:15:12.185
+Then look at this.
+
+258
+00:15:12.541 --> 00:15:15.447
+Every time it gets near the
+prior low, it goes up.
+
+259
+00:15:15.948 --> 00:15:18.177
+So there’s support at prior lows.
+
+260
+00:15:18.689 --> 00:15:21.091
+Traders will look to buy reversals up.
+
+261
+00:15:21.389 --> 00:15:25.281
+When the market makes a new
+low, they’ll place a stop order...
+
+262
+00:15:25.282 --> 00:15:26.963
+..to buy above the high of the prior bar.
+
+263
+00:15:26.964 --> 00:15:29.268
+These little green boxes
+are where they get in.
+
+264
+00:15:35.764 --> 00:15:43.142
+Traders who look to sell at resistance
+and buy at support are value investors.
+
+265
+00:15:43.638 --> 00:15:47.514
+They want to buy when it’s cheap
+and sell when it’s expensive.
+
+266
+00:15:50.514 --> 00:15:52.328
+Now, I said there were two things.
+
+267
+00:15:52.328 --> 00:15:54.278
+I said context and momentum.
+
+268
+00:15:55.682 --> 00:15:58.111
+Momentum refers to the
+strength of the trend.
+
+269
+00:15:58.111 --> 00:16:02.853
+The video on breakouts talks
+a lot more about momentum.
+
+270
+00:16:03.142 --> 00:16:04.165
+Now look at this.
+
+271
+00:16:04.165 --> 00:16:07.672
+We’re falling pretty strongly here,
+rallying pretty strongly here.
+
+272
+00:16:10.606 --> 00:16:15.217
+When momentum is strong, traders want to
+trade in the direction of the momentum.
+
+273
+00:16:15.217 --> 00:16:18.677
+So if it’s falling strongly,
+traders should be looking to sell.
+
+274
+00:16:18.678 --> 00:16:22.933
+You can sell even the close of this
+bar, betting that any reversal up...
+
+275
+00:16:22.934 --> 00:16:27.704
+..will probably stay below that high
+and be followed by lower prices.
+
+276
+00:16:28.193 --> 00:16:29.452
+And the same is true here.
+
+277
+00:16:29.452 --> 00:16:30.952
+You could buy the close of this bar,
+
+278
+00:16:30.953 --> 00:16:33.699
+knowing that there’ll be at
+least a little bit more up.
+
+279
+00:16:33.700 --> 00:16:37.350
+And here, it pulled back
+but held above the bottom...
+
+280
+00:16:37.350 --> 00:16:39.732
+..of the bull trend, and it
+starts to turn up again.
+
+281
+00:16:39.732 --> 00:16:42.181
+So traders will buy on
+the reversal back up.
+
+282
+00:16:44.464 --> 00:16:46.822
+So they’ll buy the
+breakout or the pullback.
+
+283
+00:16:46.823 --> 00:16:49.823
+Here, they’ll sell the
+breakout or the pullback.
+
+284
+00:16:49.824 --> 00:16:51.206
+They don’t sell simply here.
+
+285
+00:16:51.206 --> 00:16:52.635
+They sold all the way down.
+
+286
+00:16:52.635 --> 00:16:55.811
+You could even sell at the
+worst price and make money.
+
+287
+00:16:55.812 --> 00:16:57.125
+The same with here.
+
+288
+00:16:57.125 --> 00:16:59.224
+Traders don’t all buy that close.
+
+289
+00:16:59.224 --> 00:17:01.595
+A lot of them bought
+all the way up here.
+
+290
+00:17:01.595 --> 00:17:04.491
+That’s why we got this strong
+breakout; everybody’s buying.
+
+291
+00:17:08.019 --> 00:17:08.883
+Look at here.
+
+292
+00:17:09.352 --> 00:17:10.781
+The market’s losing momentum.
+
+293
+00:17:10.781 --> 00:17:13.509
+We have a couple bear bars, but they’re
+small, followed by a bull bar.
+
+294
+00:17:13.509 --> 00:17:14.803
+A bear bar with a tail.
+
+295
+00:17:14.803 --> 00:17:17.673
+A small bear bar followed
+by a bull reversal bar.
+
+296
+00:17:19.266 --> 00:17:21.452
+The momentum down is getting weak.
+
+297
+00:17:21.452 --> 00:17:23.777
+Compare that to this.
+
+298
+00:17:24.972 --> 00:17:26.693
+Traders are buying every low.
+
+299
+00:17:26.976 --> 00:17:29.867
+Bulls are making money
+buying every low,
+
+300
+00:17:29.867 --> 00:17:32.413
+betting that the trend will
+not fall that much further.
+
+301
+00:17:32.931 --> 00:17:39.067
+The market is transitioning from a strong
+bear trend into a weak bear trend,
+
+302
+00:17:39.067 --> 00:17:41.391
+and then possibly a Trading Range
+Double Bottom)...
+
+303
+00:17:41.391 --> 00:17:44.125
+..and then possibly even a bull trend.
+
+304
+00:17:44.652 --> 00:17:49.652
+So the momentum is weakening and traders
+start looking for reversal trades.
+
+305
+00:17:50.584 --> 00:17:52.593
+For example, buy the reversal up.
+
+306
+00:17:52.593 --> 00:17:56.245
+We have a Double Bottom, maybe a
+slightly Lower Low Major Trend Reversal.
+
+307
+00:17:56.631 --> 00:17:59.982
+We have a bear trend, strong
+bull breakout above the top...
+
+308
+00:17:59.982 --> 00:18:04.366
+..of the bear channel, and then
+a test of the bear trend low
+
+309
+00:18:04.366 --> 00:18:07.790
+and a reversal up, and a second
+and a third reversal up.
+
+310
+00:18:08.527 --> 00:18:12.103
+So that is a reasonable
+reversal trade to take.
+
+311
+00:18:14.130 --> 00:18:17.875
+I pay a lot of attention to
+early signs of strength.
+
+312
+00:18:18.113 --> 00:18:21.042
+So we’re in a bear
+trend, but look at this.
+
+313
+00:18:21.042 --> 00:18:24.204
+We have 4 consecutive
+bull bars, 2 of them...
+
+314
+00:18:24.204 --> 00:18:27.815
+..with very big bull bodies, all
+4 closing near their highs.
+
+315
+00:18:28.183 --> 00:18:32.856
+Bear trend, yes, but we have
+a sudden burst of buying.
+
+316
+00:18:32.856 --> 00:18:36.009
+And, that’s a lot of strength
+on the part of the bulls,
+
+317
+00:18:36.009 --> 00:18:38.331
+and they refer to that
+as Buying Pressure.
+
+318
+00:18:38.627 --> 00:18:41.241
+So I pay attention to Buying Pressure.
+
+319
+00:18:41.242 --> 00:18:45.552
+Here, here, we sold off strongly
+but it reversed up strongly.
+
+320
+00:18:46.439 --> 00:18:48.622
+The market is becoming more bullish.
+
+321
+00:18:48.622 --> 00:18:50.468
+We’re getting a lot of Buying Pressure.
+
+322
+00:18:51.494 --> 00:18:53.431
+And on the way down,
+I look at Selling Pressure.
+
+323
+00:18:53.431 --> 00:18:55.277
+We have a lot of bars down.
+
+324
+00:18:55.278 --> 00:18:59.938
+Every bar, the high is below the high
+of the prior bar; the low is below...
+
+325
+00:18:59.938 --> 00:19:03.565
+..the low of the prior bar, so we’re
+trending down pretty strongly.
+
+326
+00:19:03.565 --> 00:19:08.116
+Odds are selling for any reason, we’ll
+get at least a little bit more down.
+
+327
+00:19:10.189 --> 00:19:13.199
+Traders also pay attention to
+the strength of the trend.
+
+328
+00:19:13.199 --> 00:19:16.771
+I told you that in addition
+to risk and reward,
+
+329
+00:19:16.771 --> 00:19:18.941
+they need to pay attention
+to probability.
+
+330
+00:19:18.942 --> 00:19:21.945
+And a very important thing
+is trade management.
+
+331
+00:19:21.946 --> 00:19:25.149
+Once they take a trade, they
+have to manage it correctly.
+
+332
+00:19:28.299 --> 00:19:33.827
+To make money as a trader, candlestick
+patterns that’s not the answer.
+
+333
+00:19:34.101 --> 00:19:36.647
+They’re basically totally unnecessary.
+
+334
+00:19:36.648 --> 00:19:40.906
+They can be a useful small
+piece of the big picture,
+
+335
+00:19:40.906 --> 00:19:42.495
+but they’re really not important.
+
+336
+00:19:42.495 --> 00:19:45.576
+A lot of institutions
+trade off line charts.
+
+337
+00:19:45.903 --> 00:19:47.607
+They don’t care about the
+candlestick patterns.
+
+338
+00:19:47.607 --> 00:19:50.639
+They know that the direction of the
+trend, the strength of the trend,
+
+339
+00:19:50.639 --> 00:19:54.250
+support and resistance are far more
+important than candlestick patterns.
+
+340
+00:19:55.395 --> 00:19:59.417
+So if you look at this line
+chart, are you thinking...
+
+341
+00:19:59.417 --> 00:20:02.035
+..that a candlestick pattern
+would make it more bullish?
+
+342
+00:20:02.035 --> 00:20:04.064
+Or are you saying “Wow, this
+is going up really fast.
+
+343
+00:20:04.064 --> 00:20:06.850
+Higher Lows, Higher Highs
+– I’ve got to buy”?
+
+344
+00:20:07.708 --> 00:20:10.661
+A candlestick pattern is not going
+to make it any more bullish.
+
+345
+00:20:10.661 --> 00:20:12.538
+When you see this, you’ve got to buy,
+
+346
+00:20:12.538 --> 00:20:14.846
+and the candlestick pattern
+will not help you.
+
+347
+00:20:18.205 --> 00:20:20.725
+Now, I want to say a few
+things about indicators.
+
+348
+00:20:21.846 --> 00:20:24.850
+When I first started
+trading, all the magazines...
+
+349
+00:20:24.850 --> 00:20:26.628
+..had pictures that looked like this.
+
+350
+00:20:27.123 --> 00:20:31.309
+They tried to stuff as many
+indicators onto the chart as possible...
+
+351
+00:20:31.310 --> 00:20:34.152
+..to lead you to believe that
+if you buy their software...
+
+352
+00:20:34.152 --> 00:20:37.051
+..that can create all of these
+indicators, you’re going to get rich.
+
+353
+00:20:37.051 --> 00:20:41.041
+You’ll have some big advantages
+that will allow you to make money.
+
+354
+00:20:42.565 --> 00:20:44.897
+Does all of this stuff really help?
+
+355
+00:20:45.274 --> 00:20:48.958
+If one indicator is good,
+is two, three, four better?
+
+356
+00:20:48.958 --> 00:20:50.784
+Having 10, is that better?
+
+357
+00:20:53.083 --> 00:20:54.430
+The answer is no.
+
+358
+00:20:54.430 --> 00:20:57.021
+In fact, you can barely see the chart
+
+359
+00:20:57.021 --> 00:20:59.349
+with all of these indicators
+all over the chart.
+
+360
+00:20:59.349 --> 00:21:03.172
+Your eye is going to get
+focused onto the indicators...
+
+361
+00:21:03.630 --> 00:21:05.982
+..and you will not be paying
+attention to the chart.
+
+362
+00:21:07.209 --> 00:21:09.925
+Here’s the same chart with
+the indicators removed.
+
+363
+00:21:09.926 --> 00:21:11.641
+I can see what’s going on.
+
+364
+00:21:11.641 --> 00:21:13.447
+The bulls are trying to break out.
+
+365
+00:21:13.447 --> 00:21:15.321
+We have a big reversal bar.
+
+366
+00:21:15.321 --> 00:21:17.477
+We’re probably going
+to continue back down.
+
+367
+00:21:17.478 --> 00:21:19.741
+A Trading Range breakout
+probably will fail.
+
+368
+00:21:21.339 --> 00:21:22.282
+I’m looking to sell.
+
+369
+00:21:22.845 --> 00:21:26.619
+Three pushes down, a Trading Range
+breakout below – I’m looking to buy.
+
+370
+00:21:31.236 --> 00:21:34.465
+A Triangle, breakout,
+small Triangle inside...
+
+371
+00:21:34.465 --> 00:21:37.264
+..of a bigger Triangle –
+I’m probably going to sell.
+
+372
+00:21:39.794 --> 00:21:42.532
+Strong bear trend, a bull reversal,
+
+373
+00:21:42.532 --> 00:21:44.830
+probably going to fail
+– I’m looking to sell.
+
+374
+00:21:45.374 --> 00:21:48.687
+A minor reversal, possible Final Flag,
+
+375
+00:21:48.688 --> 00:21:51.905
+decent buy reversal bar
+– I’ll look to buy.
+
+376
+00:21:54.410 --> 00:21:58.482
+50% pullback from the selloff, I’m
+going to start looking to sell.
+
+377
+00:21:58.885 --> 00:22:00.874
+Ok, we’ve got a second entry short,
+
+378
+00:22:00.874 --> 00:22:04.068
+we have a small Double Top
+here, I’m looking to sell.
+
+379
+00:22:06.925 --> 00:22:09.468
+Small Triangle, failed bull breakout.
+
+380
+00:22:09.799 --> 00:22:12.701
+I’m going to bet that will continue
+down at least for a little bit more.
+
+381
+00:22:12.701 --> 00:22:13.850
+I’m looking to sell.
+
+382
+00:22:14.662 --> 00:22:17.287
+Higher Low Major Trend Reversal.
+
+383
+00:22:17.288 --> 00:22:21.131
+Bear trend, bull breakout, Higher
+Low, but selloff not all that strong.
+
+384
+00:22:21.131 --> 00:22:25.263
+Two legs down – one, pullback,
+two – I’m going to look to buy.
+
+385
+00:22:25.263 --> 00:22:27.764
+And the indicators don’t
+show me any of that.
+
+386
+00:22:28.541 --> 00:22:33.691
+So for me, I personally prefer just to
+look at the charts and try to understand...
+
+387
+00:22:33.691 --> 00:22:38.169
+..what the market is doing, and then
+I place trades based upon the price action.
+
+388
+00:22:38.169 --> 00:22:42.019
+To me, I don’t like indicators because
+I get stressed out constantly looking...
+
+389
+00:22:42.019 --> 00:22:47.445
+..for reversals in trends and constantly
+looking for breakouts in Trading Ranges.
+
+390
+00:22:47.445 --> 00:22:50.129
+And it’s the exact opposite
+of what I should be doing.
+
+391
+00:22:51.527 --> 00:22:53.418
+This is a common thing that you see.
+
+392
+00:22:53.419 --> 00:22:58.709
+Ok, look at this low and
+this low in the indicator.
+
+393
+00:22:58.709 --> 00:23:02.381
+So we’ve got a low, we have a
+Higher Low, we have a Higher Low.
+
+394
+00:23:02.381 --> 00:23:04.945
+This is a divergence, this
+is a double divergence.
+
+395
+00:23:05.514 --> 00:23:07.462
+And the websites will
+tell you, “Ah, you’ve got...
+
+396
+00:23:07.462 --> 00:23:10.060
+..a double divergence,
+you’ve got to look to buy.
+
+397
+00:23:11.474 --> 00:23:17.904
+Right? Here we’ve got lower prices and
+then we have a higher oscillator.
+
+398
+00:23:17.904 --> 00:23:19.255
+You have to buy.”
+
+399
+00:23:19.255 --> 00:23:21.186
+No. Look at the bars.
+
+400
+00:23:21.930 --> 00:23:27.146
+You’re in a really Tight Bear Channel
+with virtually no significant pullback.
+
+401
+00:23:27.146 --> 00:23:29.529
+It’s far easier to make money selling.
+
+402
+00:23:29.530 --> 00:23:33.166
+So even though we’ve got a divergence
+– here’s another divergence –
+
+403
+00:23:34.570 --> 00:23:37.696
+price is going down,
+indicator is going up.
+
+404
+00:23:37.696 --> 00:23:38.622
+Higher Lows.
+
+405
+00:23:39.134 --> 00:23:42.576
+It’s crazy, right?
+That’s the single biggest problem...
+
+406
+00:23:42.576 --> 00:23:44.388
+..with indicators for beginners.
+
+407
+00:23:44.389 --> 00:23:47.806
+They look at the indicator or patterns.
+
+408
+00:23:47.807 --> 00:23:49.108
+“Oh, a diversion.
+
+409
+00:23:49.108 --> 00:23:51.516
+I’ve got to buy.”
+They don’t look at the chart.
+
+410
+00:23:52.078 --> 00:23:54.727
+When the market’s in a
+Small Pullback Bear Trend,
+
+411
+00:23:54.727 --> 00:23:57.374
+you can only make money
+selling, not buying.
+
+412
+00:24:00.892 --> 00:24:04.912
+So indicators, it’s an excuse to
+avoid thinking about the obvious.
+
+413
+00:24:04.912 --> 00:24:10.891
+So buying in a strong bear trend – yes,
+it can work and you can make a fortune.
+
+414
+00:24:10.892 --> 00:24:13.062
+But, so the risk/reward is great.
+
+415
+00:24:13.062 --> 00:24:15.826
+You buy here, your risk is here.
+
+416
+00:24:15.827 --> 00:24:17.520
+Very little money at risk.
+
+417
+00:24:17.520 --> 00:24:20.585
+We could go up forever,
+so your reward is huge.
+
+418
+00:24:20.586 --> 00:24:25.840
+However, what is the probability?
+The probability is extremely low.
+
+419
+00:24:25.841 --> 00:24:28.458
+So you need much more than risk/reward.
+
+420
+00:24:28.459 --> 00:24:30.465
+One of the unfortunate
+things on television...
+
+421
+00:24:30.465 --> 00:24:33.901
+..is traders constantly talk
+about risk and reward.
+
+422
+00:24:33.901 --> 00:24:38.319
+They never talk about probability, but
+that’s the flipside of risk/reward.
+
+423
+00:24:38.320 --> 00:24:41.979
+Whenever a trade has
+excellent risk/reward...
+
+424
+00:24:41.979 --> 00:24:47.195
+..(in other words, small risk, great reward)
+it also has very little probability.
+
+425
+00:24:47.195 --> 00:24:51.168
+Because there has to be a reason for
+an institution to take the other side.
+
+426
+00:24:51.168 --> 00:24:55.977
+So if you get great risk/reward,
+guess what? The institution taking...
+
+427
+00:24:55.977 --> 00:24:58.637
+..the other side of your trade
+has high probability.
+
+428
+00:24:58.638 --> 00:25:00.577
+He’s probably going to make money.
+
+429
+00:25:00.577 --> 00:25:02.837
+Every now and then you’ll
+make a lot of money,
+
+430
+00:25:03.657 --> 00:25:05.913
+but most of the time
+you’re going to lose.
+
+431
+00:25:05.914 --> 00:25:08.211
+So you keep getting these small losses.
+
+432
+00:25:08.212 --> 00:25:10.001
+Your indicators are telling you to buy.
+
+433
+00:25:10.001 --> 00:25:11.759
+Buy, buy, buy. Buy, buy, buy.
+
+434
+00:25:11.759 --> 00:25:12.668
+You buy, you lose.
+
+435
+00:25:12.668 --> 00:25:13.495
+You buy, you lose.
+
+436
+00:25:13.495 --> 00:25:14.781
+You buy, you lose.
+
+437
+00:25:15.094 --> 00:25:17.885
+And you’re not losing much –
+remember, your risk is small –
+
+438
+00:25:17.885 --> 00:25:21.428
+however, you can bleed to death
+from a thousand papercuts.
+
+439
+00:25:21.429 --> 00:25:24.024
+Those small losses add up.
+
+440
+00:25:27.220 --> 00:25:28.608
+You have to be patient.
+
+441
+00:25:28.609 --> 00:25:29.819
+There’s a lot to learn.
+
+442
+00:25:29.819 --> 00:25:32.257
+That’s why there are so
+many videos in this course.
+
+443
+00:25:32.258 --> 00:25:33.851
+I’m trying to teach you everything...
+
+444
+00:25:33.851 --> 00:25:37.189
+..that you need to know to
+be a successful trader.
+
+445
+00:25:37.690 --> 00:25:39.546
+And there are no shortcuts.
+
+446
+00:25:39.546 --> 00:25:41.567
+Indicators are not a shortcut.
+
+447
+00:25:41.862 --> 00:25:44.397
+Candlestick patterns are not a shortcut.
+
+448
+00:25:44.398 --> 00:25:48.243
+And trading is never going to be easy
+because you’re competing against...
+
+449
+00:25:48.243 --> 00:25:52.714
+..extremely smart, hardworking people
+who have been doing this for years,
+
+450
+00:25:52.714 --> 00:25:54.854
+and they don’t want
+to give you a penny.
+
+451
+00:25:54.855 --> 00:25:57.767
+They want to take every penny that
+they can get – and that’s their job.
+
+452
+00:25:57.767 --> 00:25:58.622
+That’s what they should do.
+
+453
+00:25:58.622 --> 00:26:01.162
+That’s my job, and that’s
+what I try to do every day.
+
+454
+00:26:01.688 --> 00:26:05.722
+But even though it’s hard, I
+really enjoy the challenge.
+
+455
+00:26:07.508 --> 00:26:10.864
+Well, what type of chart?
+Look at this chart.
+
+456
+00:26:10.864 --> 00:26:12.516
+Ok, this is the euro versus the yen.
+
+457
+00:26:12.516 --> 00:26:14.009
+It’s a monthly chart.
+
+458
+00:26:14.809 --> 00:26:18.039
+When you look at it, if you
+didn’t look at the time axis,
+
+459
+00:26:18.039 --> 00:26:20.321
+you would say maybe
+it’s a 5-minute chart,
+
+460
+00:26:20.321 --> 00:26:22.725
+maybe it’s a 1-minute chart,
+maybe it’s a 60-minute chart.
+
+461
+00:26:22.725 --> 00:26:23.984
+It’s a monthly chart.
+
+462
+00:26:24.494 --> 00:26:29.453
+And the point I’m trying to make is some
+traders do not want to trade intraday.
+
+463
+00:26:29.453 --> 00:26:32.965
+And they’ll trade daily charts or
+weekly charts or monthly charts.
+
+464
+00:26:32.966 --> 00:26:35.495
+It doesn’t matter; the
+process is still the same.
+
+465
+00:26:35.495 --> 00:26:37.009
+The market’s going up.
+
+466
+00:26:37.009 --> 00:26:40.431
+Traders are looking to buy pullbacks,
+or they’ll even buy breakouts.
+
+467
+00:26:40.431 --> 00:26:44.249
+If we’re trying to top,
+traders will start to sell.
+
+468
+00:26:44.795 --> 00:26:46.489
+This process is the same.
+
+469
+00:26:46.489 --> 00:26:48.757
+It doesn’t matter what
+the timeframe is.
+
+470
+00:26:48.757 --> 00:26:50.323
+All markets are fractal.
+
+471
+00:26:50.882 --> 00:26:53.746
+Bigger patterns are made
+up of smaller patterns;
+
+472
+00:26:53.746 --> 00:26:56.490
+smaller patterns are parts
+of bigger patterns.
+
+473
+00:26:56.490 --> 00:26:57.930
+It’s all the same thing.
+
+474
+00:27:02.945 --> 00:27:06.907
+If you do trade a monthly
+chart, the bars are very big,
+
+475
+00:27:06.908 --> 00:27:09.239
+so the stop is very far away.
+
+476
+00:27:09.240 --> 00:27:13.302
+You have to trade very small to make
+sure that the risk on your trade...
+
+477
+00:27:13.302 --> 00:27:15.799
+..is no bigger than the
+risk on any other trade.
+
+478
+00:27:19.694 --> 00:27:22.170
+In this video I talked about
+candlestick patterns...
+
+479
+00:27:22.170 --> 00:27:25.005
+..and how they are not
+particularly helpful.
+
+480
+00:27:25.006 --> 00:27:29.222
+I also discussed what
+professional traders talk about.
+
+481
+00:27:29.222 --> 00:27:33.244
+And as I said, they talk much more
+about support and resistance,
+
+482
+00:27:33.245 --> 00:27:37.480
+and momentum and strength of trends than
+they do about candlestick patterns.
+
+483
+00:27:37.480 --> 00:27:40.056
+They virtually never talk
+about candlestick patterns.
+
+484
+00:27:40.057 --> 00:27:43.509
+And I also talked about indicators
+and how it’s very easy...
+
+485
+00:27:43.509 --> 00:27:45.555
+..to get overly dependent on them.
+
+486
+00:27:45.556 --> 00:27:47.739
+And if you use them, you’ll find...
+
+487
+00:27:47.739 --> 00:27:50.619
+..that they probably don’t
+help you make any money.
+
+488
+00:27:50.620 --> 00:27:53.523
+I don’t have a problem with
+somebody using indicators...
+
+489
+00:27:53.523 --> 00:27:56.290
+..if they’re making money
+and if they’re happy.
+
+490
+00:27:56.756 --> 00:28:01.082
+But if you’re not making money and
+if you’re stressed out using them,
+
+491
+00:28:01.082 --> 00:28:03.762
+then I would get rid of them
+and just look at the charts.
+
+492
+00:28:04.168 --> 00:28:07.692
+And if you look on television,
+you rarely ever see...
+
+493
+00:28:07.692 --> 00:28:09.544
+..anybody putting an indicator up.
+
+494
+00:28:09.545 --> 00:28:13.666
+And that’s because most professional
+traders don’t pay attention to them.
+
+495
+00:28:13.667 --> 00:28:15.939
+They pay attention to the price action.
+
+496
+00:28:19.773 --> 00:28:21.167
+I’m Al Brooks.
+
+497
+00:28:21.167 --> 00:28:23.251
+Thank you for watching the
+Brooks Trading Course.
+
+498
+00:28:23.251 --> 00:28:27.673
+This is the final video on
+chart basics and price action.

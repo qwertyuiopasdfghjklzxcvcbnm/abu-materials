@@ -1,0 +1,68 @@
+{
+  "course": "2D",
+  "video": "E:\\涂山量化\\01_数据源\\价格行为\\阿布视频\\2D\\2D.mp4",
+  "video_info": {
+    "width": 1920,
+    "height": 1080,
+    "seconds": 1711.33
+  },
+  "en_subtitle": "E:\\涂山量化\\01_数据源\\价格行为\\阿布视频\\2D\\2D-en.srt",
+  "cn_subtitle": "E:\\涂山量化\\01_数据源\\价格行为\\阿布视频\\2D\\2D-ch.srt",
+  "subtitle_coverage": {
+    "english": {
+      "available": true,
+      "cues": 498,
+      "start": 1.82,
+      "end": 1707.673,
+      "relative_end_pct": 99.79
+    },
+    "chinese": {
+      "available": true,
+      "cues": 498,
+      "start": 1.82,
+      "end": 1707.673,
+      "relative_end_pct": 99.79
+    }
+  },
+  "10fps_scan": {
+    "sampled": 17113,
+    "retained": 3229,
+    "discarded": 13884,
+    "retention_pct": 18.87,
+    "event_ledger": "E:\\涂山量化\\03_回测与研究\\国内期货\\P2701_阿布原课独立系统_20261017\\course_audit\\阿布_统一八步流程_v1\\2D\\all_10fps_detection_events.csv",
+    "seconds_sampled": 1711.3,
+    "detector": "8x6 tiles + global + chroma + adjacent + cumulative",
+    "scan_elapsed_s": 67.91
+  },
+  "hd_output": {
+    "extracted": 3229,
+    "original_resolution": [
+      1920,
+      1080
+    ],
+    "HD_elapsed_s": 176.44
+  },
+  "comparison_with_old": {
+    "status": "NO_OLD_MANIFEST"
+  },
+  "quality_checks": {
+    "subtitle_files_indexed": "DONE",
+    "subtitle_full_content_read_and_human_verified": "NOT_DONE",
+    "full_color_10fps_scan": "DONE",
+    "global_local_color_cumulative_event_ledger": "DONE",
+    "all_kept_frames_reextracted_native_resolution": "DONE",
+    "interactive_subtitle_synced_html": "DONE",
+    "human_semantic_review": "NOT_DONE",
+    "critical_example_original_clip_review": "NOT_DONE",
+    "course_mastery_acceptance": "NOT_DONE",
+    "original_video_dynamic_around_changes": "DONE_AUTOMATIC_PENDING_HUMAN_REVIEW"
+  },
+  "warning": "Full temporal scan + subtitle parser is not the same as full manual lecture comprehension.",
+  "dynamic_protection": {
+    "clip_count": 62,
+    "total_specified_seconds": 1104.93,
+    "source": "10FPS close-spaced retained changes; ±2 seconds and merge overlaps",
+    "human_viewed": false,
+    "protected_index": "动态回查索引.html"
+  }
+}

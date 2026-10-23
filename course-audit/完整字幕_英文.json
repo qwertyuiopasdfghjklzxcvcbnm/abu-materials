@@ -1,0 +1,3488 @@
+[
+  {
+    "start": 1.82,
+    "end": 3.072,
+    "text": "I’m Al Brooks.",
+    "language": "en",
+    "index": 1
+  },
+  {
+    "start": 3.072,
+    "end": 5.506,
+    "text": "Thank you for watching the Brooks Trading Course.",
+    "language": "en",
+    "index": 2
+  },
+  {
+    "start": 5.873,
+    "end": 11.245,
+    "text": "This is the final video on chart basics and price action.",
+    "language": "en",
+    "index": 3
+  },
+  {
+    "start": 14.915,
+    "end": 19.62,
+    "text": "I will be talking about candlestick patterns, I will talk about...",
+    "language": "en",
+    "index": 4
+  },
+  {
+    "start": 19.62,
+    "end": 24.892,
+    "text": "..what traders talk about, and finally I will talk some about indicators.",
+    "language": "en",
+    "index": 5
+  },
+  {
+    "start": 29.696,
+    "end": 33.954,
+    "text": "I think one of the unfortunate things that beginners see...",
+    "language": "en",
+    "index": 6
+  },
+  {
+    "start": 33.954,
+    "end": 39.126,
+    "text": "..when they start out is a collection of ads and claims on the Internet",
+    "language": "en",
+    "index": 7
+  },
+  {
+    "start": 39.126,
+    "end": 43.577,
+    "text": "and in books and magazines that make it sound like if you simply memorize...",
+    "language": "en",
+    "index": 8
+  },
+  {
+    "start": 43.577,
+    "end": 46.78,
+    "text": "..a handful of candlestick patterns, you’re going to get rich.",
+    "language": "en",
+    "index": 9
+  },
+  {
+    "start": 49.949,
+    "end": 53.921,
+    "text": "And it’s really deceiving, because there’s nothing easy in trading.",
+    "language": "en",
+    "index": 10
+  },
+  {
+    "start": 53.922,
+    "end": 57.744,
+    "text": "You’re competing against the smartest people in the world who are working...",
+    "language": "en",
+    "index": 11
+  },
+  {
+    "start": 57.744,
+    "end": 61.895,
+    "text": "..extremely hard, and they are not going to give up their money easily.",
+    "language": "en",
+    "index": 12
+  },
+  {
+    "start": 61.896,
+    "end": 66.927,
+    "text": "So if you see ads like this that tell you that you can make...",
+    "language": "en",
+    "index": 13
+  },
+  {
+    "start": 66.928,
+    "end": 71.058,
+    "text": "..an incredible amount of money with minimum work – where for example,",
+    "language": "en",
+    "index": 14
+  },
+  {
+    "start": 71.058,
+    "end": 77.044,
+    "text": "this one says you can turn $250 into $34,000 completely on autopilot.",
+    "language": "en",
+    "index": 15
+  },
+  {
+    "start": 78.078,
+    "end": 79.039,
+    "text": "It’s really tempting.",
+    "language": "en",
+    "index": 16
+  },
+  {
+    "start": 79.039,
+    "end": 81.488,
+    "text": "Everyone starting out is looking for protection.",
+    "language": "en",
+    "index": 17
+  },
+  {
+    "start": 81.488,
+    "end": 83.75,
+    "text": "They’re afraid of losing their money.",
+    "language": "en",
+    "index": 18
+  },
+  {
+    "start": 84.491,
+    "end": 86.887,
+    "text": "They’re looking for someone who’s going to take care of them.",
+    "language": "en",
+    "index": 19
+  },
+  {
+    "start": 86.887,
+    "end": 88.589,
+    "text": "But nobody’s going to take care of them.",
+    "language": "en",
+    "index": 20
+  },
+  {
+    "start": 88.59,
+    "end": 92.159,
+    "text": "They’re looking for some easy way to make money...",
+    "language": "en",
+    "index": 21
+  },
+  {
+    "start": 92.425,
+    "end": 95.862,
+    "text": "..that’s guaranteed to not lose money.",
+    "language": "en",
+    "index": 22
+  },
+  {
+    "start": 96.23,
+    "end": 100.414,
+    "text": "And all of the ads imply that all you have to do is memorize...",
+    "language": "en",
+    "index": 23
+  },
+  {
+    "start": 100.414,
+    "end": 103.73,
+    "text": "..a few candlestick patterns and they’ll work all the time,",
+    "language": "en",
+    "index": 24
+  },
+  {
+    "start": 103.73,
+    "end": 107.174,
+    "text": "or they’ll work 90% of the time, and you’ll soon be rich...",
+    "language": "en",
+    "index": 25
+  },
+  {
+    "start": 107.174,
+    "end": 110.044,
+    "text": "..like everybody else, like Warren Buffett.",
+    "language": "en",
+    "index": 26
+  },
+  {
+    "start": 110.044,
+    "end": 112.052,
+    "text": "But that’s not real, it’s just not real.",
+    "language": "en",
+    "index": 27
+  },
+  {
+    "start": 112.052,
+    "end": 113.38,
+    "text": "It’s misleading.",
+    "language": "en",
+    "index": 28
+  },
+  {
+    "start": 113.38,
+    "end": 116.69,
+    "text": "So whenever you see anything like this, just ignore it.",
+    "language": "en",
+    "index": 29
+  },
+  {
+    "start": 116.69,
+    "end": 118.185,
+    "text": "Move on to something else.",
+    "language": "en",
+    "index": 30
+  },
+  {
+    "start": 120.153,
+    "end": 124.458,
+    "text": "Now you correctly believe that there are institutions that make a lot of money.",
+    "language": "en",
+    "index": 31
+  },
+  {
+    "start": 124.458,
+    "end": 130.43,
+    "text": "There are high frequency trading firms (HFT firms), hedge funds, Goldman Sachs.",
+    "language": "en",
+    "index": 32
+  },
+  {
+    "start": 131.431,
+    "end": 133.867,
+    "text": "Most of the firms out there making a lot of money...",
+    "language": "en",
+    "index": 33
+  },
+  {
+    "start": 133.868,
+    "end": 136.87,
+    "text": "..are not making them based upon candlestick patterns.",
+    "language": "en",
+    "index": 34
+  },
+  {
+    "start": 137.638,
+    "end": 140.974,
+    "text": "And if candlestick patterns were the key to wealth,",
+    "language": "en",
+    "index": 35
+  },
+  {
+    "start": 140.975,
+    "end": 143.717,
+    "text": "everyone would be using them to make money.",
+    "language": "en",
+    "index": 36
+  },
+  {
+    "start": 143.717,
+    "end": 145.012,
+    "text": "But that’s not the reality.",
+    "language": "en",
+    "index": 37
+  },
+  {
+    "start": 147.08,
+    "end": 150.817,
+    "text": "Lots of successful day traders talk about their trades.",
+    "language": "en",
+    "index": 38
+  },
+  {
+    "start": 151.251,
+    "end": 155.322,
+    "text": "For example, if you watch Fast Money, the television show on CNBC,",
+    "language": "en",
+    "index": 39
+  },
+  {
+    "start": 155.323,
+    "end": 158.592,
+    "text": "you’ll listen to the traders talk constantly about trends,",
+    "language": "en",
+    "index": 40
+  },
+  {
+    "start": 158.592,
+    "end": 163.664,
+    "text": "channels, prior highs, prior lows, support and resistance.",
+    "language": "en",
+    "index": 41
+  },
+  {
+    "start": 163.664,
+    "end": 168.068,
+    "text": "And you’ll never hear them say anything about a particular candlestick pattern.",
+    "language": "en",
+    "index": 42
+  },
+  {
+    "start": 168.069,
+    "end": 170.904,
+    "text": "Like “Oh I sold because of a dark cloud cover...",
+    "language": "en",
+    "index": 43
+  },
+  {
+    "start": 170.905,
+    "end": 173.574,
+    "text": "..or shooting star or Harami pattern.”",
+    "language": "en",
+    "index": 44
+  },
+  {
+    "start": 174.207,
+    "end": 178.785,
+    "text": "They don’t talk about that because that is such a tiny part...",
+    "language": "en",
+    "index": 45
+  },
+  {
+    "start": 178.785,
+    "end": 182.249,
+    "text": "..of trading that it’s not going to make you any money.",
+    "language": "en",
+    "index": 46
+  },
+  {
+    "start": 182.25,
+    "end": 185.385,
+    "text": "You have to learn far more than that to be successful.",
+    "language": "en",
+    "index": 47
+  },
+  {
+    "start": 187.521,
+    "end": 188.449,
+    "text": "Now look at this.",
+    "language": "en",
+    "index": 48
+  },
+  {
+    "start": 188.449,
+    "end": 190.257,
+    "text": "Here’s a candlestick bottom.",
+    "language": "en",
+    "index": 49
+  },
+  {
+    "start": 191.158,
+    "end": 194.695,
+    "text": "The market’s going down, tries to bottom, tries to bottom again.",
+    "language": "en",
+    "index": 50
+  },
+  {
+    "start": 194.696,
+    "end": 198.198,
+    "text": "Can you make money from this candlestick pattern? Of course you can.",
+    "language": "en",
+    "index": 51
+  },
+  {
+    "start": 199.166,
+    "end": 201.515,
+    "text": "The way to do it is you don’t buy.",
+    "language": "en",
+    "index": 52
+  },
+  {
+    "start": 201.515,
+    "end": 202.903,
+    "text": "You wait for a few bars.",
+    "language": "en",
+    "index": 53
+  },
+  {
+    "start": 205.072,
+    "end": 208.975,
+    "text": "Then you sell where the bulls will get out.",
+    "language": "en",
+    "index": 54
+  },
+  {
+    "start": 209.669,
+    "end": 211.538,
+    "text": "The bulls are trying to buy a bottom.",
+    "language": "en",
+    "index": 55
+  },
+  {
+    "start": 211.538,
+    "end": 215.515,
+    "text": "Trends are resistant to change; they’re probably going to continue.",
+    "language": "en",
+    "index": 56
+  },
+  {
+    "start": 216.249,
+    "end": 219.686,
+    "text": "The bulls who buy here are going to get trapped and lose money,",
+    "language": "en",
+    "index": 57
+  },
+  {
+    "start": 219.687,
+    "end": 222.469,
+    "text": "so rather than buy here, look to sell...",
+    "language": "en",
+    "index": 58
+  },
+  {
+    "start": 222.469,
+    "end": 224.758,
+    "text": "..where they’ll get out, where they’ll get stopped out.",
+    "language": "en",
+    "index": 59
+  },
+  {
+    "start": 224.759,
+    "end": 228.904,
+    "text": "So yes, you can make money trading a candlestick pattern doing the opposite...",
+    "language": "en",
+    "index": 60
+  },
+  {
+    "start": 228.904,
+    "end": 233.667,
+    "text": "..of what conventional candlestick pattern teaches you to do.",
+    "language": "en",
+    "index": 61
+  },
+  {
+    "start": 235.936,
+    "end": 236.87,
+    "text": "Look at this.",
+    "language": "en",
+    "index": 62
+  },
+  {
+    "start": 236.87,
+    "end": 239.973,
+    "text": "Here we have a bearish engulfing top on the daily chart.",
+    "language": "en",
+    "index": 63
+  },
+  {
+    "start": 240.18,
+    "end": 245.005,
+    "text": "The textbooks would tell you, “Ah, this bar traded above the high...",
+    "language": "en",
+    "index": 64
+  },
+  {
+    "start": 245.005,
+    "end": 247.267,
+    "text": "..of that bar and then it closed on its low,",
+    "language": "en",
+    "index": 65
+  },
+  {
+    "start": 247.267,
+    "end": 252.519,
+    "text": "and it’s a big bear bar closing on its low – it’s a short. It’s a short.”",
+    "language": "en",
+    "index": 66
+  },
+  {
+    "start": 253.62,
+    "end": 255.896,
+    "text": "Well, the risk is not all that great.",
+    "language": "en",
+    "index": 67
+  },
+  {
+    "start": 255.896,
+    "end": 256.657,
+    "text": "It’s to this point.",
+    "language": "en",
+    "index": 68
+  },
+  {
+    "start": 256.657,
+    "end": 258.946,
+    "text": "The reward, maybe we come all the way down here.",
+    "language": "en",
+    "index": 69
+  },
+  {
+    "start": 258.946,
+    "end": 259.887,
+    "text": "That’s good too.",
+    "language": "en",
+    "index": 70
+  },
+  {
+    "start": 259.887,
+    "end": 261.595,
+    "text": "So, great risk/reward.",
+    "language": "en",
+    "index": 71
+  },
+  {
+    "start": 261.962,
+    "end": 268.068,
+    "text": "However, what about probability? 80% of reversal attempts fail.",
+    "language": "en",
+    "index": 72
+  },
+  {
+    "start": 268.468,
+    "end": 272.246,
+    "text": "So this failed, this failed, this failed, this failed, this failed.",
+    "language": "en",
+    "index": 73
+  },
+  {
+    "start": 272.246,
+    "end": 273.173,
+    "text": "Failed.",
+    "language": "en",
+    "index": 74
+  },
+  {
+    "start": 273.874,
+    "end": 278.345,
+    "text": "This one looks better than the others, but is it going to succeed?",
+    "language": "en",
+    "index": 75
+  },
+  {
+    "start": 280.133,
+    "end": 283.049,
+    "text": "No. Whenever you see a top, you have to expect...",
+    "language": "en",
+    "index": 76
+  },
+  {
+    "start": 283.049,
+    "end": 286.053,
+    "text": "..that the top will fail and become a bull flag.",
+    "language": "en",
+    "index": 77
+  },
+  {
+    "start": 286.9,
+    "end": 289.189,
+    "text": "Don’t be too quick to sell a top.",
+    "language": "en",
+    "index": 78
+  },
+  {
+    "start": 289.189,
+    "end": 294.561,
+    "text": "Instead, you have a better chance of making money if you wait a few bars",
+    "language": "en",
+    "index": 79
+  },
+  {
+    "start": 294.561,
+    "end": 299.666,
+    "text": "for the top to fail and become a bull flag and then buy as the trend resumes up.",
+    "language": "en",
+    "index": 80
+  },
+  {
+    "start": 301.735,
+    "end": 302.636,
+    "text": "Look at this.",
+    "language": "en",
+    "index": 81
+  },
+  {
+    "start": 302.636,
+    "end": 305.272,
+    "text": "Here we have a bullish engulfing bar.",
+    "language": "en",
+    "index": 82
+  },
+  {
+    "start": 305.273,
+    "end": 307.541,
+    "text": "It traded below the lows of all of these bars...",
+    "language": "en",
+    "index": 83
+  },
+  {
+    "start": 307.541,
+    "end": 310.243,
+    "text": "..and then reversed up strongly and closed on its high.",
+    "language": "en",
+    "index": 84
+  },
+  {
+    "start": 310.677,
+    "end": 312.479,
+    "text": "But you need context.",
+    "language": "en",
+    "index": 85
+  },
+  {
+    "start": 313.213,
+    "end": 316.616,
+    "text": "Context means you have to look at all the bars to the left,",
+    "language": "en",
+    "index": 86
+  },
+  {
+    "start": 316.617,
+    "end": 318.385,
+    "text": "and they have to support your trade.",
+    "language": "en",
+    "index": 87
+  },
+  {
+    "start": 319.82,
+    "end": 321.454,
+    "text": "Now look at these bars to the left.",
+    "language": "en",
+    "index": 88
+  },
+  {
+    "start": 321.848,
+    "end": 327.394,
+    "text": "A very Tight Bear Channel with very little in terms of pullbacks along the way.",
+    "language": "en",
+    "index": 89
+  },
+  {
+    "start": 328.028,
+    "end": 331.818,
+    "text": "What is the probability that the first reversal up is going...",
+    "language": "en",
+    "index": 90
+  },
+  {
+    "start": 331.818,
+    "end": 335.502,
+    "text": "..to lead to a bull trend? The probability is very low,",
+    "language": "en",
+    "index": 91
+  },
+  {
+    "start": 335.503,
+    "end": 338.505,
+    "text": "yet you have a great-looking candlestick pattern.",
+    "language": "en",
+    "index": 92
+  },
+  {
+    "start": 338.805,
+    "end": 341.975,
+    "text": "But the candlestick pattern alone is not enough.",
+    "language": "en",
+    "index": 93
+  },
+  {
+    "start": 341.975,
+    "end": 347.874,
+    "text": "It has to be in a context that makes sense, and this does not make sense.",
+    "language": "en",
+    "index": 94
+  },
+  {
+    "start": 347.874,
+    "end": 349.649,
+    "text": "This is a low probability trade.",
+    "language": "en",
+    "index": 95
+  },
+  {
+    "start": 350.584,
+    "end": 355.222,
+    "text": "So what do you do? Well, you know the candlestick guys are buying,",
+    "language": "en",
+    "index": 96
+  },
+  {
+    "start": 355.223,
+    "end": 359.399,
+    "text": "betting on the trend reversal, but the smart guys are saying...",
+    "language": "en",
+    "index": 97
+  },
+  {
+    "start": 359.399,
+    "end": 363.563,
+    "text": "..“Ah, this is a pullback in a bear trend, and therefore it’ll fail...",
+    "language": "en",
+    "index": 98
+  },
+  {
+    "start": 363.563,
+    "end": 368.134,
+    "text": "..and become a bear flag.” What they do is they don’t buy here;",
+    "language": "en",
+    "index": 99
+  },
+  {
+    "start": 368.134,
+    "end": 371.705,
+    "text": "they place a sell stop to go short below the bear bar that followed it,",
+    "language": "en",
+    "index": 100
+  },
+  {
+    "start": 372.773,
+    "end": 376.71,
+    "text": "betting that, like most reversals, this one will fail...",
+    "language": "en",
+    "index": 101
+  },
+  {
+    "start": 376.71,
+    "end": 378.812,
+    "text": "..and the bear trend will continue.",
+    "language": "en",
+    "index": 102
+  },
+  {
+    "start": 384.151,
+    "end": 386.353,
+    "text": "Markets have inertia.",
+    "language": "en",
+    "index": 103
+  },
+  {
+    "start": 386.354,
+    "end": 391.738,
+    "text": "That means they are resistant to change, and there’s an 80% chance...",
+    "language": "en",
+    "index": 104
+  },
+  {
+    "start": 391.738,
+    "end": 394.961,
+    "text": "..that they’ll continue doing what they have been doing.",
+    "language": "en",
+    "index": 105
+  },
+  {
+    "start": 395.214,
+    "end": 399.646,
+    "text": "So for example, if you want to know what the bars to the right look like,",
+    "language": "en",
+    "index": 106
+  },
+  {
+    "start": 399.646,
+    "end": 402.529,
+    "text": "the ones that you don’t see yet, look to the left.",
+    "language": "en",
+    "index": 107
+  },
+  {
+    "start": 402.529,
+    "end": 406.039,
+    "text": "If we’re in a bear trend, chances are we’re going to continue in a bear trend.",
+    "language": "en",
+    "index": 108
+  },
+  {
+    "start": 407.641,
+    "end": 411.011,
+    "text": "If we’re in a Trading Range, chances are we’ll continue in a Trading Range.",
+    "language": "en",
+    "index": 109
+  },
+  {
+    "start": 411.011,
+    "end": 414.347,
+    "text": "There’s much more to a bottom than simply a candlestick pattern.",
+    "language": "en",
+    "index": 110
+  },
+  {
+    "start": 415.715,
+    "end": 421.188,
+    "text": "So if you’re in a bear trend, you make more money expecting reversals to fail.",
+    "language": "en",
+    "index": 111
+  },
+  {
+    "start": 421.189,
+    "end": 424.758,
+    "text": "Y’know we had lots of reversals here – here, here, here.",
+    "language": "en",
+    "index": 112
+  },
+  {
+    "start": 425.659,
+    "end": 430.463,
+    "text": "We tried to reverse here and here, here – most reversals are going to fail.",
+    "language": "en",
+    "index": 113
+  },
+  {
+    "start": 432.799,
+    "end": 435.202,
+    "text": "Every one of those reversals is minor.",
+    "language": "en",
+    "index": 114
+  },
+  {
+    "start": 435.203,
+    "end": 437.704,
+    "text": "They are not Major Trend Reversals.",
+    "language": "en",
+    "index": 115
+  },
+  {
+    "start": 437.704,
+    "end": 441.541,
+    "text": "They are not going to change a bear trend into a bull trend.",
+    "language": "en",
+    "index": 116
+  },
+  {
+    "start": 441.542,
+    "end": 444.811,
+    "text": "They’re going to change a bear trend into a bear flag,",
+    "language": "en",
+    "index": 117
+  },
+  {
+    "start": 444.812,
+    "end": 449.249,
+    "text": "and then the bear flag will lead to a resumption of the bear trend.",
+    "language": "en",
+    "index": 118
+  },
+  {
+    "start": 452.066,
+    "end": 454.636,
+    "text": "My 80% rule, inertia.",
+    "language": "en",
+    "index": 119
+  },
+  {
+    "start": 455.408,
+    "end": 459.546,
+    "text": "When the market’s in a trend, 80% of reversal attempts will fail.",
+    "language": "en",
+    "index": 120
+  },
+  {
+    "start": 460.538,
+    "end": 463.677,
+    "text": "They’re minor reversals and they become bear flags,",
+    "language": "en",
+    "index": 121
+  },
+  {
+    "start": 463.677,
+    "end": 466.494,
+    "text": "and they lead to resumption of the trend down.",
+    "language": "en",
+    "index": 122
+  },
+  {
+    "start": 466.495,
+    "end": 468.937,
+    "text": "So for example, here we’re trying to reverse up.",
+    "language": "en",
+    "index": 123
+  },
+  {
+    "start": 468.937,
+    "end": 470.385,
+    "text": "We have a small Double Bottom.",
+    "language": "en",
+    "index": 124
+  },
+  {
+    "start": 470.906,
+    "end": 473.012,
+    "text": "Am I going to buy that bar? No.",
+    "language": "en",
+    "index": 125
+  },
+  {
+    "start": 473.013,
+    "end": 476.241,
+    "text": "If anything, I’m going to place a limit order to sell the high of the bar.",
+    "language": "en",
+    "index": 126
+  },
+  {
+    "start": 476.241,
+    "end": 477.14,
+    "text": "Same here.",
+    "language": "en",
+    "index": 127
+  },
+  {
+    "start": 477.704,
+    "end": 479.565,
+    "text": "Here’s a bull bar closing on its high.",
+    "language": "en",
+    "index": 128
+  },
+  {
+    "start": 479.565,
+    "end": 481.833,
+    "text": "Am I going to buy that close? No.",
+    "language": "en",
+    "index": 129
+  },
+  {
+    "start": 481.833,
+    "end": 485.732,
+    "text": "If anything, I’m going to place a market order to sell as soon as I see...",
+    "language": "en",
+    "index": 130
+  },
+  {
+    "start": 485.732,
+    "end": 489.662,
+    "text": "..that big bull bar attempting to reverse up, because I know the math...",
+    "language": "en",
+    "index": 131
+  },
+  {
+    "start": 489.662,
+    "end": 492.927,
+    "text": "..is it’s more likely to lead to resumption down.",
+    "language": "en",
+    "index": 132
+  },
+  {
+    "start": 492.928,
+    "end": 494.283,
+    "text": "And that’s true all the way down.",
+    "language": "en",
+    "index": 133
+  },
+  {
+    "start": 494.283,
+    "end": 496.021,
+    "text": "Every one of the reversal attempts,",
+    "language": "en",
+    "index": 134
+  },
+  {
+    "start": 496.021,
+    "end": 499.648,
+    "text": "I’m viewing as a bear flag, and I’m looking to sell.",
+    "language": "en",
+    "index": 135
+  },
+  {
+    "start": 502.734,
+    "end": 504.53,
+    "text": "Bulls finally got their bounce.",
+    "language": "en",
+    "index": 136
+  },
+  {
+    "start": 505.032,
+    "end": 508.155,
+    "text": "The bulls who have been buying all the way down finally made money,",
+    "language": "en",
+    "index": 137
+  },
+  {
+    "start": 508.155,
+    "end": 511.613,
+    "text": "but they lost money on all the other prior attempts.",
+    "language": "en",
+    "index": 138
+  },
+  {
+    "start": 511.613,
+    "end": 515.007,
+    "text": "And what they make here will probably not be enough...",
+    "language": "en",
+    "index": 139
+  },
+  {
+    "start": 515.007,
+    "end": 516.695,
+    "text": "..to offset their prior losses.",
+    "language": "en",
+    "index": 140
+  },
+  {
+    "start": 516.696,
+    "end": 519.553,
+    "text": "And even this is only a minor reversal.",
+    "language": "en",
+    "index": 141
+  },
+  {
+    "start": 519.554,
+    "end": 523.096,
+    "text": "When the channel is this tight, you might bounce for 10 or 20 bars,",
+    "language": "en",
+    "index": 142
+  },
+  {
+    "start": 523.096,
+    "end": 526.324,
+    "text": "but the odds are you’re going to come back down and test this low.",
+    "language": "en",
+    "index": 143
+  },
+  {
+    "start": 526.598,
+    "end": 529.506,
+    "text": "At that point you might get a major reversal,",
+    "language": "en",
+    "index": 144
+  },
+  {
+    "start": 529.507,
+    "end": 533.376,
+    "text": "but all these reversals, including this one, is probably minor.",
+    "language": "en",
+    "index": 145
+  },
+  {
+    "start": 535.796,
+    "end": 539.372,
+    "text": "Now, my 80% rule also applies to Trading Ranges.",
+    "language": "en",
+    "index": 146
+  },
+  {
+    "start": 540.418,
+    "end": 543.486,
+    "text": "In a trend, 80% of reversal attempts fail.",
+    "language": "en",
+    "index": 147
+  },
+  {
+    "start": 543.916,
+    "end": 549.498,
+    "text": "In a Trading Range, 80% of attempts to break out into a trend will fail.",
+    "language": "en",
+    "index": 148
+  },
+  {
+    "start": 551.84,
+    "end": 555.06,
+    "text": "So we tried to go to a new high but reversed down.",
+    "language": "en",
+    "index": 149
+  },
+  {
+    "start": 555.061,
+    "end": 556.668,
+    "text": "A new low, reversed up.",
+    "language": "en",
+    "index": 150
+  },
+  {
+    "start": 556.668,
+    "end": 557.938,
+    "text": "New low, reversed up.",
+    "language": "en",
+    "index": 151
+  },
+  {
+    "start": 557.938,
+    "end": 559.399,
+    "text": "New high, reversed down.",
+    "language": "en",
+    "index": 152
+  },
+  {
+    "start": 559.399,
+    "end": 561.121,
+    "text": "New low, reversed up.",
+    "language": "en",
+    "index": 153
+  },
+  {
+    "start": 561.121,
+    "end": 562.841,
+    "text": "New high, reversed down.",
+    "language": "en",
+    "index": 154
+  },
+  {
+    "start": 564.487,
+    "end": 567.675,
+    "text": "If you see a market having a lot of Trading Range price action,",
+    "language": "en",
+    "index": 155
+  },
+  {
+    "start": 567.676,
+    "end": 570.409,
+    "text": "don’t get excited when it breaks to the downside.",
+    "language": "en",
+    "index": 156
+  },
+  {
+    "start": 571.269,
+    "end": 574.896,
+    "text": "You have to assume the downside breakout will fail.",
+    "language": "en",
+    "index": 157
+  },
+  {
+    "start": 574.897,
+    "end": 577.457,
+    "text": "And don’t get excited when it breaks to the upside.",
+    "language": "en",
+    "index": 158
+  },
+  {
+    "start": 577.881,
+    "end": 580.598,
+    "text": "Even when it’s breaking strongly to the upside like this,",
+    "language": "en",
+    "index": 159
+  },
+  {
+    "start": 580.598,
+    "end": 584.924,
+    "text": "the odds are that it will fail, at least pull back a little.",
+    "language": "en",
+    "index": 160
+  },
+  {
+    "start": 584.924,
+    "end": 587.007,
+    "text": "Here it pulled back all the way to a new low.",
+    "language": "en",
+    "index": 161
+  },
+  {
+    "start": 591.21,
+    "end": 593.276,
+    "text": "Trading is difficult to do.",
+    "language": "en",
+    "index": 162
+  },
+  {
+    "start": 593.276,
+    "end": 595.549,
+    "text": "I’ve been trading for 30 years, and it’s still difficult,",
+    "language": "en",
+    "index": 163
+  },
+  {
+    "start": 595.549,
+    "end": 599.17,
+    "text": "but I enjoy doing it and I’m very peaceful when I do it.",
+    "language": "en",
+    "index": 164
+  },
+  {
+    "start": 599.402,
+    "end": 603.009,
+    "text": "When traders start out, they quickly learn that they lose money.",
+    "language": "en",
+    "index": 165
+  },
+  {
+    "start": 603.009,
+    "end": 608.157,
+    "text": "No matter how hard they try to trade really well, no matter how much...",
+    "language": "en",
+    "index": 166
+  },
+  {
+    "start": 608.157,
+    "end": 611.005,
+    "text": "..they know about candlestick patterns, they’re losing money.",
+    "language": "en",
+    "index": 167
+  },
+  {
+    "start": 611.005,
+    "end": 612.848,
+    "text": "So they realize they’re missing something.",
+    "language": "en",
+    "index": 168
+  },
+  {
+    "start": 613.354,
+    "end": 614.826,
+    "text": "For example, here.",
+    "language": "en",
+    "index": 169
+  },
+  {
+    "start": 615.052,
+    "end": 618.07,
+    "text": "A sell, a sell, but the market keeps going up.",
+    "language": "en",
+    "index": 170
+  },
+  {
+    "start": 620.166,
+    "end": 623.03,
+    "text": "What they’re missing is understanding context.",
+    "language": "en",
+    "index": 171
+  },
+  {
+    "start": 623.031,
+    "end": 625.974,
+    "text": "Context means all of the bars to the left.",
+    "language": "en",
+    "index": 172
+  },
+  {
+    "start": 625.975,
+    "end": 629.761,
+    "text": "And what the market has been doing prior to the current bar",
+    "language": "en",
+    "index": 173
+  },
+  {
+    "start": 629.761,
+    "end": 633.718,
+    "text": "is far more important than what the current bar looks like.",
+    "language": "en",
+    "index": 174
+  },
+  {
+    "start": 634.649,
+    "end": 637.295,
+    "text": "Candlestick patterns alone are useless.",
+    "language": "en",
+    "index": 175
+  },
+  {
+    "start": 637.295,
+    "end": 639.988,
+    "text": "If anything, when you’re starting out, you’ll lose money...",
+    "language": "en",
+    "index": 176
+  },
+  {
+    "start": 639.988,
+    "end": 645.132,
+    "text": "..because you’ll constantly be betting that trends will reverse",
+    "language": "en",
+    "index": 177
+  },
+  {
+    "start": 645.133,
+    "end": 649.36,
+    "text": "and you’ll constantly be betting that Trading Ranges will break out –",
+    "language": "en",
+    "index": 178
+  },
+  {
+    "start": 649.361,
+    "end": 652.144,
+    "text": "and 80% of the time, you’re wrong.",
+    "language": "en",
+    "index": 179
+  },
+  {
+    "start": 652.442,
+    "end": 656.386,
+    "text": "You’re taking 20% best, and it’s virtually impossible...",
+    "language": "en",
+    "index": 180
+  },
+  {
+    "start": 656.386,
+    "end": 659.392,
+    "text": "..to be making money if you win only 20% of the time.",
+    "language": "en",
+    "index": 181
+  },
+  {
+    "start": 662.059,
+    "end": 665.807,
+    "text": "After traders lose enough money, they start to look for help.",
+    "language": "en",
+    "index": 182
+  },
+  {
+    "start": 665.807,
+    "end": 667.986,
+    "text": "They’re desperate to believe in anything.",
+    "language": "en",
+    "index": 183
+  },
+  {
+    "start": 667.986,
+    "end": 671.566,
+    "text": "And there are lots of well-intentioned people out there...",
+    "language": "en",
+    "index": 184
+  },
+  {
+    "start": 671.566,
+    "end": 675.094,
+    "text": "..who want to help you, but a lot of them are dishonest,",
+    "language": "en",
+    "index": 185
+  },
+  {
+    "start": 675.095,
+    "end": 679.798,
+    "text": "and a lot of them teach you that knowing candlestick patterns...",
+    "language": "en",
+    "index": 186
+  },
+  {
+    "start": 679.799,
+    "end": 683.476,
+    "text": "..is the only road to making a fortune as a trader.",
+    "language": "en",
+    "index": 187
+  },
+  {
+    "start": 684.018,
+    "end": 685.702,
+    "text": "And that’s simply not the case.",
+    "language": "en",
+    "index": 188
+  },
+  {
+    "start": 685.703,
+    "end": 687.506,
+    "text": "Here, big bull reversal bar.",
+    "language": "en",
+    "index": 189
+  },
+  {
+    "start": 687.506,
+    "end": 689.193,
+    "text": "Buy? No, you don’t buy.",
+    "language": "en",
+    "index": 190
+  },
+  {
+    "start": 689.194,
+    "end": 690.562,
+    "text": "It’s following 3 bear bars.",
+    "language": "en",
+    "index": 191
+  },
+  {
+    "start": 690.562,
+    "end": 691.734,
+    "text": "Look to the left.",
+    "language": "en",
+    "index": 192
+  },
+  {
+    "start": 691.734,
+    "end": 694.986,
+    "text": "The market’s going down, so if anything, you’re looking to sell.",
+    "language": "en",
+    "index": 193
+  },
+  {
+    "start": 697.274,
+    "end": 701.084,
+    "text": "So if candlesticks are not the answer, then what is price action?",
+    "language": "en",
+    "index": 194
+  },
+  {
+    "start": 701.368,
+    "end": 703.333,
+    "text": "Listen to the traders on television,",
+    "language": "en",
+    "index": 195
+  },
+  {
+    "start": 703.333,
+    "end": 705.612,
+    "text": "expert traders, traders who trade for a living.",
+    "language": "en",
+    "index": 196
+  },
+  {
+    "start": 706.087,
+    "end": 707.23,
+    "text": "Listen to what they say.",
+    "language": "en",
+    "index": 197
+  },
+  {
+    "start": 707.23,
+    "end": 709.148,
+    "text": "They tell you every day what’s important,",
+    "language": "en",
+    "index": 198
+  },
+  {
+    "start": 709.149,
+    "end": 712.443,
+    "text": "and they virtually never mention a candlestick pattern.",
+    "language": "en",
+    "index": 199
+  },
+  {
+    "start": 714.048,
+    "end": 716.643,
+    "text": "So what do traders talk about? If they’re not talking...",
+    "language": "en",
+    "index": 200
+  },
+  {
+    "start": 716.643,
+    "end": 719.754,
+    "text": "..about all these candlestick patterns that you see on the Internet,",
+    "language": "en",
+    "index": 201
+  },
+  {
+    "start": 719.755,
+    "end": 722.446,
+    "text": "what are they talking about? How are they making money?",
+    "language": "en",
+    "index": 202
+  },
+  {
+    "start": 724.878,
+    "end": 729.482,
+    "text": "One of the most important things that they talk about is support and resistance.",
+    "language": "en",
+    "index": 203
+  },
+  {
+    "start": 729.764,
+    "end": 731.827,
+    "text": "And that comes in many forms.",
+    "language": "en",
+    "index": 204
+  },
+  {
+    "start": 732.133,
+    "end": 733.49,
+    "text": "Moving Averages.",
+    "language": "en",
+    "index": 205
+  },
+  {
+    "start": 733.49,
+    "end": 734.606,
+    "text": "Channels.",
+    "language": "en",
+    "index": 206
+  },
+  {
+    "start": 735.194,
+    "end": 737.974,
+    "text": "Here’s the average price, right? They’re interested to see...",
+    "language": "en",
+    "index": 207
+  },
+  {
+    "start": 737.98,
+    "end": 740.383,
+    "text": "..how the market reacts to the average price.",
+    "language": "en",
+    "index": 208
+  },
+  {
+    "start": 740.383,
+    "end": 743.832,
+    "text": "So we’re falling down strongly, and when it gets back...",
+    "language": "en",
+    "index": 209
+  },
+  {
+    "start": 743.832,
+    "end": 746.616,
+    "text": "..to the average price, that’s probably expensive.",
+    "language": "en",
+    "index": 210
+  },
+  {
+    "start": 746.616,
+    "end": 748.059,
+    "text": "Traders will look to sell.",
+    "language": "en",
+    "index": 211
+  },
+  {
+    "start": 748.57,
+    "end": 750.622,
+    "text": "It becomes resistance.",
+    "language": "en",
+    "index": 212
+  },
+  {
+    "start": 750.974,
+    "end": 752.84,
+    "text": "Here, we’re rallying strongly.",
+    "language": "en",
+    "index": 213
+  },
+  {
+    "start": 752.841,
+    "end": 755.083,
+    "text": "When it gets down near the average price...",
+    "language": "en",
+    "index": 214
+  },
+  {
+    "start": 755.083,
+    "end": 758.431,
+    "text": "..over the past 20 bars, 100 bars, it reverses up.",
+    "language": "en",
+    "index": 215
+  },
+  {
+    "start": 758.633,
+    "end": 759.733,
+    "text": "Support.",
+    "language": "en",
+    "index": 216
+  },
+  {
+    "start": 759.733,
+    "end": 761.191,
+    "text": "And they also look at channels.",
+    "language": "en",
+    "index": 217
+  },
+  {
+    "start": 761.191,
+    "end": 766.72,
+    "text": "Here’s a bear channel after a bull breakout, so it’s probably a bull flag.",
+    "language": "en",
+    "index": 218
+  },
+  {
+    "start": 768.118,
+    "end": 771.62,
+    "text": "Traders also spend a lot of time looking at prior highs and lows.",
+    "language": "en",
+    "index": 219
+  },
+  {
+    "start": 772.876,
+    "end": 775.402,
+    "text": "The market rallied to this point and sold off.",
+    "language": "en",
+    "index": 220
+  },
+  {
+    "start": 775.944,
+    "end": 781.453,
+    "text": "It broke strongly above it, came down near that point, and it’s now support.",
+    "language": "en",
+    "index": 221
+  },
+  {
+    "start": 781.453,
+    "end": 782.831,
+    "text": "It rallied again.",
+    "language": "en",
+    "index": 222
+  },
+  {
+    "start": 782.831,
+    "end": 785.604,
+    "text": "It broke below it, tried to get above it again, failed.",
+    "language": "en",
+    "index": 223
+  },
+  {
+    "start": 785.604,
+    "end": 787.533,
+    "text": "Tried to get above it again, failed.",
+    "language": "en",
+    "index": 224
+  },
+  {
+    "start": 787.534,
+    "end": 793.061,
+    "text": "That high was resistance, and then support, and then resistance again.",
+    "language": "en",
+    "index": 225
+  },
+  {
+    "start": 793.061,
+    "end": 795.832,
+    "text": "This low, the market broke strongly low below it.",
+    "language": "en",
+    "index": 226
+  },
+  {
+    "start": 795.832,
+    "end": 797.622,
+    "text": "It tested it, could not get above it.",
+    "language": "en",
+    "index": 227
+  },
+  {
+    "start": 797.622,
+    "end": 798.616,
+    "text": "There was resistance.",
+    "language": "en",
+    "index": 228
+  },
+  {
+    "start": 798.616,
+    "end": 800.612,
+    "text": "Tried to get above it again, resistance.",
+    "language": "en",
+    "index": 229
+  },
+  {
+    "start": 800.612,
+    "end": 802.781,
+    "text": "Tried to get above it again, resistance.",
+    "language": "en",
+    "index": 230
+  },
+  {
+    "start": 805.326,
+    "end": 810.065,
+    "text": "Another thing that traders always talk about is how strong a trend is.",
+    "language": "en",
+    "index": 231
+  },
+  {
+    "start": 810.338,
+    "end": 815.481,
+    "text": "For example, if the market’s in a bull trend, you want to see Higher Lows.",
+    "language": "en",
+    "index": 232
+  },
+  {
+    "start": 816.112,
+    "end": 818.088,
+    "text": "You want to see Higher Highs.",
+    "language": "en",
+    "index": 233
+  },
+  {
+    "start": 818.088,
+    "end": 823.979,
+    "text": "And if you see that, traders are more inclined to buy – buy for any reason.",
+    "language": "en",
+    "index": 234
+  },
+  {
+    "start": 824.661,
+    "end": 830.286,
+    "text": "In a bear trend, they look at Lower Highs and they want to see Lower Lows.",
+    "language": "en",
+    "index": 235
+  },
+  {
+    "start": 830.3,
+    "end": 832.323,
+    "text": "And if the market is going down, they’re more inclined...",
+    "language": "en",
+    "index": 236
+  },
+  {
+    "start": 832.323,
+    "end": 835.089,
+    "text": "..to sell until there’s a clear reversal up.",
+    "language": "en",
+    "index": 237
+  },
+  {
+    "start": 835.089,
+    "end": 838.617,
+    "text": "Here, a bear trend, strong bull breakout.",
+    "language": "en",
+    "index": 238
+  },
+  {
+    "start": 838.618,
+    "end": 842.761,
+    "text": "Higher Low, big enough pattern for a Major Trend Reversal,",
+    "language": "en",
+    "index": 239
+  },
+  {
+    "start": 842.762,
+    "end": 844.704,
+    "text": "and it reversed into a bull trend.",
+    "language": "en",
+    "index": 240
+  },
+  {
+    "start": 849.199,
+    "end": 851.201,
+    "text": "Bear channel, bear trend.",
+    "language": "en",
+    "index": 241
+  },
+  {
+    "start": 851.201,
+    "end": 853.331,
+    "text": "Bull channel, bull trend.",
+    "language": "en",
+    "index": 242
+  },
+  {
+    "start": 857.186,
+    "end": 861.829,
+    "text": "There are two forces that are very important, and they control all markets.",
+    "language": "en",
+    "index": 243
+  },
+  {
+    "start": 861.829,
+    "end": 864.104,
+    "text": "First of all there’s context, and momentum.",
+    "language": "en",
+    "index": 244
+  },
+  {
+    "start": 865.378,
+    "end": 869.278,
+    "text": "Remember I said that context means all the bars to the left.",
+    "language": "en",
+    "index": 245
+  },
+  {
+    "start": 869.279,
+    "end": 872.873,
+    "text": "Where is the support and resistance? I talk about this...",
+    "language": "en",
+    "index": 246
+  },
+  {
+    "start": 872.873,
+    "end": 875.761,
+    "text": "..in a separate video on support and resistance.",
+    "language": "en",
+    "index": 247
+  },
+  {
+    "start": 878.019,
+    "end": 882.985,
+    "text": "For example, we’re falling here, and if you draw a line across these tops,",
+    "language": "en",
+    "index": 248
+  },
+  {
+    "start": 882.999,
+    "end": 886.088,
+    "text": "you’ll see that every time it gets near the line, it falls.",
+    "language": "en",
+    "index": 249
+  },
+  {
+    "start": 886.088,
+    "end": 889.11,
+    "text": "Even if it gets above the line, it falls – above the line, it falls.",
+    "language": "en",
+    "index": 250
+  },
+  {
+    "start": 890.05,
+    "end": 893.653,
+    "text": "And prior highs and lows are important.",
+    "language": "en",
+    "index": 251
+  },
+  {
+    "start": 893.653,
+    "end": 896.064,
+    "text": "We’re in a bear trend; you’re looking to sell.",
+    "language": "en",
+    "index": 252
+  },
+  {
+    "start": 896.064,
+    "end": 900.084,
+    "text": "Selling pullbacks is a good thing to do, so if it gets near a trend line...",
+    "language": "en",
+    "index": 253
+  },
+  {
+    "start": 900.084,
+    "end": 902.898,
+    "text": "..and reverses down, that’s a good thing to sell.",
+    "language": "en",
+    "index": 254
+  },
+  {
+    "start": 902.898,
+    "end": 904.552,
+    "text": "Near the trend line, reverses down.",
+    "language": "en",
+    "index": 255
+  },
+  {
+    "start": 904.552,
+    "end": 909.833,
+    "text": "Near the trend line, place a stop order to go short just below the prior bar.",
+    "language": "en",
+    "index": 256
+  },
+  {
+    "start": 910.943,
+    "end": 912.185,
+    "text": "Then look at this.",
+    "language": "en",
+    "index": 257
+  },
+  {
+    "start": 912.541,
+    "end": 915.447,
+    "text": "Every time it gets near the prior low, it goes up.",
+    "language": "en",
+    "index": 258
+  },
+  {
+    "start": 915.948,
+    "end": 918.177,
+    "text": "So there’s support at prior lows.",
+    "language": "en",
+    "index": 259
+  },
+  {
+    "start": 918.689,
+    "end": 921.091,
+    "text": "Traders will look to buy reversals up.",
+    "language": "en",
+    "index": 260
+  },
+  {
+    "start": 921.389,
+    "end": 925.281,
+    "text": "When the market makes a new low, they’ll place a stop order...",
+    "language": "en",
+    "index": 261
+  },
+  {
+    "start": 925.282,
+    "end": 926.963,
+    "text": "..to buy above the high of the prior bar.",
+    "language": "en",
+    "index": 262
+  },
+  {
+    "start": 926.964,
+    "end": 929.268,
+    "text": "These little green boxes are where they get in.",
+    "language": "en",
+    "index": 263
+  },
+  {
+    "start": 935.764,
+    "end": 943.142,
+    "text": "Traders who look to sell at resistance and buy at support are value investors.",
+    "language": "en",
+    "index": 264
+  },
+  {
+    "start": 943.638,
+    "end": 947.514,
+    "text": "They want to buy when it’s cheap and sell when it’s expensive.",
+    "language": "en",
+    "index": 265
+  },
+  {
+    "start": 950.514,
+    "end": 952.328,
+    "text": "Now, I said there were two things.",
+    "language": "en",
+    "index": 266
+  },
+  {
+    "start": 952.328,
+    "end": 954.278,
+    "text": "I said context and momentum.",
+    "language": "en",
+    "index": 267
+  },
+  {
+    "start": 955.682,
+    "end": 958.111,
+    "text": "Momentum refers to the strength of the trend.",
+    "language": "en",
+    "index": 268
+  },
+  {
+    "start": 958.111,
+    "end": 962.853,
+    "text": "The video on breakouts talks a lot more about momentum.",
+    "language": "en",
+    "index": 269
+  },
+  {
+    "start": 963.142,
+    "end": 964.165,
+    "text": "Now look at this.",
+    "language": "en",
+    "index": 270
+  },
+  {
+    "start": 964.165,
+    "end": 967.672,
+    "text": "We’re falling pretty strongly here, rallying pretty strongly here.",
+    "language": "en",
+    "index": 271
+  },
+  {
+    "start": 970.606,
+    "end": 975.217,
+    "text": "When momentum is strong, traders want to trade in the direction of the momentum.",
+    "language": "en",
+    "index": 272
+  },
+  {
+    "start": 975.217,
+    "end": 978.677,
+    "text": "So if it’s falling strongly, traders should be looking to sell.",
+    "language": "en",
+    "index": 273
+  },
+  {
+    "start": 978.678,
+    "end": 982.933,
+    "text": "You can sell even the close of this bar, betting that any reversal up...",
+    "language": "en",
+    "index": 274
+  },
+  {
+    "start": 982.934,
+    "end": 987.704,
+    "text": "..will probably stay below that high and be followed by lower prices.",
+    "language": "en",
+    "index": 275
+  },
+  {
+    "start": 988.193,
+    "end": 989.452,
+    "text": "And the same is true here.",
+    "language": "en",
+    "index": 276
+  },
+  {
+    "start": 989.452,
+    "end": 990.952,
+    "text": "You could buy the close of this bar,",
+    "language": "en",
+    "index": 277
+  },
+  {
+    "start": 990.953,
+    "end": 993.699,
+    "text": "knowing that there’ll be at least a little bit more up.",
+    "language": "en",
+    "index": 278
+  },
+  {
+    "start": 993.7,
+    "end": 997.35,
+    "text": "And here, it pulled back but held above the bottom...",
+    "language": "en",
+    "index": 279
+  },
+  {
+    "start": 997.35,
+    "end": 999.732,
+    "text": "..of the bull trend, and it starts to turn up again.",
+    "language": "en",
+    "index": 280
+  },
+  {
+    "start": 999.732,
+    "end": 1002.181,
+    "text": "So traders will buy on the reversal back up.",
+    "language": "en",
+    "index": 281
+  },
+  {
+    "start": 1004.464,
+    "end": 1006.822,
+    "text": "So they’ll buy the breakout or the pullback.",
+    "language": "en",
+    "index": 282
+  },
+  {
+    "start": 1006.823,
+    "end": 1009.823,
+    "text": "Here, they’ll sell the breakout or the pullback.",
+    "language": "en",
+    "index": 283
+  },
+  {
+    "start": 1009.824,
+    "end": 1011.206,
+    "text": "They don’t sell simply here.",
+    "language": "en",
+    "index": 284
+  },
+  {
+    "start": 1011.206,
+    "end": 1012.635,
+    "text": "They sold all the way down.",
+    "language": "en",
+    "index": 285
+  },
+  {
+    "start": 1012.635,
+    "end": 1015.811,
+    "text": "You could even sell at the worst price and make money.",
+    "language": "en",
+    "index": 286
+  },
+  {
+    "start": 1015.812,
+    "end": 1017.125,
+    "text": "The same with here.",
+    "language": "en",
+    "index": 287
+  },
+  {
+    "start": 1017.125,
+    "end": 1019.224,
+    "text": "Traders don’t all buy that close.",
+    "language": "en",
+    "index": 288
+  },
+  {
+    "start": 1019.224,
+    "end": 1021.595,
+    "text": "A lot of them bought all the way up here.",
+    "language": "en",
+    "index": 289
+  },
+  {
+    "start": 1021.595,
+    "end": 1024.491,
+    "text": "That’s why we got this strong breakout; everybody’s buying.",
+    "language": "en",
+    "index": 290
+  },
+  {
+    "start": 1028.019,
+    "end": 1028.883,
+    "text": "Look at here.",
+    "language": "en",
+    "index": 291
+  },
+  {
+    "start": 1029.352,
+    "end": 1030.781,
+    "text": "The market’s losing momentum.",
+    "language": "en",
+    "index": 292
+  },
+  {
+    "start": 1030.781,
+    "end": 1033.509,
+    "text": "We have a couple bear bars, but they’re small, followed by a bull bar.",
+    "language": "en",
+    "index": 293
+  },
+  {
+    "start": 1033.509,
+    "end": 1034.803,
+    "text": "A bear bar with a tail.",
+    "language": "en",
+    "index": 294
+  },
+  {
+    "start": 1034.803,
+    "end": 1037.673,
+    "text": "A small bear bar followed by a bull reversal bar.",
+    "language": "en",
+    "index": 295
+  },
+  {
+    "start": 1039.266,
+    "end": 1041.452,
+    "text": "The momentum down is getting weak.",
+    "language": "en",
+    "index": 296
+  },
+  {
+    "start": 1041.452,
+    "end": 1043.777,
+    "text": "Compare that to this.",
+    "language": "en",
+    "index": 297
+  },
+  {
+    "start": 1044.972,
+    "end": 1046.693,
+    "text": "Traders are buying every low.",
+    "language": "en",
+    "index": 298
+  },
+  {
+    "start": 1046.976,
+    "end": 1049.867,
+    "text": "Bulls are making money buying every low,",
+    "language": "en",
+    "index": 299
+  },
+  {
+    "start": 1049.867,
+    "end": 1052.413,
+    "text": "betting that the trend will not fall that much further.",
+    "language": "en",
+    "index": 300
+  },
+  {
+    "start": 1052.931,
+    "end": 1059.067,
+    "text": "The market is transitioning from a strong bear trend into a weak bear trend,",
+    "language": "en",
+    "index": 301
+  },
+  {
+    "start": 1059.067,
+    "end": 1061.391,
+    "text": "and then possibly a Trading Range Double Bottom)...",
+    "language": "en",
+    "index": 302
+  },
+  {
+    "start": 1061.391,
+    "end": 1064.125,
+    "text": "..and then possibly even a bull trend.",
+    "language": "en",
+    "index": 303
+  },
+  {
+    "start": 1064.652,
+    "end": 1069.652,
+    "text": "So the momentum is weakening and traders start looking for reversal trades.",
+    "language": "en",
+    "index": 304
+  },
+  {
+    "start": 1070.584,
+    "end": 1072.593,
+    "text": "For example, buy the reversal up.",
+    "language": "en",
+    "index": 305
+  },
+  {
+    "start": 1072.593,
+    "end": 1076.245,
+    "text": "We have a Double Bottom, maybe a slightly Lower Low Major Trend Reversal.",
+    "language": "en",
+    "index": 306
+  },
+  {
+    "start": 1076.631,
+    "end": 1079.982,
+    "text": "We have a bear trend, strong bull breakout above the top...",
+    "language": "en",
+    "index": 307
+  },
+  {
+    "start": 1079.982,
+    "end": 1084.366,
+    "text": "..of the bear channel, and then a test of the bear trend low",
+    "language": "en",
+    "index": 308
+  },
+  {
+    "start": 1084.366,
+    "end": 1087.79,
+    "text": "and a reversal up, and a second and a third reversal up.",
+    "language": "en",
+    "index": 309
+  },
+  {
+    "start": 1088.527,
+    "end": 1092.103,
+    "text": "So that is a reasonable reversal trade to take.",
+    "language": "en",
+    "index": 310
+  },
+  {
+    "start": 1094.13,
+    "end": 1097.875,
+    "text": "I pay a lot of attention to early signs of strength.",
+    "language": "en",
+    "index": 311
+  },
+  {
+    "start": 1098.113,
+    "end": 1101.042,
+    "text": "So we’re in a bear trend, but look at this.",
+    "language": "en",
+    "index": 312
+  },
+  {
+    "start": 1101.042,
+    "end": 1104.204,
+    "text": "We have 4 consecutive bull bars, 2 of them...",
+    "language": "en",
+    "index": 313
+  },
+  {
+    "start": 1104.204,
+    "end": 1107.815,
+    "text": "..with very big bull bodies, all 4 closing near their highs.",
+    "language": "en",
+    "index": 314
+  },
+  {
+    "start": 1108.183,
+    "end": 1112.856,
+    "text": "Bear trend, yes, but we have a sudden burst of buying.",
+    "language": "en",
+    "index": 315
+  },
+  {
+    "start": 1112.856,
+    "end": 1116.009,
+    "text": "And, that’s a lot of strength on the part of the bulls,",
+    "language": "en",
+    "index": 316
+  },
+  {
+    "start": 1116.009,
+    "end": 1118.331,
+    "text": "and they refer to that as Buying Pressure.",
+    "language": "en",
+    "index": 317
+  },
+  {
+    "start": 1118.627,
+    "end": 1121.241,
+    "text": "So I pay attention to Buying Pressure.",
+    "language": "en",
+    "index": 318
+  },
+  {
+    "start": 1121.242,
+    "end": 1125.552,
+    "text": "Here, here, we sold off strongly but it reversed up strongly.",
+    "language": "en",
+    "index": 319
+  },
+  {
+    "start": 1126.439,
+    "end": 1128.622,
+    "text": "The market is becoming more bullish.",
+    "language": "en",
+    "index": 320
+  },
+  {
+    "start": 1128.622,
+    "end": 1130.468,
+    "text": "We’re getting a lot of Buying Pressure.",
+    "language": "en",
+    "index": 321
+  },
+  {
+    "start": 1131.494,
+    "end": 1133.431,
+    "text": "And on the way down, I look at Selling Pressure.",
+    "language": "en",
+    "index": 322
+  },
+  {
+    "start": 1133.431,
+    "end": 1135.277,
+    "text": "We have a lot of bars down.",
+    "language": "en",
+    "index": 323
+  },
+  {
+    "start": 1135.278,
+    "end": 1139.938,
+    "text": "Every bar, the high is below the high of the prior bar; the low is below...",
+    "language": "en",
+    "index": 324
+  },
+  {
+    "start": 1139.938,
+    "end": 1143.565,
+    "text": "..the low of the prior bar, so we’re trending down pretty strongly.",
+    "language": "en",
+    "index": 325
+  },
+  {
+    "start": 1143.565,
+    "end": 1148.116,
+    "text": "Odds are selling for any reason, we’ll get at least a little bit more down.",
+    "language": "en",
+    "index": 326
+  },
+  {
+    "start": 1150.189,
+    "end": 1153.199,
+    "text": "Traders also pay attention to the strength of the trend.",
+    "language": "en",
+    "index": 327
+  },
+  {
+    "start": 1153.199,
+    "end": 1156.771,
+    "text": "I told you that in addition to risk and reward,",
+    "language": "en",
+    "index": 328
+  },
+  {
+    "start": 1156.771,
+    "end": 1158.941,
+    "text": "they need to pay attention to probability.",
+    "language": "en",
+    "index": 329
+  },
+  {
+    "start": 1158.942,
+    "end": 1161.945,
+    "text": "And a very important thing is trade management.",
+    "language": "en",
+    "index": 330
+  },
+  {
+    "start": 1161.946,
+    "end": 1165.149,
+    "text": "Once they take a trade, they have to manage it correctly.",
+    "language": "en",
+    "index": 331
+  },
+  {
+    "start": 1168.299,
+    "end": 1173.827,
+    "text": "To make money as a trader, candlestick patterns that’s not the answer.",
+    "language": "en",
+    "index": 332
+  },
+  {
+    "start": 1174.101,
+    "end": 1176.647,
+    "text": "They’re basically totally unnecessary.",
+    "language": "en",
+    "index": 333
+  },
+  {
+    "start": 1176.648,
+    "end": 1180.906,
+    "text": "They can be a useful small piece of the big picture,",
+    "language": "en",
+    "index": 334
+  },
+  {
+    "start": 1180.906,
+    "end": 1182.495,
+    "text": "but they’re really not important.",
+    "language": "en",
+    "index": 335
+  },
+  {
+    "start": 1182.495,
+    "end": 1185.576,
+    "text": "A lot of institutions trade off line charts.",
+    "language": "en",
+    "index": 336
+  },
+  {
+    "start": 1185.903,
+    "end": 1187.607,
+    "text": "They don’t care about the candlestick patterns.",
+    "language": "en",
+    "index": 337
+  },
+  {
+    "start": 1187.607,
+    "end": 1190.639,
+    "text": "They know that the direction of the trend, the strength of the trend,",
+    "language": "en",
+    "index": 338
+  },
+  {
+    "start": 1190.639,
+    "end": 1194.25,
+    "text": "support and resistance are far more important than candlestick patterns.",
+    "language": "en",
+    "index": 339
+  },
+  {
+    "start": 1195.395,
+    "end": 1199.417,
+    "text": "So if you look at this line chart, are you thinking...",
+    "language": "en",
+    "index": 340
+  },
+  {
+    "start": 1199.417,
+    "end": 1202.035,
+    "text": "..that a candlestick pattern would make it more bullish?",
+    "language": "en",
+    "index": 341
+  },
+  {
+    "start": 1202.035,
+    "end": 1204.064,
+    "text": "Or are you saying “Wow, this is going up really fast.",
+    "language": "en",
+    "index": 342
+  },
+  {
+    "start": 1204.064,
+    "end": 1206.85,
+    "text": "Higher Lows, Higher Highs – I’ve got to buy”?",
+    "language": "en",
+    "index": 343
+  },
+  {
+    "start": 1207.708,
+    "end": 1210.661,
+    "text": "A candlestick pattern is not going to make it any more bullish.",
+    "language": "en",
+    "index": 344
+  },
+  {
+    "start": 1210.661,
+    "end": 1212.538,
+    "text": "When you see this, you’ve got to buy,",
+    "language": "en",
+    "index": 345
+  },
+  {
+    "start": 1212.538,
+    "end": 1214.846,
+    "text": "and the candlestick pattern will not help you.",
+    "language": "en",
+    "index": 346
+  },
+  {
+    "start": 1218.205,
+    "end": 1220.725,
+    "text": "Now, I want to say a few things about indicators.",
+    "language": "en",
+    "index": 347
+  },
+  {
+    "start": 1221.846,
+    "end": 1224.85,
+    "text": "When I first started trading, all the magazines...",
+    "language": "en",
+    "index": 348
+  },
+  {
+    "start": 1224.85,
+    "end": 1226.628,
+    "text": "..had pictures that looked like this.",
+    "language": "en",
+    "index": 349
+  },
+  {
+    "start": 1227.123,
+    "end": 1231.309,
+    "text": "They tried to stuff as many indicators onto the chart as possible...",
+    "language": "en",
+    "index": 350
+  },
+  {
+    "start": 1231.31,
+    "end": 1234.152,
+    "text": "..to lead you to believe that if you buy their software...",
+    "language": "en",
+    "index": 351
+  },
+  {
+    "start": 1234.152,
+    "end": 1237.051,
+    "text": "..that can create all of these indicators, you’re going to get rich.",
+    "language": "en",
+    "index": 352
+  },
+  {
+    "start": 1237.051,
+    "end": 1241.041,
+    "text": "You’ll have some big advantages that will allow you to make money.",
+    "language": "en",
+    "index": 353
+  },
+  {
+    "start": 1242.565,
+    "end": 1244.897,
+    "text": "Does all of this stuff really help?",
+    "language": "en",
+    "index": 354
+  },
+  {
+    "start": 1245.274,
+    "end": 1248.958,
+    "text": "If one indicator is good, is two, three, four better?",
+    "language": "en",
+    "index": 355
+  },
+  {
+    "start": 1248.958,
+    "end": 1250.784,
+    "text": "Having 10, is that better?",
+    "language": "en",
+    "index": 356
+  },
+  {
+    "start": 1253.083,
+    "end": 1254.43,
+    "text": "The answer is no.",
+    "language": "en",
+    "index": 357
+  },
+  {
+    "start": 1254.43,
+    "end": 1257.021,
+    "text": "In fact, you can barely see the chart",
+    "language": "en",
+    "index": 358
+  },
+  {
+    "start": 1257.021,
+    "end": 1259.349,
+    "text": "with all of these indicators all over the chart.",
+    "language": "en",
+    "index": 359
+  },
+  {
+    "start": 1259.349,
+    "end": 1263.172,
+    "text": "Your eye is going to get focused onto the indicators...",
+    "language": "en",
+    "index": 360
+  },
+  {
+    "start": 1263.63,
+    "end": 1265.982,
+    "text": "..and you will not be paying attention to the chart.",
+    "language": "en",
+    "index": 361
+  },
+  {
+    "start": 1267.209,
+    "end": 1269.925,
+    "text": "Here’s the same chart with the indicators removed.",
+    "language": "en",
+    "index": 362
+  },
+  {
+    "start": 1269.926,
+    "end": 1271.641,
+    "text": "I can see what’s going on.",
+    "language": "en",
+    "index": 363
+  },
+  {
+    "start": 1271.641,
+    "end": 1273.447,
+    "text": "The bulls are trying to break out.",
+    "language": "en",
+    "index": 364
+  },
+  {
+    "start": 1273.447,
+    "end": 1275.321,
+    "text": "We have a big reversal bar.",
+    "language": "en",
+    "index": 365
+  },
+  {
+    "start": 1275.321,
+    "end": 1277.477,
+    "text": "We’re probably going to continue back down.",
+    "language": "en",
+    "index": 366
+  },
+  {
+    "start": 1277.478,
+    "end": 1279.741,
+    "text": "A Trading Range breakout probably will fail.",
+    "language": "en",
+    "index": 367
+  },
+  {
+    "start": 1281.339,
+    "end": 1282.282,
+    "text": "I’m looking to sell.",
+    "language": "en",
+    "index": 368
+  },
+  {
+    "start": 1282.845,
+    "end": 1286.619,
+    "text": "Three pushes down, a Trading Range breakout below – I’m looking to buy.",
+    "language": "en",
+    "index": 369
+  },
+  {
+    "start": 1291.236,
+    "end": 1294.465,
+    "text": "A Triangle, breakout, small Triangle inside...",
+    "language": "en",
+    "index": 370
+  },
+  {
+    "start": 1294.465,
+    "end": 1297.264,
+    "text": "..of a bigger Triangle – I’m probably going to sell.",
+    "language": "en",
+    "index": 371
+  },
+  {
+    "start": 1299.794,
+    "end": 1302.532,
+    "text": "Strong bear trend, a bull reversal,",
+    "language": "en",
+    "index": 372
+  },
+  {
+    "start": 1302.532,
+    "end": 1304.83,
+    "text": "probably going to fail – I’m looking to sell.",
+    "language": "en",
+    "index": 373
+  },
+  {
+    "start": 1305.374,
+    "end": 1308.687,
+    "text": "A minor reversal, possible Final Flag,",
+    "language": "en",
+    "index": 374
+  },
+  {
+    "start": 1308.688,
+    "end": 1311.905,
+    "text": "decent buy reversal bar – I’ll look to buy.",
+    "language": "en",
+    "index": 375
+  },
+  {
+    "start": 1314.41,
+    "end": 1318.482,
+    "text": "50% pullback from the selloff, I’m going to start looking to sell.",
+    "language": "en",
+    "index": 376
+  },
+  {
+    "start": 1318.885,
+    "end": 1320.874,
+    "text": "Ok, we’ve got a second entry short,",
+    "language": "en",
+    "index": 377
+  },
+  {
+    "start": 1320.874,
+    "end": 1324.068,
+    "text": "we have a small Double Top here, I’m looking to sell.",
+    "language": "en",
+    "index": 378
+  },
+  {
+    "start": 1326.925,
+    "end": 1329.468,
+    "text": "Small Triangle, failed bull breakout.",
+    "language": "en",
+    "index": 379
+  },
+  {
+    "start": 1329.799,
+    "end": 1332.701,
+    "text": "I’m going to bet that will continue down at least for a little bit more.",
+    "language": "en",
+    "index": 380
+  },
+  {
+    "start": 1332.701,
+    "end": 1333.85,
+    "text": "I’m looking to sell.",
+    "language": "en",
+    "index": 381
+  },
+  {
+    "start": 1334.662,
+    "end": 1337.287,
+    "text": "Higher Low Major Trend Reversal.",
+    "language": "en",
+    "index": 382
+  },
+  {
+    "start": 1337.288,
+    "end": 1341.131,
+    "text": "Bear trend, bull breakout, Higher Low, but selloff not all that strong.",
+    "language": "en",
+    "index": 383
+  },
+  {
+    "start": 1341.131,
+    "end": 1345.263,
+    "text": "Two legs down – one, pullback, two – I’m going to look to buy.",
+    "language": "en",
+    "index": 384
+  },
+  {
+    "start": 1345.263,
+    "end": 1347.764,
+    "text": "And the indicators don’t show me any of that.",
+    "language": "en",
+    "index": 385
+  },
+  {
+    "start": 1348.541,
+    "end": 1353.691,
+    "text": "So for me, I personally prefer just to look at the charts and try to understand...",
+    "language": "en",
+    "index": 386
+  },
+  {
+    "start": 1353.691,
+    "end": 1358.169,
+    "text": "..what the market is doing, and then I place trades based upon the price action.",
+    "language": "en",
+    "index": 387
+  },
+  {
+    "start": 1358.169,
+    "end": 1362.019,
+    "text": "To me, I don’t like indicators because I get stressed out constantly looking...",
+    "language": "en",
+    "index": 388
+  },
+  {
+    "start": 1362.019,
+    "end": 1367.445,
+    "text": "..for reversals in trends and constantly looking for breakouts in Trading Ranges.",
+    "language": "en",
+    "index": 389
+  },
+  {
+    "start": 1367.445,
+    "end": 1370.129,
+    "text": "And it’s the exact opposite of what I should be doing.",
+    "language": "en",
+    "index": 390
+  },
+  {
+    "start": 1371.527,
+    "end": 1373.418,
+    "text": "This is a common thing that you see.",
+    "language": "en",
+    "index": 391
+  },
+  {
+    "start": 1373.419,
+    "end": 1378.709,
+    "text": "Ok, look at this low and this low in the indicator.",
+    "language": "en",
+    "index": 392
+  },
+  {
+    "start": 1378.709,
+    "end": 1382.381,
+    "text": "So we’ve got a low, we have a Higher Low, we have a Higher Low.",
+    "language": "en",
+    "index": 393
+  },
+  {
+    "start": 1382.381,
+    "end": 1384.945,
+    "text": "This is a divergence, this is a double divergence.",
+    "language": "en",
+    "index": 394
+  },
+  {
+    "start": 1385.514,
+    "end": 1387.462,
+    "text": "And the websites will tell you, “Ah, you’ve got...",
+    "language": "en",
+    "index": 395
+  },
+  {
+    "start": 1387.462,
+    "end": 1390.06,
+    "text": "..a double divergence, you’ve got to look to buy.",
+    "language": "en",
+    "index": 396
+  },
+  {
+    "start": 1391.474,
+    "end": 1397.904,
+    "text": "Right? Here we’ve got lower prices and then we have a higher oscillator.",
+    "language": "en",
+    "index": 397
+  },
+  {
+    "start": 1397.904,
+    "end": 1399.255,
+    "text": "You have to buy.”",
+    "language": "en",
+    "index": 398
+  },
+  {
+    "start": 1399.255,
+    "end": 1401.186,
+    "text": "No. Look at the bars.",
+    "language": "en",
+    "index": 399
+  },
+  {
+    "start": 1401.93,
+    "end": 1407.146,
+    "text": "You’re in a really Tight Bear Channel with virtually no significant pullback.",
+    "language": "en",
+    "index": 400
+  },
+  {
+    "start": 1407.146,
+    "end": 1409.529,
+    "text": "It’s far easier to make money selling.",
+    "language": "en",
+    "index": 401
+  },
+  {
+    "start": 1409.53,
+    "end": 1413.166,
+    "text": "So even though we’ve got a divergence – here’s another divergence –",
+    "language": "en",
+    "index": 402
+  },
+  {
+    "start": 1414.57,
+    "end": 1417.696,
+    "text": "price is going down, indicator is going up.",
+    "language": "en",
+    "index": 403
+  },
+  {
+    "start": 1417.696,
+    "end": 1418.622,
+    "text": "Higher Lows.",
+    "language": "en",
+    "index": 404
+  },
+  {
+    "start": 1419.134,
+    "end": 1422.576,
+    "text": "It’s crazy, right? That’s the single biggest problem...",
+    "language": "en",
+    "index": 405
+  },
+  {
+    "start": 1422.576,
+    "end": 1424.388,
+    "text": "..with indicators for beginners.",
+    "language": "en",
+    "index": 406
+  },
+  {
+    "start": 1424.389,
+    "end": 1427.806,
+    "text": "They look at the indicator or patterns.",
+    "language": "en",
+    "index": 407
+  },
+  {
+    "start": 1427.807,
+    "end": 1429.108,
+    "text": "“Oh, a diversion.",
+    "language": "en",
+    "index": 408
+  },
+  {
+    "start": 1429.108,
+    "end": 1431.516,
+    "text": "I’ve got to buy.” They don’t look at the chart.",
+    "language": "en",
+    "index": 409
+  },
+  {
+    "start": 1432.078,
+    "end": 1434.727,
+    "text": "When the market’s in a Small Pullback Bear Trend,",
+    "language": "en",
+    "index": 410
+  },
+  {
+    "start": 1434.727,
+    "end": 1437.374,
+    "text": "you can only make money selling, not buying.",
+    "language": "en",
+    "index": 411
+  },
+  {
+    "start": 1440.892,
+    "end": 1444.912,
+    "text": "So indicators, it’s an excuse to avoid thinking about the obvious.",
+    "language": "en",
+    "index": 412
+  },
+  {
+    "start": 1444.912,
+    "end": 1450.891,
+    "text": "So buying in a strong bear trend – yes, it can work and you can make a fortune.",
+    "language": "en",
+    "index": 413
+  },
+  {
+    "start": 1450.892,
+    "end": 1453.062,
+    "text": "But, so the risk/reward is great.",
+    "language": "en",
+    "index": 414
+  },
+  {
+    "start": 1453.062,
+    "end": 1455.826,
+    "text": "You buy here, your risk is here.",
+    "language": "en",
+    "index": 415
+  },
+  {
+    "start": 1455.827,
+    "end": 1457.52,
+    "text": "Very little money at risk.",
+    "language": "en",
+    "index": 416
+  },
+  {
+    "start": 1457.52,
+    "end": 1460.585,
+    "text": "We could go up forever, so your reward is huge.",
+    "language": "en",
+    "index": 417
+  },
+  {
+    "start": 1460.586,
+    "end": 1465.84,
+    "text": "However, what is the probability? The probability is extremely low.",
+    "language": "en",
+    "index": 418
+  },
+  {
+    "start": 1465.841,
+    "end": 1468.458,
+    "text": "So you need much more than risk/reward.",
+    "language": "en",
+    "index": 419
+  },
+  {
+    "start": 1468.459,
+    "end": 1470.465,
+    "text": "One of the unfortunate things on television...",
+    "language": "en",
+    "index": 420
+  },
+  {
+    "start": 1470.465,
+    "end": 1473.901,
+    "text": "..is traders constantly talk about risk and reward.",
+    "language": "en",
+    "index": 421
+  },
+  {
+    "start": 1473.901,
+    "end": 1478.319,
+    "text": "They never talk about probability, but that’s the flipside of risk/reward.",
+    "language": "en",
+    "index": 422
+  },
+  {
+    "start": 1478.32,
+    "end": 1481.979,
+    "text": "Whenever a trade has excellent risk/reward...",
+    "language": "en",
+    "index": 423
+  },
+  {
+    "start": 1481.979,
+    "end": 1487.195,
+    "text": "..(in other words, small risk, great reward) it also has very little probability.",
+    "language": "en",
+    "index": 424
+  },
+  {
+    "start": 1487.195,
+    "end": 1491.168,
+    "text": "Because there has to be a reason for an institution to take the other side.",
+    "language": "en",
+    "index": 425
+  },
+  {
+    "start": 1491.168,
+    "end": 1495.977,
+    "text": "So if you get great risk/reward, guess what? The institution taking...",
+    "language": "en",
+    "index": 426
+  },
+  {
+    "start": 1495.977,
+    "end": 1498.637,
+    "text": "..the other side of your trade has high probability.",
+    "language": "en",
+    "index": 427
+  },
+  {
+    "start": 1498.638,
+    "end": 1500.577,
+    "text": "He’s probably going to make money.",
+    "language": "en",
+    "index": 428
+  },
+  {
+    "start": 1500.577,
+    "end": 1502.837,
+    "text": "Every now and then you’ll make a lot of money,",
+    "language": "en",
+    "index": 429
+  },
+  {
+    "start": 1503.657,
+    "end": 1505.913,
+    "text": "but most of the time you’re going to lose.",
+    "language": "en",
+    "index": 430
+  },
+  {
+    "start": 1505.914,
+    "end": 1508.211,
+    "text": "So you keep getting these small losses.",
+    "language": "en",
+    "index": 431
+  },
+  {
+    "start": 1508.212,
+    "end": 1510.001,
+    "text": "Your indicators are telling you to buy.",
+    "language": "en",
+    "index": 432
+  },
+  {
+    "start": 1510.001,
+    "end": 1511.759,
+    "text": "Buy, buy, buy. Buy, buy, buy.",
+    "language": "en",
+    "index": 433
+  },
+  {
+    "start": 1511.759,
+    "end": 1512.668,
+    "text": "You buy, you lose.",
+    "language": "en",
+    "index": 434
+  },
+  {
+    "start": 1512.668,
+    "end": 1513.495,
+    "text": "You buy, you lose.",
+    "language": "en",
+    "index": 435
+  },
+  {
+    "start": 1513.495,
+    "end": 1514.781,
+    "text": "You buy, you lose.",
+    "language": "en",
+    "index": 436
+  },
+  {
+    "start": 1515.094,
+    "end": 1517.885,
+    "text": "And you’re not losing much – remember, your risk is small –",
+    "language": "en",
+    "index": 437
+  },
+  {
+    "start": 1517.885,
+    "end": 1521.428,
+    "text": "however, you can bleed to death from a thousand papercuts.",
+    "language": "en",
+    "index": 438
+  },
+  {
+    "start": 1521.429,
+    "end": 1524.024,
+    "text": "Those small losses add up.",
+    "language": "en",
+    "index": 439
+  },
+  {
+    "start": 1527.22,
+    "end": 1528.608,
+    "text": "You have to be patient.",
+    "language": "en",
+    "index": 440
+  },
+  {
+    "start": 1528.609,
+    "end": 1529.819,
+    "text": "There’s a lot to learn.",
+    "language": "en",
+    "index": 441
+  },
+  {
+    "start": 1529.819,
+    "end": 1532.257,
+    "text": "That’s why there are so many videos in this course.",
+    "language": "en",
+    "index": 442
+  },
+  {
+    "start": 1532.258,
+    "end": 1533.851,
+    "text": "I’m trying to teach you everything...",
+    "language": "en",
+    "index": 443
+  },
+  {
+    "start": 1533.851,
+    "end": 1537.189,
+    "text": "..that you need to know to be a successful trader.",
+    "language": "en",
+    "index": 444
+  },
+  {
+    "start": 1537.69,
+    "end": 1539.546,
+    "text": "And there are no shortcuts.",
+    "language": "en",
+    "index": 445
+  },
+  {
+    "start": 1539.546,
+    "end": 1541.567,
+    "text": "Indicators are not a shortcut.",
+    "language": "en",
+    "index": 446
+  },
+  {
+    "start": 1541.862,
+    "end": 1544.397,
+    "text": "Candlestick patterns are not a shortcut.",
+    "language": "en",
+    "index": 447
+  },
+  {
+    "start": 1544.398,
+    "end": 1548.243,
+    "text": "And trading is never going to be easy because you’re competing against...",
+    "language": "en",
+    "index": 448
+  },
+  {
+    "start": 1548.243,
+    "end": 1552.714,
+    "text": "..extremely smart, hardworking people who have been doing this for years,",
+    "language": "en",
+    "index": 449
+  },
+  {
+    "start": 1552.714,
+    "end": 1554.854,
+    "text": "and they don’t want to give you a penny.",
+    "language": "en",
+    "index": 450
+  },
+  {
+    "start": 1554.855,
+    "end": 1557.767,
+    "text": "They want to take every penny that they can get – and that’s their job.",
+    "language": "en",
+    "index": 451
+  },
+  {
+    "start": 1557.767,
+    "end": 1558.622,
+    "text": "That’s what they should do.",
+    "language": "en",
+    "index": 452
+  },
+  {
+    "start": 1558.622,
+    "end": 1561.162,
+    "text": "That’s my job, and that’s what I try to do every day.",
+    "language": "en",
+    "index": 453
+  },
+  {
+    "start": 1561.688,
+    "end": 1565.722,
+    "text": "But even though it’s hard, I really enjoy the challenge.",
+    "language": "en",
+    "index": 454
+  },
+  {
+    "start": 1567.508,
+    "end": 1570.864,
+    "text": "Well, what type of chart? Look at this chart.",
+    "language": "en",
+    "index": 455
+  },
+  {
+    "start": 1570.864,
+    "end": 1572.516,
+    "text": "Ok, this is the euro versus the yen.",
+    "language": "en",
+    "index": 456
+  },
+  {
+    "start": 1572.516,
+    "end": 1574.009,
+    "text": "It’s a monthly chart.",
+    "language": "en",
+    "index": 457
+  },
+  {
+    "start": 1574.809,
+    "end": 1578.039,
+    "text": "When you look at it, if you didn’t look at the time axis,",
+    "language": "en",
+    "index": 458
+  },
+  {
+    "start": 1578.039,
+    "end": 1580.321,
+    "text": "you would say maybe it’s a 5-minute chart,",
+    "language": "en",
+    "index": 459
+  },
+  {
+    "start": 1580.321,
+    "end": 1582.725,
+    "text": "maybe it’s a 1-minute chart, maybe it’s a 60-minute chart.",
+    "language": "en",
+    "index": 460
+  },
+  {
+    "start": 1582.725,
+    "end": 1583.984,
+    "text": "It’s a monthly chart.",
+    "language": "en",
+    "index": 461
+  },
+  {
+    "start": 1584.494,
+    "end": 1589.453,
+    "text": "And the point I’m trying to make is some traders do not want to trade intraday.",
+    "language": "en",
+    "index": 462
+  },
+  {
+    "start": 1589.453,
+    "end": 1592.965,
+    "text": "And they’ll trade daily charts or weekly charts or monthly charts.",
+    "language": "en",
+    "index": 463
+  },
+  {
+    "start": 1592.966,
+    "end": 1595.495,
+    "text": "It doesn’t matter; the process is still the same.",
+    "language": "en",
+    "index": 464
+  },
+  {
+    "start": 1595.495,
+    "end": 1597.009,
+    "text": "The market’s going up.",
+    "language": "en",
+    "index": 465
+  },
+  {
+    "start": 1597.009,
+    "end": 1600.431,
+    "text": "Traders are looking to buy pullbacks, or they’ll even buy breakouts.",
+    "language": "en",
+    "index": 466
+  },
+  {
+    "start": 1600.431,
+    "end": 1604.249,
+    "text": "If we’re trying to top, traders will start to sell.",
+    "language": "en",
+    "index": 467
+  },
+  {
+    "start": 1604.795,
+    "end": 1606.489,
+    "text": "This process is the same.",
+    "language": "en",
+    "index": 468
+  },
+  {
+    "start": 1606.489,
+    "end": 1608.757,
+    "text": "It doesn’t matter what the timeframe is.",
+    "language": "en",
+    "index": 469
+  },
+  {
+    "start": 1608.757,
+    "end": 1610.323,
+    "text": "All markets are fractal.",
+    "language": "en",
+    "index": 470
+  },
+  {
+    "start": 1610.882,
+    "end": 1613.746,
+    "text": "Bigger patterns are made up of smaller patterns;",
+    "language": "en",
+    "index": 471
+  },
+  {
+    "start": 1613.746,
+    "end": 1616.49,
+    "text": "smaller patterns are parts of bigger patterns.",
+    "language": "en",
+    "index": 472
+  },
+  {
+    "start": 1616.49,
+    "end": 1617.93,
+    "text": "It’s all the same thing.",
+    "language": "en",
+    "index": 473
+  },
+  {
+    "start": 1622.945,
+    "end": 1626.907,
+    "text": "If you do trade a monthly chart, the bars are very big,",
+    "language": "en",
+    "index": 474
+  },
+  {
+    "start": 1626.908,
+    "end": 1629.239,
+    "text": "so the stop is very far away.",
+    "language": "en",
+    "index": 475
+  },
+  {
+    "start": 1629.24,
+    "end": 1633.302,
+    "text": "You have to trade very small to make sure that the risk on your trade...",
+    "language": "en",
+    "index": 476
+  },
+  {
+    "start": 1633.302,
+    "end": 1635.799,
+    "text": "..is no bigger than the risk on any other trade.",
+    "language": "en",
+    "index": 477
+  },
+  {
+    "start": 1639.694,
+    "end": 1642.17,
+    "text": "In this video I talked about candlestick patterns...",
+    "language": "en",
+    "index": 478
+  },
+  {
+    "start": 1642.17,
+    "end": 1645.005,
+    "text": "..and how they are not particularly helpful.",
+    "language": "en",
+    "index": 479
+  },
+  {
+    "start": 1645.006,
+    "end": 1649.222,
+    "text": "I also discussed what professional traders talk about.",
+    "language": "en",
+    "index": 480
+  },
+  {
+    "start": 1649.222,
+    "end": 1653.244,
+    "text": "And as I said, they talk much more about support and resistance,",
+    "language": "en",
+    "index": 481
+  },
+  {
+    "start": 1653.245,
+    "end": 1657.48,
+    "text": "and momentum and strength of trends than they do about candlestick patterns.",
+    "language": "en",
+    "index": 482
+  },
+  {
+    "start": 1657.48,
+    "end": 1660.056,
+    "text": "They virtually never talk about candlestick patterns.",
+    "language": "en",
+    "index": 483
+  },
+  {
+    "start": 1660.057,
+    "end": 1663.509,
+    "text": "And I also talked about indicators and how it’s very easy...",
+    "language": "en",
+    "index": 484
+  },
+  {
+    "start": 1663.509,
+    "end": 1665.555,
+    "text": "..to get overly dependent on them.",
+    "language": "en",
+    "index": 485
+  },
+  {
+    "start": 1665.556,
+    "end": 1667.739,
+    "text": "And if you use them, you’ll find...",
+    "language": "en",
+    "index": 486
+  },
+  {
+    "start": 1667.739,
+    "end": 1670.619,
+    "text": "..that they probably don’t help you make any money.",
+    "language": "en",
+    "index": 487
+  },
+  {
+    "start": 1670.62,
+    "end": 1673.523,
+    "text": "I don’t have a problem with somebody using indicators...",
+    "language": "en",
+    "index": 488
+  },
+  {
+    "start": 1673.523,
+    "end": 1676.29,
+    "text": "..if they’re making money and if they’re happy.",
+    "language": "en",
+    "index": 489
+  },
+  {
+    "start": 1676.756,
+    "end": 1681.082,
+    "text": "But if you’re not making money and if you’re stressed out using them,",
+    "language": "en",
+    "index": 490
+  },
+  {
+    "start": 1681.082,
+    "end": 1683.762,
+    "text": "then I would get rid of them and just look at the charts.",
+    "language": "en",
+    "index": 491
+  },
+  {
+    "start": 1684.168,
+    "end": 1687.692,
+    "text": "And if you look on television, you rarely ever see...",
+    "language": "en",
+    "index": 492
+  },
+  {
+    "start": 1687.692,
+    "end": 1689.544,
+    "text": "..anybody putting an indicator up.",
+    "language": "en",
+    "index": 493
+  },
+  {
+    "start": 1689.545,
+    "end": 1693.666,
+    "text": "And that’s because most professional traders don’t pay attention to them.",
+    "language": "en",
+    "index": 494
+  },
+  {
+    "start": 1693.667,
+    "end": 1695.939,
+    "text": "They pay attention to the price action.",
+    "language": "en",
+    "index": 495
+  },
+  {
+    "start": 1699.773,
+    "end": 1701.167,
+    "text": "I’m Al Brooks.",
+    "language": "en",
+    "index": 496
+  },
+  {
+    "start": 1701.167,
+    "end": 1703.251,
+    "text": "Thank you for watching the Brooks Trading Course.",
+    "language": "en",
+    "index": 497
+  },
+  {
+    "start": 1703.251,
+    "end": 1707.673,
+    "text": "This is the final video on chart basics and price action.",
+    "language": "en",
+    "index": 498
+  }
+]

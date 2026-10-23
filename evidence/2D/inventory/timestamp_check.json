@@ -1,0 +1,2072 @@
+{
+ "summary": {
+  "method": "ffmpeg seek to t (and t+/-0.1s), 160x90 grayscale area downscale, mean absolute difference 0-255",
+  "keyframes_checked": {
+   "n": 164,
+   "max": 0.978,
+   "p95": 0.131,
+   "median": 0.058
+  },
+  "keyframes_best_at_t": 164,
+  "exact_frames_checked": {
+   "n": 48,
+   "max": 0.18,
+   "p95": 0.13,
+   "median": 0.059
+  },
+  "exact_vs_prior_keyframe": {
+   "n": 48,
+   "max": 1.591,
+   "p95": 0.542,
+   "median": 0.07
+  },
+  "identical_jpg_groups": [
+   [
+    "frame_000386.jpg",
+    "2D_source_0330s.jpg"
+   ],
+   [
+    "frame_000621.jpg",
+    "2D_source_0465s.jpg"
+   ],
+   [
+    "frame_000888.jpg",
+    "2D_source_0555s.jpg"
+   ],
+   [
+    "frame_001109.jpg",
+    "2D_source_0735s.jpg"
+   ],
+   [
+    "frame_001248.jpg",
+    "2D_source_0780s.jpg"
+   ],
+   [
+    "frame_001863.jpg",
+    "2D_source_1005s.jpg"
+   ],
+   [
+    "frame_002291.jpg",
+    "2D_source_1140s.jpg"
+   ],
+   [
+    "frame_002487.jpg",
+    "2D_source_1230s.jpg"
+   ],
+   [
+    "frame_002746.jpg",
+    "2D_source_1320s.jpg"
+   ],
+   [
+    "frame_002943.jpg",
+    "2D_source_1410s.jpg"
+   ]
+  ]
+ },
+ "results": [
+  {
+   "file": "frame_000001.jpg",
+   "path": "高清原始分辨率/frame_000001.jpg",
+   "kind": "keyframe",
+   "t": 0.0,
+   "mad_t": 0.978,
+   "mad_t_minus_0.1": 0.978,
+   "mad_t_plus_0.1": 9.854
+  },
+  {
+   "file": "frame_000026.jpg",
+   "path": "高清原始分辨率/frame_000026.jpg",
+   "kind": "keyframe",
+   "t": 48.1,
+   "mad_t": 0.093,
+   "mad_t_minus_0.1": 0.272,
+   "mad_t_plus_0.1": 0.268
+  },
+  {
+   "file": "frame_000051.jpg",
+   "path": "高清原始分辨率/frame_000051.jpg",
+   "kind": "keyframe",
+   "t": 75.7,
+   "mad_t": 0.098,
+   "mad_t_minus_0.1": 0.127,
+   "mad_t_plus_0.1": 0.109
+  },
+  {
+   "file": "frame_000076.jpg",
+   "path": "高清原始分辨率/frame_000076.jpg",
+   "kind": "keyframe",
+   "t": 137.0,
+   "mad_t": 0.083,
+   "mad_t_minus_0.1": 0.232,
+   "mad_t_plus_0.1": 0.183
+  },
+  {
+   "file": "frame_000093.jpg",
+   "path": "高清原始分辨率/frame_000093.jpg",
+   "kind": "keyframe",
+   "t": 166.9,
+   "mad_t": 0.081,
+   "mad_t_minus_0.1": 0.269,
+   "mad_t_plus_0.1": 0.11
+  },
+  {
+   "file": "frame_000101.jpg",
+   "path": "高清原始分辨率/frame_000101.jpg",
+   "kind": "keyframe",
+   "t": 191.4,
+   "mad_t": 0.023,
+   "mad_t_minus_0.1": 0.04,
+   "mad_t_plus_0.1": 0.029
+  },
+  {
+   "file": "frame_000126.jpg",
+   "path": "高清原始分辨率/frame_000126.jpg",
+   "kind": "keyframe",
+   "t": 204.4,
+   "mad_t": 0.033,
+   "mad_t_minus_0.1": 0.041,
+   "mad_t_plus_0.1": 0.033
+  },
+  {
+   "file": "frame_000151.jpg",
+   "path": "高清原始分辨率/frame_000151.jpg",
+   "kind": "keyframe",
+   "t": 212.9,
+   "mad_t": 0.048,
+   "mad_t_minus_0.1": 0.081,
+   "mad_t_plus_0.1": 0.081
+  },
+  {
+   "file": "frame_000176.jpg",
+   "path": "高清原始分辨率/frame_000176.jpg",
+   "kind": "keyframe",
+   "t": 218.0,
+   "mad_t": 0.045,
+   "mad_t_minus_0.1": 0.06,
+   "mad_t_plus_0.1": 0.046
+  },
+  {
+   "file": "frame_000185.jpg",
+   "path": "高清原始分辨率/frame_000185.jpg",
+   "kind": "keyframe",
+   "t": 234.9,
+   "mad_t": 0.059,
+   "mad_t_minus_0.1": 1.95,
+   "mad_t_plus_0.1": 1.87
+  },
+  {
+   "file": "frame_000201.jpg",
+   "path": "高清原始分辨率/frame_000201.jpg",
+   "kind": "keyframe",
+   "t": 249.9,
+   "mad_t": 0.037,
+   "mad_t_minus_0.1": 0.068,
+   "mad_t_plus_0.1": 0.074
+  },
+  {
+   "file": "frame_000226.jpg",
+   "path": "高清原始分辨率/frame_000226.jpg",
+   "kind": "keyframe",
+   "t": 258.7,
+   "mad_t": 0.04,
+   "mad_t_minus_0.1": 0.051,
+   "mad_t_plus_0.1": 0.058
+  },
+  {
+   "file": "frame_000251.jpg",
+   "path": "高清原始分辨率/frame_000251.jpg",
+   "kind": "keyframe",
+   "t": 270.6,
+   "mad_t": 0.042,
+   "mad_t_minus_0.1": 0.064,
+   "mad_t_plus_0.1": 0.079
+  },
+  {
+   "file": "frame_000276.jpg",
+   "path": "高清原始分辨率/frame_000276.jpg",
+   "kind": "keyframe",
+   "t": 274.9,
+   "mad_t": 0.048,
+   "mad_t_minus_0.1": 0.058,
+   "mad_t_plus_0.1": 0.053
+  },
+  {
+   "file": "frame_000278.jpg",
+   "path": "高清原始分辨率/frame_000278.jpg",
+   "kind": "keyframe",
+   "t": 276.4,
+   "mad_t": 0.039,
+   "mad_t_minus_0.1": 0.077,
+   "mad_t_plus_0.1": 0.077
+  },
+  {
+   "file": "frame_000301.jpg",
+   "path": "高清原始分辨率/frame_000301.jpg",
+   "kind": "keyframe",
+   "t": 300.8,
+   "mad_t": 0.049,
+   "mad_t_minus_0.1": 1.342,
+   "mad_t_plus_0.1": 1.026
+  },
+  {
+   "file": "frame_000326.jpg",
+   "path": "高清原始分辨率/frame_000326.jpg",
+   "kind": "keyframe",
+   "t": 315.8,
+   "mad_t": 0.031,
+   "mad_t_minus_0.1": 0.058,
+   "mad_t_plus_0.1": 0.045
+  },
+  {
+   "file": "frame_000351.jpg",
+   "path": "高清原始分辨率/frame_000351.jpg",
+   "kind": "keyframe",
+   "t": 322.4,
+   "mad_t": 0.051,
+   "mad_t_minus_0.1": 0.085,
+   "mad_t_plus_0.1": 0.077
+  },
+  {
+   "file": "frame_000370.jpg",
+   "path": "高清原始分辨率/frame_000370.jpg",
+   "kind": "keyframe",
+   "t": 325.7,
+   "mad_t": 0.052,
+   "mad_t_minus_0.1": 0.082,
+   "mad_t_plus_0.1": 0.083
+  },
+  {
+   "file": "frame_000376.jpg",
+   "path": "高清原始分辨率/frame_000376.jpg",
+   "kind": "keyframe",
+   "t": 326.4,
+   "mad_t": 0.052,
+   "mad_t_minus_0.1": 0.075,
+   "mad_t_plus_0.1": 0.059
+  },
+  {
+   "file": "frame_000401.jpg",
+   "path": "高清原始分辨率/frame_000401.jpg",
+   "kind": "keyframe",
+   "t": 336.7,
+   "mad_t": 0.053,
+   "mad_t_minus_0.1": 0.085,
+   "mad_t_plus_0.1": 0.084
+  },
+  {
+   "file": "frame_000426.jpg",
+   "path": "高清原始分辨率/frame_000426.jpg",
+   "kind": "keyframe",
+   "t": 343.7,
+   "mad_t": 0.053,
+   "mad_t_minus_0.1": 0.072,
+   "mad_t_plus_0.1": 0.053
+  },
+  {
+   "file": "frame_000451.jpg",
+   "path": "高清原始分辨率/frame_000451.jpg",
+   "kind": "keyframe",
+   "t": 359.1,
+   "mad_t": 0.079,
+   "mad_t_minus_0.1": 0.095,
+   "mad_t_plus_0.1": 0.084
+  },
+  {
+   "file": "frame_000462.jpg",
+   "path": "高清原始分辨率/frame_000462.jpg",
+   "kind": "keyframe",
+   "t": 362.2,
+   "mad_t": 0.078,
+   "mad_t_minus_0.1": 0.093,
+   "mad_t_plus_0.1": 0.107
+  },
+  {
+   "file": "frame_000476.jpg",
+   "path": "高清原始分辨率/frame_000476.jpg",
+   "kind": "keyframe",
+   "t": 380.9,
+   "mad_t": 0.099,
+   "mad_t_minus_0.1": 2.142,
+   "mad_t_plus_0.1": 2.796
+  },
+  {
+   "file": "frame_000501.jpg",
+   "path": "高清原始分辨率/frame_000501.jpg",
+   "kind": "keyframe",
+   "t": 402.1,
+   "mad_t": 0.047,
+   "mad_t_minus_0.1": 0.075,
+   "mad_t_plus_0.1": 0.074
+  },
+  {
+   "file": "frame_000526.jpg",
+   "path": "高清原始分辨率/frame_000526.jpg",
+   "kind": "keyframe",
+   "t": 406.8,
+   "mad_t": 0.046,
+   "mad_t_minus_0.1": 0.081,
+   "mad_t_plus_0.1": 0.083
+  },
+  {
+   "file": "frame_000551.jpg",
+   "path": "高清原始分辨率/frame_000551.jpg",
+   "kind": "keyframe",
+   "t": 425.1,
+   "mad_t": 0.063,
+   "mad_t_minus_0.1": 0.103,
+   "mad_t_plus_0.1": 0.101
+  },
+  {
+   "file": "frame_000554.jpg",
+   "path": "高清原始分辨率/frame_000554.jpg",
+   "kind": "keyframe",
+   "t": 425.4,
+   "mad_t": 0.064,
+   "mad_t_minus_0.1": 0.101,
+   "mad_t_plus_0.1": 0.1
+  },
+  {
+   "file": "frame_000576.jpg",
+   "path": "高清原始分辨率/frame_000576.jpg",
+   "kind": "keyframe",
+   "t": 427.7,
+   "mad_t": 0.066,
+   "mad_t_minus_0.1": 0.086,
+   "mad_t_plus_0.1": 0.072
+  },
+  {
+   "file": "frame_000601.jpg",
+   "path": "高清原始分辨率/frame_000601.jpg",
+   "kind": "keyframe",
+   "t": 460.8,
+   "mad_t": 0.036,
+   "mad_t_minus_0.1": 0.343,
+   "mad_t_plus_0.1": 0.388
+  },
+  {
+   "file": "frame_000626.jpg",
+   "path": "高清原始分辨率/frame_000626.jpg",
+   "kind": "keyframe",
+   "t": 465.8,
+   "mad_t": 0.034,
+   "mad_t_minus_0.1": 0.072,
+   "mad_t_plus_0.1": 0.072
+  },
+  {
+   "file": "frame_000647.jpg",
+   "path": "高清原始分辨率/frame_000647.jpg",
+   "kind": "keyframe",
+   "t": 469.5,
+   "mad_t": 0.034,
+   "mad_t_minus_0.1": 0.065,
+   "mad_t_plus_0.1": 0.07
+  },
+  {
+   "file": "frame_000651.jpg",
+   "path": "高清原始分辨率/frame_000651.jpg",
+   "kind": "keyframe",
+   "t": 471.1,
+   "mad_t": 0.031,
+   "mad_t_minus_0.1": 0.043,
+   "mad_t_plus_0.1": 0.05
+  },
+  {
+   "file": "frame_000676.jpg",
+   "path": "高清原始分辨率/frame_000676.jpg",
+   "kind": "keyframe",
+   "t": 490.6,
+   "mad_t": 0.034,
+   "mad_t_minus_0.1": 0.054,
+   "mad_t_plus_0.1": 0.047
+  },
+  {
+   "file": "frame_000701.jpg",
+   "path": "高清原始分辨率/frame_000701.jpg",
+   "kind": "keyframe",
+   "t": 495.9,
+   "mad_t": 0.035,
+   "mad_t_minus_0.1": 0.073,
+   "mad_t_plus_0.1": 0.077
+  },
+  {
+   "file": "frame_000726.jpg",
+   "path": "高清原始分辨率/frame_000726.jpg",
+   "kind": "keyframe",
+   "t": 505.0,
+   "mad_t": 0.04,
+   "mad_t_minus_0.1": 0.075,
+   "mad_t_plus_0.1": 0.06
+  },
+  {
+   "file": "frame_000739.jpg",
+   "path": "高清原始分辨率/frame_000739.jpg",
+   "kind": "keyframe",
+   "t": 506.3,
+   "mad_t": 0.041,
+   "mad_t_minus_0.1": 0.079,
+   "mad_t_plus_0.1": 0.079
+  },
+  {
+   "file": "frame_000751.jpg",
+   "path": "高清原始分辨率/frame_000751.jpg",
+   "kind": "keyframe",
+   "t": 508.4,
+   "mad_t": 0.04,
+   "mad_t_minus_0.1": 0.07,
+   "mad_t_plus_0.1": 0.078
+  },
+  {
+   "file": "frame_000776.jpg",
+   "path": "高清原始分辨率/frame_000776.jpg",
+   "kind": "keyframe",
+   "t": 515.1,
+   "mad_t": 0.043,
+   "mad_t_minus_0.1": 0.06,
+   "mad_t_plus_0.1": 0.068
+  },
+  {
+   "file": "frame_000801.jpg",
+   "path": "高清原始分辨率/frame_000801.jpg",
+   "kind": "keyframe",
+   "t": 519.8,
+   "mad_t": 0.041,
+   "mad_t_minus_0.1": 0.076,
+   "mad_t_plus_0.1": 0.077
+  },
+  {
+   "file": "frame_000826.jpg",
+   "path": "高清原始分辨率/frame_000826.jpg",
+   "kind": "keyframe",
+   "t": 523.7,
+   "mad_t": 0.041,
+   "mad_t_minus_0.1": 0.057,
+   "mad_t_plus_0.1": 0.073
+  },
+  {
+   "file": "frame_000831.jpg",
+   "path": "高清原始分辨率/frame_000831.jpg",
+   "kind": "keyframe",
+   "t": 524.2,
+   "mad_t": 0.043,
+   "mad_t_minus_0.1": 0.071,
+   "mad_t_plus_0.1": 0.043
+  },
+  {
+   "file": "frame_000851.jpg",
+   "path": "高清原始分辨率/frame_000851.jpg",
+   "kind": "keyframe",
+   "t": 531.0,
+   "mad_t": 0.041,
+   "mad_t_minus_0.1": 0.068,
+   "mad_t_plus_0.1": 0.054
+  },
+  {
+   "file": "frame_000876.jpg",
+   "path": "高清原始分辨率/frame_000876.jpg",
+   "kind": "keyframe",
+   "t": 553.4,
+   "mad_t": 0.05,
+   "mad_t_minus_0.1": 0.08,
+   "mad_t_plus_0.1": 0.063
+  },
+  {
+   "file": "frame_000901.jpg",
+   "path": "高清原始分辨率/frame_000901.jpg",
+   "kind": "keyframe",
+   "t": 556.7,
+   "mad_t": 0.047,
+   "mad_t_minus_0.1": 0.074,
+   "mad_t_plus_0.1": 0.047
+  },
+  {
+   "file": "frame_000923.jpg",
+   "path": "高清原始分辨率/frame_000923.jpg",
+   "kind": "keyframe",
+   "t": 559.7,
+   "mad_t": 0.047,
+   "mad_t_minus_0.1": 0.079,
+   "mad_t_plus_0.1": 0.055
+  },
+  {
+   "file": "frame_000926.jpg",
+   "path": "高清原始分辨率/frame_000926.jpg",
+   "kind": "keyframe",
+   "t": 560.3,
+   "mad_t": 0.043,
+   "mad_t_minus_0.1": 0.052,
+   "mad_t_plus_0.1": 0.043
+  },
+  {
+   "file": "frame_000951.jpg",
+   "path": "高清原始分辨率/frame_000951.jpg",
+   "kind": "keyframe",
+   "t": 572.8,
+   "mad_t": 0.045,
+   "mad_t_minus_0.1": 0.073,
+   "mad_t_plus_0.1": 0.053
+  },
+  {
+   "file": "frame_000976.jpg",
+   "path": "高清原始分辨率/frame_000976.jpg",
+   "kind": "keyframe",
+   "t": 580.9,
+   "mad_t": 0.044,
+   "mad_t_minus_0.1": 0.052,
+   "mad_t_plus_0.1": 0.058
+  },
+  {
+   "file": "frame_001001.jpg",
+   "path": "高清原始分辨率/frame_001001.jpg",
+   "kind": "keyframe",
+   "t": 588.9,
+   "mad_t": 0.066,
+   "mad_t_minus_0.1": 2.148,
+   "mad_t_plus_0.1": 2.572
+  },
+  {
+   "file": "frame_001016.jpg",
+   "path": "高清原始分辨率/frame_001016.jpg",
+   "kind": "keyframe",
+   "t": 616.5,
+   "mad_t": 0.037,
+   "mad_t_minus_0.1": 0.075,
+   "mad_t_plus_0.1": 0.074
+  },
+  {
+   "file": "frame_001026.jpg",
+   "path": "高清原始分辨率/frame_001026.jpg",
+   "kind": "keyframe",
+   "t": 618.9,
+   "mad_t": 0.044,
+   "mad_t_minus_0.1": 0.183,
+   "mad_t_plus_0.1": 0.196
+  },
+  {
+   "file": "frame_001051.jpg",
+   "path": "高清原始分辨率/frame_001051.jpg",
+   "kind": "keyframe",
+   "t": 688.4,
+   "mad_t": 0.048,
+   "mad_t_minus_0.1": 0.078,
+   "mad_t_plus_0.1": 0.085
+  },
+  {
+   "file": "frame_001076.jpg",
+   "path": "高清原始分辨率/frame_001076.jpg",
+   "kind": "keyframe",
+   "t": 693.1,
+   "mad_t": 0.051,
+   "mad_t_minus_0.1": 0.068,
+   "mad_t_plus_0.1": 0.06
+  },
+  {
+   "file": "frame_001101.jpg",
+   "path": "高清原始分辨率/frame_001101.jpg",
+   "kind": "keyframe",
+   "t": 723.5,
+   "mad_t": 0.064,
+   "mad_t_minus_0.1": 12.932,
+   "mad_t_plus_0.1": 3.249
+  },
+  {
+   "file": "frame_001108.jpg",
+   "path": "高清原始分辨率/frame_001108.jpg",
+   "kind": "keyframe",
+   "t": 734.9,
+   "mad_t": 0.055,
+   "mad_t_minus_0.1": 0.086,
+   "mad_t_plus_0.1": 0.106
+  },
+  {
+   "file": "frame_001126.jpg",
+   "path": "高清原始分辨率/frame_001126.jpg",
+   "kind": "keyframe",
+   "t": 738.7,
+   "mad_t": 0.055,
+   "mad_t_minus_0.1": 0.072,
+   "mad_t_plus_0.1": 0.061
+  },
+  {
+   "file": "frame_001151.jpg",
+   "path": "高清原始分辨率/frame_001151.jpg",
+   "kind": "keyframe",
+   "t": 748.8,
+   "mad_t": 0.053,
+   "mad_t_minus_0.1": 0.072,
+   "mad_t_plus_0.1": 0.067
+  },
+  {
+   "file": "frame_001176.jpg",
+   "path": "高清原始分辨率/frame_001176.jpg",
+   "kind": "keyframe",
+   "t": 757.2,
+   "mad_t": 0.055,
+   "mad_t_minus_0.1": 0.092,
+   "mad_t_plus_0.1": 0.093
+  },
+  {
+   "file": "frame_001200.jpg",
+   "path": "高清原始分辨率/frame_001200.jpg",
+   "kind": "keyframe",
+   "t": 762.0,
+   "mad_t": 0.057,
+   "mad_t_minus_0.1": 0.083,
+   "mad_t_plus_0.1": 0.06
+  },
+  {
+   "file": "frame_001201.jpg",
+   "path": "高清原始分辨率/frame_001201.jpg",
+   "kind": "keyframe",
+   "t": 762.3,
+   "mad_t": 0.057,
+   "mad_t_minus_0.1": 0.073,
+   "mad_t_plus_0.1": 0.089
+  },
+  {
+   "file": "frame_001226.jpg",
+   "path": "高清原始分辨率/frame_001226.jpg",
+   "kind": "keyframe",
+   "t": 773.6,
+   "mad_t": 0.066,
+   "mad_t_minus_0.1": 0.078,
+   "mad_t_plus_0.1": 0.066
+  },
+  {
+   "file": "frame_001251.jpg",
+   "path": "高清原始分辨率/frame_001251.jpg",
+   "kind": "keyframe",
+   "t": 780.3,
+   "mad_t": 0.064,
+   "mad_t_minus_0.1": 0.089,
+   "mad_t_plus_0.1": 0.09
+  },
+  {
+   "file": "frame_001276.jpg",
+   "path": "高清原始分辨率/frame_001276.jpg",
+   "kind": "keyframe",
+   "t": 787.6,
+   "mad_t": 0.069,
+   "mad_t_minus_0.1": 0.1,
+   "mad_t_plus_0.1": 0.106
+  },
+  {
+   "file": "frame_001292.jpg",
+   "path": "高清原始分辨率/frame_001292.jpg",
+   "kind": "keyframe",
+   "t": 791.0,
+   "mad_t": 0.065,
+   "mad_t_minus_0.1": 0.086,
+   "mad_t_plus_0.1": 0.071
+  },
+  {
+   "file": "frame_001301.jpg",
+   "path": "高清原始分辨率/frame_001301.jpg",
+   "kind": "keyframe",
+   "t": 793.2,
+   "mad_t": 0.066,
+   "mad_t_minus_0.1": 0.104,
+   "mad_t_plus_0.1": 0.103
+  },
+  {
+   "file": "frame_001326.jpg",
+   "path": "高清原始分辨率/frame_001326.jpg",
+   "kind": "keyframe",
+   "t": 798.9,
+   "mad_t": 0.063,
+   "mad_t_minus_0.1": 0.094,
+   "mad_t_plus_0.1": 0.074
+  },
+  {
+   "file": "frame_001351.jpg",
+   "path": "高清原始分辨率/frame_001351.jpg",
+   "kind": "keyframe",
+   "t": 814.3,
+   "mad_t": 0.052,
+   "mad_t_minus_0.1": 0.084,
+   "mad_t_plus_0.1": 0.09
+  },
+  {
+   "file": "frame_001376.jpg",
+   "path": "高清原始分辨率/frame_001376.jpg",
+   "kind": "keyframe",
+   "t": 818.8,
+   "mad_t": 0.05,
+   "mad_t_minus_0.1": 0.087,
+   "mad_t_plus_0.1": 0.088
+  },
+  {
+   "file": "frame_001384.jpg",
+   "path": "高清原始分辨率/frame_001384.jpg",
+   "kind": "keyframe",
+   "t": 822.9,
+   "mad_t": 0.052,
+   "mad_t_minus_0.1": 0.158,
+   "mad_t_plus_0.1": 0.221
+  },
+  {
+   "file": "frame_001401.jpg",
+   "path": "高清原始分辨率/frame_001401.jpg",
+   "kind": "keyframe",
+   "t": 827.9,
+   "mad_t": 0.054,
+   "mad_t_minus_0.1": 0.09,
+   "mad_t_plus_0.1": 0.086
+  },
+  {
+   "file": "frame_001426.jpg",
+   "path": "高清原始分辨率/frame_001426.jpg",
+   "kind": "keyframe",
+   "t": 832.1,
+   "mad_t": 0.057,
+   "mad_t_minus_0.1": 0.063,
+   "mad_t_plus_0.1": 0.094
+  },
+  {
+   "file": "frame_001451.jpg",
+   "path": "高清原始分辨率/frame_001451.jpg",
+   "kind": "keyframe",
+   "t": 837.6,
+   "mad_t": 0.055,
+   "mad_t_minus_0.1": 0.069,
+   "mad_t_plus_0.1": 0.08
+  },
+  {
+   "file": "frame_001476.jpg",
+   "path": "高清原始分辨率/frame_001476.jpg",
+   "kind": "keyframe",
+   "t": 845.2,
+   "mad_t": 0.058,
+   "mad_t_minus_0.1": 0.157,
+   "mad_t_plus_0.1": 0.087
+  },
+  {
+   "file": "frame_001477.jpg",
+   "path": "高清原始分辨率/frame_001477.jpg",
+   "kind": "keyframe",
+   "t": 847.9,
+   "mad_t": 0.065,
+   "mad_t_minus_0.1": 0.148,
+   "mad_t_plus_0.1": 0.205
+  },
+  {
+   "file": "frame_001501.jpg",
+   "path": "高清原始分辨率/frame_001501.jpg",
+   "kind": "keyframe",
+   "t": 851.6,
+   "mad_t": 0.068,
+   "mad_t_minus_0.1": 0.098,
+   "mad_t_plus_0.1": 0.098
+  },
+  {
+   "file": "frame_001526.jpg",
+   "path": "高清原始分辨率/frame_001526.jpg",
+   "kind": "keyframe",
+   "t": 865.8,
+   "mad_t": 0.053,
+   "mad_t_minus_0.1": 1.188,
+   "mad_t_plus_0.1": 1.324
+  },
+  {
+   "file": "frame_001551.jpg",
+   "path": "高清原始分辨率/frame_001551.jpg",
+   "kind": "keyframe",
+   "t": 882.1,
+   "mad_t": 0.062,
+   "mad_t_minus_0.1": 0.092,
+   "mad_t_plus_0.1": 0.088
+  },
+  {
+   "file": "frame_001569.jpg",
+   "path": "高清原始分辨率/frame_001569.jpg",
+   "kind": "keyframe",
+   "t": 886.7,
+   "mad_t": 0.062,
+   "mad_t_minus_0.1": 0.072,
+   "mad_t_plus_0.1": 0.077
+  },
+  {
+   "file": "frame_001576.jpg",
+   "path": "高清原始分辨率/frame_001576.jpg",
+   "kind": "keyframe",
+   "t": 887.8,
+   "mad_t": 0.062,
+   "mad_t_minus_0.1": 0.094,
+   "mad_t_plus_0.1": 0.09
+  },
+  {
+   "file": "frame_001601.jpg",
+   "path": "高清原始分辨率/frame_001601.jpg",
+   "kind": "keyframe",
+   "t": 894.0,
+   "mad_t": 0.073,
+   "mad_t_minus_0.1": 0.104,
+   "mad_t_plus_0.1": 0.099
+  },
+  {
+   "file": "frame_001626.jpg",
+   "path": "高清原始分辨率/frame_001626.jpg",
+   "kind": "keyframe",
+   "t": 899.9,
+   "mad_t": 0.074,
+   "mad_t_minus_0.1": 0.108,
+   "mad_t_plus_0.1": 0.149
+  },
+  {
+   "file": "frame_001651.jpg",
+   "path": "高清原始分辨率/frame_001651.jpg",
+   "kind": "keyframe",
+   "t": 910.8,
+   "mad_t": 0.077,
+   "mad_t_minus_0.1": 0.356,
+   "mad_t_plus_0.1": 0.391
+  },
+  {
+   "file": "frame_001661.jpg",
+   "path": "高清原始分辨率/frame_001661.jpg",
+   "kind": "keyframe",
+   "t": 913.3,
+   "mad_t": 0.077,
+   "mad_t_minus_0.1": 0.1,
+   "mad_t_plus_0.1": 0.08
+  },
+  {
+   "file": "frame_001676.jpg",
+   "path": "高清原始分辨率/frame_001676.jpg",
+   "kind": "keyframe",
+   "t": 916.4,
+   "mad_t": 0.08,
+   "mad_t_minus_0.1": 0.112,
+   "mad_t_plus_0.1": 0.096
+  },
+  {
+   "file": "frame_001701.jpg",
+   "path": "高清原始分辨率/frame_001701.jpg",
+   "kind": "keyframe",
+   "t": 924.3,
+   "mad_t": 0.083,
+   "mad_t_minus_0.1": 0.091,
+   "mad_t_plus_0.1": 0.083
+  },
+  {
+   "file": "frame_001726.jpg",
+   "path": "高清原始分辨率/frame_001726.jpg",
+   "kind": "keyframe",
+   "t": 940.8,
+   "mad_t": 0.112,
+   "mad_t_minus_0.1": 0.135,
+   "mad_t_plus_0.1": 0.132
+  },
+  {
+   "file": "frame_001751.jpg",
+   "path": "高清原始分辨率/frame_001751.jpg",
+   "kind": "keyframe",
+   "t": 964.3,
+   "mad_t": 0.048,
+   "mad_t_minus_0.1": 0.055,
+   "mad_t_plus_0.1": 0.068
+  },
+  {
+   "file": "frame_001753.jpg",
+   "path": "高清原始分辨率/frame_001753.jpg",
+   "kind": "keyframe",
+   "t": 964.5,
+   "mad_t": 0.048,
+   "mad_t_minus_0.1": 0.068,
+   "mad_t_plus_0.1": 0.068
+  },
+  {
+   "file": "frame_001776.jpg",
+   "path": "高清原始分辨率/frame_001776.jpg",
+   "kind": "keyframe",
+   "t": 968.9,
+   "mad_t": 0.081,
+   "mad_t_minus_0.1": 0.418,
+   "mad_t_plus_0.1": 0.487
+  },
+  {
+   "file": "frame_001801.jpg",
+   "path": "高清原始分辨率/frame_001801.jpg",
+   "kind": "keyframe",
+   "t": 983.2,
+   "mad_t": 0.077,
+   "mad_t_minus_0.1": 0.115,
+   "mad_t_plus_0.1": 0.113
+  },
+  {
+   "file": "frame_001826.jpg",
+   "path": "高清原始分辨率/frame_001826.jpg",
+   "kind": "keyframe",
+   "t": 994.5,
+   "mad_t": 0.076,
+   "mad_t_minus_0.1": 0.102,
+   "mad_t_plus_0.1": 0.11
+  },
+  {
+   "file": "frame_001846.jpg",
+   "path": "高清原始分辨率/frame_001846.jpg",
+   "kind": "keyframe",
+   "t": 999.2,
+   "mad_t": 0.079,
+   "mad_t_minus_0.1": 0.105,
+   "mad_t_plus_0.1": 0.099
+  },
+  {
+   "file": "frame_001851.jpg",
+   "path": "高清原始分辨率/frame_001851.jpg",
+   "kind": "keyframe",
+   "t": 1002.3,
+   "mad_t": 0.083,
+   "mad_t_minus_0.1": 0.228,
+   "mad_t_plus_0.1": 0.264
+  },
+  {
+   "file": "frame_001876.jpg",
+   "path": "高清原始分辨率/frame_001876.jpg",
+   "kind": "keyframe",
+   "t": 1009.1,
+   "mad_t": 0.086,
+   "mad_t_minus_0.1": 0.112,
+   "mad_t_plus_0.1": 0.087
+  },
+  {
+   "file": "frame_001901.jpg",
+   "path": "高清原始分辨率/frame_001901.jpg",
+   "kind": "keyframe",
+   "t": 1019.8,
+   "mad_t": 0.09,
+   "mad_t_minus_0.1": 0.1,
+   "mad_t_plus_0.1": 0.095
+  },
+  {
+   "file": "frame_001926.jpg",
+   "path": "高清原始分辨率/frame_001926.jpg",
+   "kind": "keyframe",
+   "t": 1027.5,
+   "mad_t": 0.111,
+   "mad_t_minus_0.1": 0.139,
+   "mad_t_plus_0.1": 0.125
+  },
+  {
+   "file": "frame_001938.jpg",
+   "path": "高清原始分辨率/frame_001938.jpg",
+   "kind": "keyframe",
+   "t": 1030.7,
+   "mad_t": 0.107,
+   "mad_t_minus_0.1": 0.124,
+   "mad_t_plus_0.1": 0.123
+  },
+  {
+   "file": "frame_001951.jpg",
+   "path": "高清原始分辨率/frame_001951.jpg",
+   "kind": "keyframe",
+   "t": 1034.9,
+   "mad_t": 0.105,
+   "mad_t_minus_0.1": 0.119,
+   "mad_t_plus_0.1": 0.152
+  },
+  {
+   "file": "frame_001976.jpg",
+   "path": "高清原始分辨率/frame_001976.jpg",
+   "kind": "keyframe",
+   "t": 1041.9,
+   "mad_t": 0.112,
+   "mad_t_minus_0.1": 0.128,
+   "mad_t_plus_0.1": 0.134
+  },
+  {
+   "file": "frame_002001.jpg",
+   "path": "高清原始分辨率/frame_002001.jpg",
+   "kind": "keyframe",
+   "t": 1046.8,
+   "mad_t": 0.107,
+   "mad_t_minus_0.1": 0.135,
+   "mad_t_plus_0.1": 0.14
+  },
+  {
+   "file": "frame_002026.jpg",
+   "path": "高清原始分辨率/frame_002026.jpg",
+   "kind": "keyframe",
+   "t": 1055.7,
+   "mad_t": 0.109,
+   "mad_t_minus_0.1": 0.137,
+   "mad_t_plus_0.1": 0.128
+  },
+  {
+   "file": "frame_002030.jpg",
+   "path": "高清原始分辨率/frame_002030.jpg",
+   "kind": "keyframe",
+   "t": 1056.1,
+   "mad_t": 0.106,
+   "mad_t_minus_0.1": 0.122,
+   "mad_t_plus_0.1": 0.115
+  },
+  {
+   "file": "frame_002051.jpg",
+   "path": "高清原始分辨率/frame_002051.jpg",
+   "kind": "keyframe",
+   "t": 1060.6,
+   "mad_t": 0.109,
+   "mad_t_minus_0.1": 0.14,
+   "mad_t_plus_0.1": 0.123
+  },
+  {
+   "file": "frame_002076.jpg",
+   "path": "高清原始分辨率/frame_002076.jpg",
+   "kind": "keyframe",
+   "t": 1072.6,
+   "mad_t": 0.113,
+   "mad_t_minus_0.1": 0.139,
+   "mad_t_plus_0.1": 0.137
+  },
+  {
+   "file": "frame_002101.jpg",
+   "path": "高清原始分辨率/frame_002101.jpg",
+   "kind": "keyframe",
+   "t": 1077.9,
+   "mad_t": 0.114,
+   "mad_t_minus_0.1": 0.151,
+   "mad_t_plus_0.1": 0.13
+  },
+  {
+   "file": "frame_002122.jpg",
+   "path": "高清原始分辨率/frame_002122.jpg",
+   "kind": "keyframe",
+   "t": 1082.9,
+   "mad_t": 0.113,
+   "mad_t_minus_0.1": 0.147,
+   "mad_t_plus_0.1": 0.154
+  },
+  {
+   "file": "frame_002126.jpg",
+   "path": "高清原始分辨率/frame_002126.jpg",
+   "kind": "keyframe",
+   "t": 1084.3,
+   "mad_t": 0.111,
+   "mad_t_minus_0.1": 0.148,
+   "mad_t_plus_0.1": 0.148
+  },
+  {
+   "file": "frame_002151.jpg",
+   "path": "高清原始分辨率/frame_002151.jpg",
+   "kind": "keyframe",
+   "t": 1098.4,
+   "mad_t": 0.042,
+   "mad_t_minus_0.1": 0.061,
+   "mad_t_plus_0.1": 0.08
+  },
+  {
+   "file": "frame_002176.jpg",
+   "path": "高清原始分辨率/frame_002176.jpg",
+   "kind": "keyframe",
+   "t": 1102.4,
+   "mad_t": 0.044,
+   "mad_t_minus_0.1": 0.054,
+   "mad_t_plus_0.1": 0.044
+  },
+  {
+   "file": "frame_002201.jpg",
+   "path": "高清原始分辨率/frame_002201.jpg",
+   "kind": "keyframe",
+   "t": 1108.2,
+   "mad_t": 0.041,
+   "mad_t_minus_0.1": 0.07,
+   "mad_t_plus_0.1": 0.07
+  },
+  {
+   "file": "frame_002214.jpg",
+   "path": "高清原始分辨率/frame_002214.jpg",
+   "kind": "keyframe",
+   "t": 1110.0,
+   "mad_t": 0.045,
+   "mad_t_minus_0.1": 0.077,
+   "mad_t_plus_0.1": 0.08
+  },
+  {
+   "file": "frame_002226.jpg",
+   "path": "高清原始分辨率/frame_002226.jpg",
+   "kind": "keyframe",
+   "t": 1111.2,
+   "mad_t": 0.042,
+   "mad_t_minus_0.1": 0.072,
+   "mad_t_plus_0.1": 0.063
+  },
+  {
+   "file": "frame_002251.jpg",
+   "path": "高清原始分辨率/frame_002251.jpg",
+   "kind": "keyframe",
+   "t": 1122.9,
+   "mad_t": 0.048,
+   "mad_t_minus_0.1": 0.062,
+   "mad_t_plus_0.1": 0.088
+  },
+  {
+   "file": "frame_002276.jpg",
+   "path": "高清原始分辨率/frame_002276.jpg",
+   "kind": "keyframe",
+   "t": 1134.3,
+   "mad_t": 0.053,
+   "mad_t_minus_0.1": 0.065,
+   "mad_t_plus_0.1": 0.057
+  },
+  {
+   "file": "frame_002301.jpg",
+   "path": "高清原始分辨率/frame_002301.jpg",
+   "kind": "keyframe",
+   "t": 1142.3,
+   "mad_t": 0.057,
+   "mad_t_minus_0.1": 0.079,
+   "mad_t_plus_0.1": 0.071
+  },
+  {
+   "file": "frame_002307.jpg",
+   "path": "高清原始分辨率/frame_002307.jpg",
+   "kind": "keyframe",
+   "t": 1147.0,
+   "mad_t": 0.054,
+   "mad_t_minus_0.1": 0.078,
+   "mad_t_plus_0.1": 0.082
+  },
+  {
+   "file": "frame_002326.jpg",
+   "path": "高清原始分辨率/frame_002326.jpg",
+   "kind": "keyframe",
+   "t": 1173.8,
+   "mad_t": 0.03,
+   "mad_t_minus_0.1": 0.224,
+   "mad_t_plus_0.1": 0.221
+  },
+  {
+   "file": "frame_002351.jpg",
+   "path": "高清原始分辨率/frame_002351.jpg",
+   "kind": "keyframe",
+   "t": 1188.9,
+   "mad_t": 0.031,
+   "mad_t_minus_0.1": 0.069,
+   "mad_t_plus_0.1": 0.069
+  },
+  {
+   "file": "frame_002376.jpg",
+   "path": "高清原始分辨率/frame_002376.jpg",
+   "kind": "keyframe",
+   "t": 1194.7,
+   "mad_t": 0.038,
+   "mad_t_minus_0.1": 0.207,
+   "mad_t_plus_0.1": 0.256
+  },
+  {
+   "file": "frame_002399.jpg",
+   "path": "高清原始分辨率/frame_002399.jpg",
+   "kind": "keyframe",
+   "t": 1199.6,
+   "mad_t": 0.044,
+   "mad_t_minus_0.1": 0.082,
+   "mad_t_plus_0.1": 0.049
+  },
+  {
+   "file": "frame_002401.jpg",
+   "path": "高清原始分辨率/frame_002401.jpg",
+   "kind": "keyframe",
+   "t": 1200.3,
+   "mad_t": 0.043,
+   "mad_t_minus_0.1": 0.053,
+   "mad_t_plus_0.1": 0.043
+  },
+  {
+   "file": "frame_002426.jpg",
+   "path": "高清原始分辨率/frame_002426.jpg",
+   "kind": "keyframe",
+   "t": 1205.2,
+   "mad_t": 0.044,
+   "mad_t_minus_0.1": 0.068,
+   "mad_t_plus_0.1": 0.072
+  },
+  {
+   "file": "frame_002451.jpg",
+   "path": "高清原始分辨率/frame_002451.jpg",
+   "kind": "keyframe",
+   "t": 1215.8,
+   "mad_t": 0.06,
+   "mad_t_minus_0.1": 1.038,
+   "mad_t_plus_0.1": 0.851
+  },
+  {
+   "file": "frame_002476.jpg",
+   "path": "高清原始分辨率/frame_002476.jpg",
+   "kind": "keyframe",
+   "t": 1227.6,
+   "mad_t": 0.109,
+   "mad_t_minus_0.1": 0.144,
+   "mad_t_plus_0.1": 0.145
+  },
+  {
+   "file": "frame_002491.jpg",
+   "path": "高清原始分辨率/frame_002491.jpg",
+   "kind": "keyframe",
+   "t": 1241.6,
+   "mad_t": 0.123,
+   "mad_t_minus_0.1": 0.328,
+   "mad_t_plus_0.1": 0.397
+  },
+  {
+   "file": "frame_002501.jpg",
+   "path": "高清原始分辨率/frame_002501.jpg",
+   "kind": "keyframe",
+   "t": 1251.3,
+   "mad_t": 0.131,
+   "mad_t_minus_0.1": 0.335,
+   "mad_t_plus_0.1": 0.346
+  },
+  {
+   "file": "frame_002526.jpg",
+   "path": "高清原始分辨率/frame_002526.jpg",
+   "kind": "keyframe",
+   "t": 1258.4,
+   "mad_t": 0.134,
+   "mad_t_minus_0.1": 0.166,
+   "mad_t_plus_0.1": 0.165
+  },
+  {
+   "file": "frame_002551.jpg",
+   "path": "高清原始分辨率/frame_002551.jpg",
+   "kind": "keyframe",
+   "t": 1263.3,
+   "mad_t": 0.14,
+   "mad_t_minus_0.1": 0.168,
+   "mad_t_plus_0.1": 0.14
+  },
+  {
+   "file": "frame_002576.jpg",
+   "path": "高清原始分辨率/frame_002576.jpg",
+   "kind": "keyframe",
+   "t": 1272.7,
+   "mad_t": 0.046,
+   "mad_t_minus_0.1": 0.083,
+   "mad_t_plus_0.1": 0.047
+  },
+  {
+   "file": "frame_002583.jpg",
+   "path": "高清原始分辨率/frame_002583.jpg",
+   "kind": "keyframe",
+   "t": 1275.8,
+   "mad_t": 0.05,
+   "mad_t_minus_0.1": 0.076,
+   "mad_t_plus_0.1": 0.083
+  },
+  {
+   "file": "frame_002601.jpg",
+   "path": "高清原始分辨率/frame_002601.jpg",
+   "kind": "keyframe",
+   "t": 1280.8,
+   "mad_t": 0.051,
+   "mad_t_minus_0.1": 0.131,
+   "mad_t_plus_0.1": 0.057
+  },
+  {
+   "file": "frame_002626.jpg",
+   "path": "高清原始分辨率/frame_002626.jpg",
+   "kind": "keyframe",
+   "t": 1287.9,
+   "mad_t": 0.05,
+   "mad_t_minus_0.1": 0.194,
+   "mad_t_plus_0.1": 0.229
+  },
+  {
+   "file": "frame_002651.jpg",
+   "path": "高清原始分辨率/frame_002651.jpg",
+   "kind": "keyframe",
+   "t": 1294.5,
+   "mad_t": 0.05,
+   "mad_t_minus_0.1": 0.084,
+   "mad_t_plus_0.1": 0.087
+  },
+  {
+   "file": "frame_002676.jpg",
+   "path": "高清原始分辨率/frame_002676.jpg",
+   "kind": "keyframe",
+   "t": 1300.6,
+   "mad_t": 0.055,
+   "mad_t_minus_0.1": 0.087,
+   "mad_t_plus_0.1": 0.093
+  },
+  {
+   "file": "frame_002701.jpg",
+   "path": "高清原始分辨率/frame_002701.jpg",
+   "kind": "keyframe",
+   "t": 1307.4,
+   "mad_t": 0.05,
+   "mad_t_minus_0.1": 0.079,
+   "mad_t_plus_0.1": 0.075
+  },
+  {
+   "file": "frame_002726.jpg",
+   "path": "高清原始分辨率/frame_002726.jpg",
+   "kind": "keyframe",
+   "t": 1316.0,
+   "mad_t": 0.054,
+   "mad_t_minus_0.1": 0.088,
+   "mad_t_plus_0.1": 0.075
+  },
+  {
+   "file": "frame_002751.jpg",
+   "path": "高清原始分辨率/frame_002751.jpg",
+   "kind": "keyframe",
+   "t": 1321.7,
+   "mad_t": 0.056,
+   "mad_t_minus_0.1": 0.08,
+   "mad_t_plus_0.1": 0.09
+  },
+  {
+   "file": "frame_002768.jpg",
+   "path": "高清原始分辨率/frame_002768.jpg",
+   "kind": "keyframe",
+   "t": 1325.4,
+   "mad_t": 0.061,
+   "mad_t_minus_0.1": 0.208,
+   "mad_t_plus_0.1": 0.222
+  },
+  {
+   "file": "frame_002776.jpg",
+   "path": "高清原始分辨率/frame_002776.jpg",
+   "kind": "keyframe",
+   "t": 1327.5,
+   "mad_t": 0.059,
+   "mad_t_minus_0.1": 0.076,
+   "mad_t_plus_0.1": 0.075
+  },
+  {
+   "file": "frame_002801.jpg",
+   "path": "高清原始分辨率/frame_002801.jpg",
+   "kind": "keyframe",
+   "t": 1334.6,
+   "mad_t": 0.06,
+   "mad_t_minus_0.1": 0.204,
+   "mad_t_plus_0.1": 0.219
+  },
+  {
+   "file": "frame_002826.jpg",
+   "path": "高清原始分辨率/frame_002826.jpg",
+   "kind": "keyframe",
+   "t": 1338.9,
+   "mad_t": 0.061,
+   "mad_t_minus_0.1": 0.085,
+   "mad_t_plus_0.1": 0.095
+  },
+  {
+   "file": "frame_002851.jpg",
+   "path": "高清原始分辨率/frame_002851.jpg",
+   "kind": "keyframe",
+   "t": 1343.0,
+   "mad_t": 0.065,
+   "mad_t_minus_0.1": 0.1,
+   "mad_t_plus_0.1": 0.094
+  },
+  {
+   "file": "frame_002860.jpg",
+   "path": "高清原始分辨率/frame_002860.jpg",
+   "kind": "keyframe",
+   "t": 1359.4,
+   "mad_t": 0.113,
+   "mad_t_minus_0.1": 1.121,
+   "mad_t_plus_0.1": 0.218
+  },
+  {
+   "file": "frame_002876.jpg",
+   "path": "高清原始分辨率/frame_002876.jpg",
+   "kind": "keyframe",
+   "t": 1380.3,
+   "mad_t": 0.082,
+   "mad_t_minus_0.1": 0.113,
+   "mad_t_plus_0.1": 0.116
+  },
+  {
+   "file": "frame_002901.jpg",
+   "path": "高清原始分辨率/frame_002901.jpg",
+   "kind": "keyframe",
+   "t": 1393.1,
+   "mad_t": 0.112,
+   "mad_t_minus_0.1": 0.147,
+   "mad_t_plus_0.1": 0.143
+  },
+  {
+   "file": "frame_002926.jpg",
+   "path": "高清原始分辨率/frame_002926.jpg",
+   "kind": "keyframe",
+   "t": 1403.5,
+   "mad_t": 0.117,
+   "mad_t_minus_0.1": 0.147,
+   "mad_t_plus_0.1": 0.154
+  },
+  {
+   "file": "frame_002951.jpg",
+   "path": "高清原始分辨率/frame_002951.jpg",
+   "kind": "keyframe",
+   "t": 1412.1,
+   "mad_t": 0.113,
+   "mad_t_minus_0.1": 0.132,
+   "mad_t_plus_0.1": 0.113
+  },
+  {
+   "file": "frame_002952.jpg",
+   "path": "高清原始分辨率/frame_002952.jpg",
+   "kind": "keyframe",
+   "t": 1412.3,
+   "mad_t": 0.113,
+   "mad_t_minus_0.1": 0.148,
+   "mad_t_plus_0.1": 0.144
+  },
+  {
+   "file": "frame_002976.jpg",
+   "path": "高清原始分辨率/frame_002976.jpg",
+   "kind": "keyframe",
+   "t": 1416.6,
+   "mad_t": 0.12,
+   "mad_t_minus_0.1": 0.15,
+   "mad_t_plus_0.1": 0.15
+  },
+  {
+   "file": "frame_003001.jpg",
+   "path": "高清原始分辨率/frame_003001.jpg",
+   "kind": "keyframe",
+   "t": 1438.7,
+   "mad_t": 0.143,
+   "mad_t_minus_0.1": 1.665,
+   "mad_t_plus_0.1": 1.844
+  },
+  {
+   "file": "frame_003026.jpg",
+   "path": "高清原始分辨率/frame_003026.jpg",
+   "kind": "keyframe",
+   "t": 1446.5,
+   "mad_t": 0.131,
+   "mad_t_minus_0.1": 0.162,
+   "mad_t_plus_0.1": 0.156
+  },
+  {
+   "file": "frame_003045.jpg",
+   "path": "高清原始分辨率/frame_003045.jpg",
+   "kind": "keyframe",
+   "t": 1455.4,
+   "mad_t": 0.135,
+   "mad_t_minus_0.1": 0.164,
+   "mad_t_plus_0.1": 0.162
+  },
+  {
+   "file": "frame_003051.jpg",
+   "path": "高清原始分辨率/frame_003051.jpg",
+   "kind": "keyframe",
+   "t": 1458.1,
+   "mad_t": 0.137,
+   "mad_t_minus_0.1": 0.147,
+   "mad_t_plus_0.1": 0.137
+  },
+  {
+   "file": "frame_003076.jpg",
+   "path": "高清原始分辨率/frame_003076.jpg",
+   "kind": "keyframe",
+   "t": 1512.9,
+   "mad_t": 0.129,
+   "mad_t_minus_0.1": 0.152,
+   "mad_t_plus_0.1": 0.166
+  },
+  {
+   "file": "frame_003101.jpg",
+   "path": "高清原始分辨率/frame_003101.jpg",
+   "kind": "keyframe",
+   "t": 1524.7,
+   "mad_t": 0.156,
+   "mad_t_minus_0.1": 0.82,
+   "mad_t_plus_0.1": 0.152
+  },
+  {
+   "file": "frame_003126.jpg",
+   "path": "高清原始分辨率/frame_003126.jpg",
+   "kind": "keyframe",
+   "t": 1577.9,
+   "mad_t": 0.068,
+   "mad_t_minus_0.1": 0.099,
+   "mad_t_plus_0.1": 0.109
+  },
+  {
+   "file": "frame_003137.jpg",
+   "path": "高清原始分辨率/frame_003137.jpg",
+   "kind": "keyframe",
+   "t": 1595.9,
+   "mad_t": 0.066,
+   "mad_t_minus_0.1": 0.103,
+   "mad_t_plus_0.1": 0.105
+  },
+  {
+   "file": "frame_003151.jpg",
+   "path": "高清原始分辨率/frame_003151.jpg",
+   "kind": "keyframe",
+   "t": 1599.3,
+   "mad_t": 0.064,
+   "mad_t_minus_0.1": 0.074,
+   "mad_t_plus_0.1": 0.08
+  },
+  {
+   "file": "frame_003176.jpg",
+   "path": "高清原始分辨率/frame_003176.jpg",
+   "kind": "keyframe",
+   "t": 1604.1,
+   "mad_t": 0.064,
+   "mad_t_minus_0.1": 0.084,
+   "mad_t_plus_0.1": 0.084
+  },
+  {
+   "file": "frame_003201.jpg",
+   "path": "高清原始分辨率/frame_003201.jpg",
+   "kind": "keyframe",
+   "t": 1621.9,
+   "mad_t": 0.081,
+   "mad_t_minus_0.1": 0.357,
+   "mad_t_plus_0.1": 0.451
+  },
+  {
+   "file": "frame_003226.jpg",
+   "path": "高清原始分辨率/frame_003226.jpg",
+   "kind": "keyframe",
+   "t": 1710.6,
+   "mad_t": 0.362,
+   "mad_t_minus_0.1": 11.387,
+   "mad_t_plus_0.1": 12.024
+  },
+  {
+   "file": "frame_003229.jpg",
+   "path": "高清原始分辨率/frame_003229.jpg",
+   "kind": "keyframe",
+   "t": 1711.2,
+   "mad_t": 0.043,
+   "mad_t_minus_0.1": 11.857,
+   "mad_t_plus_0.1": 3.73
+  },
+  {
+   "file": "2D_source_0015s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0015s.jpg",
+   "kind": "exact_video_frame",
+   "t": 15.0,
+   "mad_t": 0.017,
+   "mad_t_minus_0.1": 0.068,
+   "mad_t_plus_0.1": 0.018,
+   "nearest_prior_keyframe": "frame_000011.jpg",
+   "mad_vs_prior_keyframe": 1.591
+  },
+  {
+   "file": "2D_source_0060s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0060s.jpg",
+   "kind": "exact_video_frame",
+   "t": 60.0,
+   "mad_t": 0.098,
+   "mad_t_minus_0.1": 0.107,
+   "mad_t_plus_0.1": 0.099,
+   "nearest_prior_keyframe": "frame_000027.jpg",
+   "mad_vs_prior_keyframe": 0.109
+  },
+  {
+   "file": "2D_source_0090s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0090s.jpg",
+   "kind": "exact_video_frame",
+   "t": 90.0,
+   "mad_t": 0.096,
+   "mad_t_minus_0.1": 0.145,
+   "mad_t_plus_0.1": 0.097,
+   "nearest_prior_keyframe": "frame_000056.jpg",
+   "mad_vs_prior_keyframe": 0.089
+  },
+  {
+   "file": "2D_source_0105s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0105s.jpg",
+   "kind": "exact_video_frame",
+   "t": 105.0,
+   "mad_t": 0.107,
+   "mad_t_minus_0.1": 0.13,
+   "mad_t_plus_0.1": 0.109,
+   "nearest_prior_keyframe": "frame_000060.jpg",
+   "mad_vs_prior_keyframe": 0.168
+  },
+  {
+   "file": "2D_source_0150s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0150s.jpg",
+   "kind": "exact_video_frame",
+   "t": 150.0,
+   "mad_t": 0.065,
+   "mad_t_minus_0.1": 0.187,
+   "mad_t_plus_0.1": 0.066,
+   "nearest_prior_keyframe": "frame_000083.jpg",
+   "mad_vs_prior_keyframe": 0.422
+  },
+  {
+   "file": "2D_source_0188s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0188s.jpg",
+   "kind": "exact_video_frame",
+   "t": 188.0,
+   "mad_t": 0.037,
+   "mad_t_minus_0.1": 0.093,
+   "mad_t_plus_0.1": 0.036,
+   "nearest_prior_keyframe": "frame_000099.jpg",
+   "mad_vs_prior_keyframe": 0.863
+  },
+  {
+   "file": "2D_source_0195s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0195s.jpg",
+   "kind": "exact_video_frame",
+   "t": 195.0,
+   "mad_t": 0.023,
+   "mad_t_minus_0.1": 0.041,
+   "mad_t_plus_0.1": 0.023,
+   "nearest_prior_keyframe": "frame_000116.jpg",
+   "mad_vs_prior_keyframe": 0.032
+  },
+  {
+   "file": "2D_source_0240s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0240s.jpg",
+   "kind": "exact_video_frame",
+   "t": 240.0,
+   "mad_t": 0.039,
+   "mad_t_minus_0.1": 0.08,
+   "mad_t_plus_0.1": 0.042,
+   "nearest_prior_keyframe": "frame_000187.jpg",
+   "mad_vs_prior_keyframe": 0.542
+  },
+  {
+   "file": "2D_source_0285s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0285s.jpg",
+   "kind": "exact_video_frame",
+   "t": 285.0,
+   "mad_t": 0.055,
+   "mad_t_minus_0.1": 0.084,
+   "mad_t_plus_0.1": 0.056,
+   "nearest_prior_keyframe": "frame_000286.jpg",
+   "mad_vs_prior_keyframe": 0.094
+  },
+  {
+   "file": "2D_source_0300s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0300s.jpg",
+   "kind": "exact_video_frame",
+   "t": 300.0,
+   "mad_t": 0.055,
+   "mad_t_minus_0.1": 0.094,
+   "mad_t_plus_0.1": 0.056,
+   "nearest_prior_keyframe": "frame_000296.jpg",
+   "mad_vs_prior_keyframe": 0.071
+  },
+  {
+   "file": "2D_source_0330s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0330s.jpg",
+   "kind": "exact_video_frame",
+   "t": 330.0,
+   "mad_t": 0.05,
+   "mad_t_minus_0.1": 0.074,
+   "mad_t_plus_0.1": 0.051,
+   "nearest_prior_keyframe": "frame_000386.jpg",
+   "mad_vs_prior_keyframe": 0.0
+  },
+  {
+   "file": "2D_source_0375s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0375s.jpg",
+   "kind": "exact_video_frame",
+   "t": 375.0,
+   "mad_t": 0.077,
+   "mad_t_minus_0.1": 0.088,
+   "mad_t_plus_0.1": 0.078,
+   "nearest_prior_keyframe": "frame_000474.jpg",
+   "mad_vs_prior_keyframe": 0.029
+  },
+  {
+   "file": "2D_source_0420s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0420s.jpg",
+   "kind": "exact_video_frame",
+   "t": 420.0,
+   "mad_t": 0.065,
+   "mad_t_minus_0.1": 0.081,
+   "mad_t_plus_0.1": 0.067,
+   "nearest_prior_keyframe": "frame_000532.jpg",
+   "mad_vs_prior_keyframe": 0.088
+  },
+  {
+   "file": "2D_source_0465s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0465s.jpg",
+   "kind": "exact_video_frame",
+   "t": 465.0,
+   "mad_t": 0.034,
+   "mad_t_minus_0.1": 0.071,
+   "mad_t_plus_0.1": 0.052,
+   "nearest_prior_keyframe": "frame_000621.jpg",
+   "mad_vs_prior_keyframe": 0.0
+  },
+  {
+   "file": "2D_source_0510s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0510s.jpg",
+   "kind": "exact_video_frame",
+   "t": 510.0,
+   "mad_t": 0.042,
+   "mad_t_minus_0.1": 0.069,
+   "mad_t_plus_0.1": 0.074,
+   "nearest_prior_keyframe": "frame_000762.jpg",
+   "mad_vs_prior_keyframe": 0.044
+  },
+  {
+   "file": "2D_source_0532s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0532s.jpg",
+   "kind": "exact_video_frame",
+   "t": 532.0,
+   "mad_t": 0.041,
+   "mad_t_minus_0.1": 0.047,
+   "mad_t_plus_0.1": 0.042,
+   "nearest_prior_keyframe": "frame_000857.jpg",
+   "mad_vs_prior_keyframe": 0.014
+  },
+  {
+   "file": "2D_source_0555s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0555s.jpg",
+   "kind": "exact_video_frame",
+   "t": 555.0,
+   "mad_t": 0.047,
+   "mad_t_minus_0.1": 0.115,
+   "mad_t_plus_0.1": 0.087,
+   "nearest_prior_keyframe": "frame_000888.jpg",
+   "mad_vs_prior_keyframe": 0.0
+  },
+  {
+   "file": "2D_source_0600s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0600s.jpg",
+   "kind": "exact_video_frame",
+   "t": 600.0,
+   "mad_t": 0.036,
+   "mad_t_minus_0.1": 0.048,
+   "mad_t_plus_0.1": 0.04,
+   "nearest_prior_keyframe": "frame_001004.jpg",
+   "mad_vs_prior_keyframe": 0.701
+  },
+  {
+   "file": "2D_source_0645s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0645s.jpg",
+   "kind": "exact_video_frame",
+   "t": 645.0,
+   "mad_t": 0.073,
+   "mad_t_minus_0.1": 0.082,
+   "mad_t_plus_0.1": 0.075,
+   "nearest_prior_keyframe": "frame_001039.jpg",
+   "mad_vs_prior_keyframe": 0.07
+  },
+  {
+   "file": "2D_source_0690s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0690s.jpg",
+   "kind": "exact_video_frame",
+   "t": 690.0,
+   "mad_t": 0.048,
+   "mad_t_minus_0.1": 0.078,
+   "mad_t_plus_0.1": 0.054,
+   "nearest_prior_keyframe": "frame_001060.jpg",
+   "mad_vs_prior_keyframe": 0.053
+  },
+  {
+   "file": "2D_source_0730s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0730s.jpg",
+   "kind": "exact_video_frame",
+   "t": 730.0,
+   "mad_t": 0.052,
+   "mad_t_minus_0.1": 0.082,
+   "mad_t_plus_0.1": 0.053,
+   "nearest_prior_keyframe": "frame_001102.jpg",
+   "mad_vs_prior_keyframe": 0.148
+  },
+  {
+   "file": "2D_source_0735s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0735s.jpg",
+   "kind": "exact_video_frame",
+   "t": 735.0,
+   "mad_t": 0.055,
+   "mad_t_minus_0.1": 0.107,
+   "mad_t_plus_0.1": 0.088,
+   "nearest_prior_keyframe": "frame_001109.jpg",
+   "mad_vs_prior_keyframe": 0.0
+  },
+  {
+   "file": "2D_source_0780s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0780s.jpg",
+   "kind": "exact_video_frame",
+   "t": 780.0,
+   "mad_t": 0.065,
+   "mad_t_minus_0.1": 0.097,
+   "mad_t_plus_0.1": 0.097,
+   "nearest_prior_keyframe": "frame_001248.jpg",
+   "mad_vs_prior_keyframe": 0.0
+  },
+  {
+   "file": "2D_source_0825s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0825s.jpg",
+   "kind": "exact_video_frame",
+   "t": 825.0,
+   "mad_t": 0.058,
+   "mad_t_minus_0.1": 0.079,
+   "mad_t_plus_0.1": 0.059,
+   "nearest_prior_keyframe": "frame_001392.jpg",
+   "mad_vs_prior_keyframe": 0.047
+  },
+  {
+   "file": "2D_source_0850s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0850s.jpg",
+   "kind": "exact_video_frame",
+   "t": 850.0,
+   "mad_t": 0.067,
+   "mad_t_minus_0.1": 0.104,
+   "mad_t_plus_0.1": 0.095,
+   "nearest_prior_keyframe": "frame_001490.jpg",
+   "mad_vs_prior_keyframe": 0.07
+  },
+  {
+   "file": "2D_source_0870s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0870s.jpg",
+   "kind": "exact_video_frame",
+   "t": 870.0,
+   "mad_t": 0.052,
+   "mad_t_minus_0.1": 0.083,
+   "mad_t_plus_0.1": 0.055,
+   "nearest_prior_keyframe": "frame_001528.jpg",
+   "mad_vs_prior_keyframe": 0.06
+  },
+  {
+   "file": "2D_source_0915s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0915s.jpg",
+   "kind": "exact_video_frame",
+   "t": 915.0,
+   "mad_t": 0.079,
+   "mad_t_minus_0.1": 0.107,
+   "mad_t_plus_0.1": 0.084,
+   "nearest_prior_keyframe": "frame_001670.jpg",
+   "mad_vs_prior_keyframe": 0.062
+  },
+  {
+   "file": "2D_source_0960s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_0960s.jpg",
+   "kind": "exact_video_frame",
+   "t": 960.0,
+   "mad_t": 0.051,
+   "mad_t_minus_0.1": 0.076,
+   "mad_t_plus_0.1": 0.054,
+   "nearest_prior_keyframe": "frame_001745.jpg",
+   "mad_vs_prior_keyframe": 0.037
+  },
+  {
+   "file": "2D_source_1005s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1005s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1005.0,
+   "mad_t": 0.089,
+   "mad_t_minus_0.1": 0.146,
+   "mad_t_plus_0.1": 0.126,
+   "nearest_prior_keyframe": "frame_001863.jpg",
+   "mad_vs_prior_keyframe": 0.0
+  },
+  {
+   "file": "2D_source_1050s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1050s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1050.0,
+   "mad_t": 0.11,
+   "mad_t_minus_0.1": 0.13,
+   "mad_t_plus_0.1": 0.112,
+   "nearest_prior_keyframe": "frame_002015.jpg",
+   "mad_vs_prior_keyframe": 0.062
+  },
+  {
+   "file": "2D_source_1095s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1095s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1095.0,
+   "mad_t": 0.04,
+   "mad_t_minus_0.1": 0.094,
+   "mad_t_plus_0.1": 0.042,
+   "nearest_prior_keyframe": "frame_002150.jpg",
+   "mad_vs_prior_keyframe": 0.294
+  },
+  {
+   "file": "2D_source_1140s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1140s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1140.0,
+   "mad_t": 0.059,
+   "mad_t_minus_0.1": 0.087,
+   "mad_t_plus_0.1": 0.063,
+   "nearest_prior_keyframe": "frame_002291.jpg",
+   "mad_vs_prior_keyframe": 0.0
+  },
+  {
+   "file": "2D_source_1165s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1165s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1165.0,
+   "mad_t": 0.066,
+   "mad_t_minus_0.1": 0.088,
+   "mad_t_plus_0.1": 0.067,
+   "nearest_prior_keyframe": "frame_002320.jpg",
+   "mad_vs_prior_keyframe": 0.097
+  },
+  {
+   "file": "2D_source_1185s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1185s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1185.0,
+   "mad_t": 0.034,
+   "mad_t_minus_0.1": 0.046,
+   "mad_t_plus_0.1": 0.035,
+   "nearest_prior_keyframe": "frame_002341.jpg",
+   "mad_vs_prior_keyframe": 0.034
+  },
+  {
+   "file": "2D_source_1230s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1230s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1230.0,
+   "mad_t": 0.114,
+   "mad_t_minus_0.1": 0.211,
+   "mad_t_plus_0.1": 0.114,
+   "nearest_prior_keyframe": "frame_002487.jpg",
+   "mad_vs_prior_keyframe": 0.0
+  },
+  {
+   "file": "2D_source_1275s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1275s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1275.0,
+   "mad_t": 0.05,
+   "mad_t_minus_0.1": 0.088,
+   "mad_t_plus_0.1": 0.052,
+   "nearest_prior_keyframe": "frame_002581.jpg",
+   "mad_vs_prior_keyframe": 0.074
+  },
+  {
+   "file": "2D_source_1320s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1320s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1320.0,
+   "mad_t": 0.057,
+   "mad_t_minus_0.1": 0.112,
+   "mad_t_plus_0.1": 0.062,
+   "nearest_prior_keyframe": "frame_002746.jpg",
+   "mad_vs_prior_keyframe": 0.0
+  },
+  {
+   "file": "2D_source_1360s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1360s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1360.0,
+   "mad_t": 0.079,
+   "mad_t_minus_0.1": 0.223,
+   "mad_t_plus_0.1": 0.083,
+   "nearest_prior_keyframe": "frame_002860.jpg",
+   "mad_vs_prior_keyframe": 0.321
+  },
+  {
+   "file": "2D_source_1365s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1365s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1365.0,
+   "mad_t": 0.086,
+   "mad_t_minus_0.1": 0.115,
+   "mad_t_plus_0.1": 0.088,
+   "nearest_prior_keyframe": "frame_002860.jpg",
+   "mad_vs_prior_keyframe": 0.319
+  },
+  {
+   "file": "2D_source_1410s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1410s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1410.0,
+   "mad_t": 0.112,
+   "mad_t_minus_0.1": 0.163,
+   "mad_t_plus_0.1": 0.135,
+   "nearest_prior_keyframe": "frame_002943.jpg",
+   "mad_vs_prior_keyframe": 0.0
+  },
+  {
+   "file": "2D_source_1455s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1455s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1455.0,
+   "mad_t": 0.135,
+   "mad_t_minus_0.1": 0.156,
+   "mad_t_plus_0.1": 0.138,
+   "nearest_prior_keyframe": "frame_003044.jpg",
+   "mad_vs_prior_keyframe": 0.07
+  },
+  {
+   "file": "2D_source_1500s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1500s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1500.0,
+   "mad_t": 0.13,
+   "mad_t_minus_0.1": 0.169,
+   "mad_t_plus_0.1": 0.133,
+   "nearest_prior_keyframe": "frame_003056.jpg",
+   "mad_vs_prior_keyframe": 0.082
+  },
+  {
+   "file": "2D_source_1530s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1530s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1530.0,
+   "mad_t": 0.152,
+   "mad_t_minus_0.1": 0.182,
+   "mad_t_plus_0.1": 0.154,
+   "nearest_prior_keyframe": "frame_003101.jpg",
+   "mad_vs_prior_keyframe": 0.088
+  },
+  {
+   "file": "2D_source_1545s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1545s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1545.0,
+   "mad_t": 0.18,
+   "mad_t_minus_0.1": 0.19,
+   "mad_t_plus_0.1": 0.184,
+   "nearest_prior_keyframe": "frame_003110.jpg",
+   "mad_vs_prior_keyframe": 0.109
+  },
+  {
+   "file": "2D_source_1590s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1590s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1590.0,
+   "mad_t": 0.065,
+   "mad_t_minus_0.1": 0.086,
+   "mad_t_plus_0.1": 0.066,
+   "nearest_prior_keyframe": "frame_003135.jpg",
+   "mad_vs_prior_keyframe": 0.048
+  },
+  {
+   "file": "2D_source_1635s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1635s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1635.0,
+   "mad_t": 0.092,
+   "mad_t_minus_0.1": 0.126,
+   "mad_t_plus_0.1": 0.095,
+   "nearest_prior_keyframe": "frame_003207.jpg",
+   "mad_vs_prior_keyframe": 0.093
+  },
+  {
+   "file": "2D_source_1680s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1680s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1680.0,
+   "mad_t": 0.018,
+   "mad_t_minus_0.1": 0.021,
+   "mad_t_plus_0.1": 0.018,
+   "nearest_prior_keyframe": "frame_003213.jpg",
+   "mad_vs_prior_keyframe": 0.197
+  },
+  {
+   "file": "2D_source_1690s.jpg",
+   "path": "2D_原视频精确时刻视觉核验_20261018/原视频精确抽帧/2D_source_1690s.jpg",
+   "kind": "exact_video_frame",
+   "t": 1690.0,
+   "mad_t": 0.017,
+   "mad_t_minus_0.1": 0.022,
+   "mad_t_plus_0.1": 0.018,
+   "nearest_prior_keyframe": "frame_003213.jpg",
+   "mad_vs_prior_keyframe": 0.197
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+  "release": "abu-2d-source-20261023",
+  "source": "https://github.com/qwertyuiopasdfghjklzxcvcbnm/abu-materials/releases/tag/abu-2d-source-20261023",
+  "assets": {
+    "2D.mp4": {
+      "bytes": 145568572,
+      "sha256": "dc13f6af402ab1bdeb84a1c2a0ed15410b59307a65c68aee149408dab57f8d29",
+      "expected_bytes": 145568572,
+      "expected_sha256": "dc13f6af402ab1bdeb84a1c2a0ed15410b59307a65c68aee149408dab57f8d29",
+      "match": true
+    },
+    "2D-media.zip": {
+      "bytes": 479930912,
+      "sha256": "161cce2c4419b9a8a57b9da9e16d286d45dab1cb767880ca3721299cd4170b67",
+      "expected_bytes": 479930912,
+      "expected_sha256": "161cce2c4419b9a8a57b9da9e16d286d45dab1cb767880ca3721299cd4170b67",
+      "match": true
+    }
+  }
+}

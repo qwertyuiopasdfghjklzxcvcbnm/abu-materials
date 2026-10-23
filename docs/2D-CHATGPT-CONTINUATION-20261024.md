@@ -14,9 +14,10 @@
 - Claude branch had sealed B01–B08 / **1–512**; those are retained, not visually re-reviewed.
 - ChatGPT with Chat On Steroids Core.view_image *individually* opened the original full-resolution JPG files and recorded **B09 / 513–576**, all 64 files. The entries show `session='ChatGPT COS continuation 2026-10-24'` and the actual tool used; batch groups G0065 through G0081.
 - Batch B09 sealed via `tools/checkpoint.py B09`. Sealed B09 SHA256: `aae258608c3acbf84056331390461817bbaa0b0d7f485fb14aaae5e5572255ce`.
-- Total structurally closed: **576/3281**, 9/51 batches. Next unreviewed image is **577** (B10 = 577–640).
-- Verified with `py -3 tools/validate.py --check-media`: PASS; 576/576 record-to-inventory checks, all relevant raw original JPG SHA256s (directly extracted or from the media ZIP), sealed-batch hashes, and linked ledger.
-- The validator *does not* prove an image was actually looked at. For B09 the calls were actually made one by one and recorded here; for original Claude's B01–B08 only structural/provenance checks were done.
+- ChatGPT additionally **individually opened all B10 / 577–640** full-original JPEGs and recorded observations in groups G0082 through G0097, without redoing prior sealed batches. Batch B10 sealed via `tools/checkpoint.py B10`, SHA256 `297a96a567a0fc507ca77a64ce1bc741d391e36a7a16e179dd607dda2f1133c8`.
+- Total structurally closed: **640/3281**, 10/51 batches. Next unreviewed image is **641** (B11 = 641–704).
+- Verified with `py -3 tools/validate.py --check-media`: PASS; 640/640 record-to-inventory checks, all relevant original JPG SHA256s (directly extracted or from the media ZIP), sealed-batch hashes, and linked ledger.
+- The validator *does not* prove an image was actually looked at. For B09 and B10 individual full-JPG view calls were actually made and recorded; for original Claude's B01–B08 only structural/provenance checks were done here.
 
 ## Observed source content and epistemic notes
 
@@ -24,16 +25,18 @@ All B09 frames are from slide 9, `Market Inertia: 80% Chance of More of the Same
 
 Frame 529 begins a new red overlaid explanatory sentence, `Bear trend, so lower prices more likely than higher prices`, which becomes strong red by frame 532. The presenter blue halo in most frames moves from post-low rally bars backwards to earlier bear-trend bars and the first sideways consolidation. New entries record specific visible pointer positions and distinguish overlays from actual chart bars. They do **not** infer trading performance, a guaranteed 80% measured conditional frequency, or a price reversal entry setup from these stills alone.
 
+B10 starts on the same Slide 9; frame 581 adds a green caution `Don't look to buy minor reversals`. Frames 586–590 crossfade into Slide 10 `Inertia In Trends: 80% Rule` (yellow text `80% Rule`). Its left statement becomes fully legible: `In trends, 80% of reversals fail`. Frames 596–605 progressively overlay the red line `Minor reversals become bear flags` and **four distinct pink/red rectangular areas** marking attempted countertrend reversals in the existing bear trend. Later frames show the blue speaker pointer moving around these annotations and the preceding/downstream bear bars. These frames provide qualitative teaching examples, not independently measured reversal failure rates. The red shapes are after-the-fact illustrative overlays, not evidence they were visible live before a trade.
+
 ## How to continue
 
 1. Open `docs/2D-METHOD.md` and `tools/review_lib.py` before recording.
-2. Run `py -3 tools/extract_batch.py B10`; it extracts/verifies 64 JPGs in `restored/zip/高清原始分辨率/`.
+2. Run `py -3 tools/extract_batch.py B11`; it extracts/verifies 64 JPGs in `restored/zip/高清原始分辨率/`.
 3. Use `Core.view_image` for **each** full JPG in ascending order, record specific visually grounded changes with `tools/record.py`, setting session and read_via correctly; do not call `record.py` before the actual image is opened.
-4. Once every 577–640 record exists, run `py -3 tools/checkpoint.py B10` (only once); then `py -3 tools/validate.py --check-media`.
+4. Once every 641–704 record exists, run `py -3 tools/checkpoint.py B11` (only once); then `py -3 tools/validate.py --check-media`.
 5. Keep the same independent local continuation branch unless explicitly asked to push elsewhere. Do not overwrite Claude's branch, original media, or completed existing B batches.
 
 ## Restrictions and notices
 
-- No final 2D Skill has been produced from this incomplete review; 2705 stills remain.
+- No final 2D Skill has been produced from this incomplete review; 2641 stills remain.
 - The GitHub repository appears **public** even though the README says private/plan-only, and its media ZIP is accessible from its public release. Treat public exposure as a separate issue to be addressed if intended to be confidential.
-- `restored/` contains a large original ZIP, extracted JPGs, and transient group input JSONL files, deliberately ignored by Git and not published. The durable Git-tracked evidence consists of B09 JSONL, progress and ledger plus scripts and this note.
+- `restored/` contains a large original ZIP, extracted JPGs, and transient group input JSONL files, deliberately ignored by Git and not published. The durable Git-tracked evidence consists of B09–B10 JSONL, progress and ledger plus scripts and this note.

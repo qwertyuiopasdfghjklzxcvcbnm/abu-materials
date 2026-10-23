@@ -41,7 +41,7 @@ Batches B01–B50 hold 64 images each and B51 holds the last 81, so every batch 
 | `sc` | scene: `title`, `chart`, `chart_ind` (chart with indicators), `line_chart`, `ad`, `text`, `blank`, `transition`, `contact_sheet`, `other` |
 | `ch` | chart id `Cnn`, required for chart scenes. Same price bars keep the same id; different bars get a new id, numbered in order of first appearance |
 | `see` | what is visible. On the first frame of a chart, give checkable details (title/symbol/timeframe text, price-axis labels). On later frames, say what changed versus the previous frame |
-| `mk` | counts of annotations visible in this frame (on-screen state, not just new marks), e.g. `{"blue_line": 2, "blue_circle": 1}`. Allowed keys are in `tools/review_lib.py` |
+| `mk` | counts of annotations visible in this frame (on-screen state, not just new marks), e.g. `{"blue_line": 2, "blue_circle": 1}`. Allowed keys are in `tools/review_lib.py`. `pointer` is the presenter's small blue ring cursor, not a drawn mark. Lines that are part of the charting software (moving average, prior-high step lines) are described in `see`, not counted |
 | `bars` | bar labels or numbers readable on the chart |
 | `fail` | the frame shows a failed setup or counter-example (what failed, where) |
 | `pp` | `{"ref": bar/area, "pre": what was knowable at the reference bar using only bars to its left, "post": what followed}` |

@@ -14,13 +14,14 @@ from review_lib import ROOT, INPUT_KEYS, SCENES, validate_input, manifest, ZIPDI
 parser = argparse.ArgumentParser()
 parser.add_argument("--input",required=True)
 parser.add_argument("--output",required=True)
+parser.add_argument("--chart-id",help="Explicit reviewed chart identity for source notes lacking their own chart id")
 args=parser.parse_args()
 source=ROOT/args.input
 rows=[json.loads(s) for s in source.read_text(encoding="utf-8-sig").splitlines() if s.strip()]
 by_file,_=manifest()
 out=[]
 for note in rows:
-    if not (note.get("read") or note.get("read_in_current_pass") or note.get("reviewed_with_core_view_image")):
+    if not (note.get("read") or note.get("read_in_current_pass") or note.get("reviewed_with_core_view_image") or note.get("core_view_image")):
         raise SystemExit(f"seq {note.get('seq')}: no declared actual per-frame read")
     fname=note.get("f") or note.get("filename") or note.get("file")
     m=by_file.get(fname)
@@ -29,10 +30,10 @@ for note in rows:
     b=(ZIPDIR/m["path"]).read_bytes()
     if sha256_bytes(b)!=m["sha256"]:
         raise SystemExit(f"seq {note.get('seq')}: original jpg SHA mismatches")
-    sc=note["sc"]
+    sc=note.get("sc",note.get("scene"))
     if sc not in SCENES:
         raise SystemExit(f"seq {note.get('seq')}: unknown scene {sc}")
-    ch=note.get("ch")
+    ch=note.get("ch") or args.chart_id
     if not ch and sc in ("chart","chart_ind","line_chart"):
         if note.get("slide") is None:
             raise SystemExit(f"seq {note.get('seq')}: chart id not supplied")
@@ -51,7 +52,10 @@ for note in rows:
     pointer=note.get("pointer")
     if pointer is not None and "pointer" not in (note.get("mk") or {}):
         see += f" [blue presenter pointer pixel: {pointer}]"
-    rec={"f":fname,"sc":sc,"see":see,"cf":note.get("cf","h")}
+    visible_english=note.get("visual_english")
+    if visible_english:
+        see += " [On-slide EN: "+str(visible_english)+"]"
+    rec={"f":fname,"sc":sc,"see":see,"cf":note.get("cf",note.get("confidence","h"))}
     if ch: rec["ch"]=ch
     for k in ["mk","pp","fail","flag","bars","crop","rev"]:
         if k in note: rec[k]=note[k]

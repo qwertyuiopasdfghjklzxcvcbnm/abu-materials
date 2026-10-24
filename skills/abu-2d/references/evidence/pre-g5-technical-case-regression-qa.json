@@ -1,0 +1,17 @@
+{
+  "course": "2D",
+  "checked_at_utc": "2026-10-24T18:28:09.235052+00:00",
+  "status": "TECHNICAL_PASS",
+  "not_a_g5_semantic_or_visual_review": true,
+  "frame_sources_checked_metadata": 3281,
+  "frame_reviews_checked_metadata": 3281,
+  "subtitle_pairs_checked_metadata": 498,
+  "transcript_issue_entries": 46,
+  "original_translation_audit_entries": 38,
+  "cases_checked": 10,
+  "frame_anchors_checked": 18,
+  "distinct_case_frame_ids": 18,
+  "regressions_checked": 30,
+  "warnings": [],
+  "problems": []
+}

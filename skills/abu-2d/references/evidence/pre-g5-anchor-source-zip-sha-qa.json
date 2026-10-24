@@ -1,0 +1,157 @@
+{
+  "course": "2D",
+  "status": "PASS",
+  "checked_at_utc": "2026-10-24T18:28:09.767732+00:00",
+  "archive": "C:\\Users\\48302\\Desktop\\量化交易\\_Claude_abu2d_handoff_20261024\\restored\\2D-media.zip",
+  "original_zip_member_count": 3281,
+  "case_count": 10,
+  "anchors_verified": 18,
+  "not_visual_or_semantic_qa": true,
+  "errors": [],
+  "anchors": [
+    {
+      "case_id": "PC01-bear-trend-candlestick-bottom",
+      "seq": 180,
+      "path": "高清原始分辨率/frame_000180.jpg",
+      "bytes": 112555,
+      "sha256": "8ff7854474faa72237f64b2691c66e5482eb6e4ce9f85a30d5c146f9047f470a",
+      "pass_sha_bytes": true
+    },
+    {
+      "case_id": "PC02-bearish-engulfing-in-bull",
+      "seq": 250,
+      "path": "高清原始分辨率/frame_000250.jpg",
+      "bytes": 106558,
+      "sha256": "f74c3dde86d507556b7350267d8d5827c9ef45acf4f2276ada53afd545a7ba2a",
+      "pass_sha_bytes": true
+    },
+    {
+      "case_id": "PC03-bullish-engulfing-in-tight-bear",
+      "seq": 400,
+      "path": "高清原始分辨率/frame_000400.jpg",
+      "bytes": 113877,
+      "sha256": "82eb83a0409a7405f550e2b56e94cfda525b76730a7dda56173249b2c3077ab3",
+      "pass_sha_bytes": true
+    },
+    {
+      "case_id": "PC04-trend-inertia-minor-reversal",
+      "seq": 600,
+      "path": "高清原始分辨率/frame_000600.jpg",
+      "bytes": 89102,
+      "sha256": "85142628739c9b87affb660338a3a7a52af44d43bfc382dcc671ab5cb43cf8d3",
+      "pass_sha_bytes": true
+    },
+    {
+      "case_id": "PC05-range-breakout-fail",
+      "seq": 900,
+      "path": "高清原始分辨率/frame_000900.jpg",
+      "bytes": 115523,
+      "sha256": "f3a9123b715389796a9837b0de25bf770f36dcecb0947ce11dcd0cd647695683",
+      "pass_sha_bytes": true
+    },
+    {
+      "case_id": "PC06-support-resistance-prior-level",
+      "seq": 1230,
+      "path": "高清原始分辨率/frame_001230.jpg",
+      "bytes": 139441,
+      "sha256": "5f42df2fb6bd300d5ccba1087000f0f71a3522f2113b665db83ea2fddb7414c4",
+      "pass_sha_bytes": true
+    },
+    {
+      "case_id": "PC06-support-resistance-prior-level",
+      "seq": 1370,
+      "path": "高清原始分辨率/frame_001370.jpg",
+      "bytes": 110601,
+      "sha256": "db53cd2b8c91cea6afd59c54327668c059ed799b2f22fb44518372e24b468d52",
+      "pass_sha_bytes": true
+    },
+    {
+      "case_id": "PC07-momentum-breakout-pullback",
+      "seq": 1800,
+      "path": "高清原始分辨率/frame_001800.jpg",
+      "bytes": 177286,
+      "sha256": "ec8b1f9ff1ebeb2f96fabebd82252ec36e549b61d8c7f70855f024d9f46436e6",
+      "pass_sha_bytes": true
+    },
+    {
+      "case_id": "PC07-momentum-breakout-pullback",
+      "seq": 2110,
+      "path": "高清原始分辨率/frame_002110.jpg",
+      "bytes": 223376,
+      "sha256": "f619447e4c99d7c0271a2a679a23c98b987644564f9998caca9f33f736c556f3",
+      "pass_sha_bytes": true
+    },
+    {
+      "case_id": "PC07-momentum-breakout-pullback",
+      "seq": 2310,
+      "path": "高清原始分辨率/frame_002310.jpg",
+      "bytes": 109638,
+      "sha256": "3d501cd4bb9209daaa6be11da5705c35a750e231587c6b322d6b4794866d9ea1",
+      "pass_sha_bytes": true
+    },
+    {
+      "case_id": "PC08-indicators-versus-price-bars",
+      "seq": 2510,
+      "path": "高清原始分辨率/frame_002510.jpg",
+      "bytes": 240102,
+      "sha256": "49536b051ed861648c75f82ffaa34c25a387a6104a4a90716bbe735388fdbe00",
+      "pass_sha_bytes": true
+    },
+    {
+      "case_id": "PC08-indicators-versus-price-bars",
+      "seq": 2740,
+      "path": "高清原始分辨率/frame_002740.jpg",
+      "bytes": 132482,
+      "sha256": "2fb653642d24b0fa3d527656174d2358749911ef06bd9e42badc1c4c5d3aedb9",
+      "pass_sha_bytes": true
+    },
+    {
+      "case_id": "PC09-divergence-bear-trend-thousand-cuts",
+      "seq": 2860,
+      "path": "高清原始分辨率/frame_002860.jpg",
+      "bytes": 140200,
+      "sha256": "89f34299ff1e09c1b64d6f6f5cc7ec191fd40ee833ceb8c3b1dea1bb6eb911ba",
+      "pass_sha_bytes": true
+    },
+    {
+      "case_id": "PC09-divergence-bear-trend-thousand-cuts",
+      "seq": 3009,
+      "path": "高清原始分辨率/frame_003009.jpg",
+      "bytes": 216192,
+      "sha256": "684b5f820c937e1e127e150da9e8022e70ce9ad8ea3afb483c5dcff8cb77c791",
+      "pass_sha_bytes": true
+    },
+    {
+      "case_id": "PC10-monthly-timeframe-risk",
+      "seq": 3137,
+      "path": "高清原始分辨率/frame_003137.jpg",
+      "bytes": 155925,
+      "sha256": "9d78f95babb02b90b3955560df538bafb6b2b0128b66437aa8f10337f6bd9120",
+      "pass_sha_bytes": true
+    },
+    {
+      "case_id": "PC10-monthly-timeframe-risk",
+      "seq": 3199,
+      "path": "高清原始分辨率/frame_003199.jpg",
+      "bytes": 176658,
+      "sha256": "021217526932bf4a084f0ef2bcc4fe2dddb3a0caa189a9d1f1859d8e88e7c21a",
+      "pass_sha_bytes": true
+    },
+    {
+      "case_id": "PC10-monthly-timeframe-risk",
+      "seq": 3200,
+      "path": "高清原始分辨率/frame_003200.jpg",
+      "bytes": 180165,
+      "sha256": "421115c2ec0e7fd1373ba4fc8a4ac01fabf90f33073d2ff32d722ca411f1a5df",
+      "pass_sha_bytes": true
+    },
+    {
+      "case_id": "PC10-monthly-timeframe-risk",
+      "seq": 3206,
+      "path": "高清原始分辨率/frame_003206.jpg",
+      "bytes": 194919,
+      "sha256": "7b4e532b0594a36f3fea2c665377ccd6be5d6f26a8b9452024fdfbab15de2a3f",
+      "pass_sha_bytes": true
+    }
+  ]
+}

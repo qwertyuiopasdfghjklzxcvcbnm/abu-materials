@@ -1,0 +1,44 @@
+{
+  "status": "PRIME_FIX_PENDING_INDEPENDENT_RECHECK",
+  "before_sha256": "ef60d4575c22756a839f41cf10a4432aa818f91d1fe8c02ccb69991a1a0bad6f",
+  "after_sha256": "1f401ad14c33844cc6b7900d79aa0d12bd0684891078e4ac84baf162d2f81561",
+  "backup": "joint-case-evidence.json.before_g5_visual_precision_20261025.bak",
+  "changes": [
+    {
+      "id": "PC02-bearish-engulfing-in-bull",
+      "add_cues": [
+        72
+      ]
+    },
+    {
+      "id": "PC03-bullish-engulfing-in-tight-bear",
+      "add_cues": [
+        85,
+        86,
+        89,
+        90,
+        91
+      ]
+    },
+    {
+      "id": "PC04-trend-inertia-minor-reversal",
+      "coordinate_correction": true
+    },
+    {
+      "id": "PC07-momentum-breakout-pullback",
+      "separate_animation_phase": true
+    },
+    {
+      "id": "PC09-divergence-bear-trend-thousand-cuts",
+      "explicit_engineering_boundary": true
+    },
+    {
+      "id": "PC10-monthly-timeframe-risk",
+      "new_source_anchor": {
+        "seq": 3206,
+        "sha256": "7b4e532b0594a36f3fea2c665377ccd6be5d6f26a8b9452024fdfbab15de2a3f",
+        "source_time": 1622.4
+      }
+    }
+  ]
+}

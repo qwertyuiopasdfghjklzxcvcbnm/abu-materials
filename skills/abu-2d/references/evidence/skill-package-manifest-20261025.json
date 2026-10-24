@@ -1,0 +1,281 @@
+{
+  "course": "abu-2d",
+  "status": "COMPLETE",
+  "approval": "G1-G5 5/5 PASS, independently reviewed",
+  "date_utc": "2026-10-24T18:30:39.954367+00:00",
+  "source_original_media_included": false,
+  "skill_file_count_excluding_manifest": 54,
+  "skill_uncompressed_bytes_excluding_manifest": 8957847,
+  "files": [
+    {
+      "path": "references/chapter-timeline.md",
+      "sha256": "025e10620b7b4af98baf2ca33d6f5bacb0714e93e77b4c12e1af5258dcedc24e",
+      "bytes": 2622
+    },
+    {
+      "path": "references/evidence/acceptance-five-gate.json",
+      "sha256": "8bc685ec7815ccc0941aa15164936736e85e92d42a65d8f2f52bd8a9fc8c650a",
+      "bytes": 4791
+    },
+    {
+      "path": "references/evidence/acceptance-five-gate.json.before_G5_status_promotion_20261025.bak",
+      "sha256": "33149476a40587270e7c4c74a6521d4ada5c4524863d859c48215f9bf229111a",
+      "bytes": 4411
+    },
+    {
+      "path": "references/evidence/acceptance-status-20261023.json",
+      "sha256": "1aa6bc4e72985434d38578e1ee327fc9bdc56817464277d5fbf6541e2739d68a",
+      "bytes": 2822
+    },
+    {
+      "path": "references/evidence/frame-inventory.json",
+      "sha256": "27674f5578d739505cf515e4804022d5645896ce4e9a9e83cf57e66cb39083f6",
+      "bytes": 943395
+    },
+    {
+      "path": "references/evidence/frame-inventory.jsonl",
+      "sha256": "d89b180c22381ee44b183454a663e15796cc0aa5b6c2a783c906483583314dba",
+      "bytes": 1082344
+    },
+    {
+      "path": "references/evidence/frame-observations-all.jsonl",
+      "sha256": "a8dad0ce9932734129bb51e38ec6ede8eb7ca1e21e791ec6cefbcc8e016a2df0",
+      "bytes": 3719456
+    },
+    {
+      "path": "references/evidence/frame-observations-standard.jsonl",
+      "sha256": "f034ce37b86181cc027366f8729896eb0438026257c69f5db0137f3d961717d9",
+      "bytes": 2502827
+    },
+    {
+      "path": "references/evidence/g2-full-source-qa-20261024.md",
+      "sha256": "27d0aa0906c4e35fad067fac93151851e1778efde8e8c71acc9b343808358c53",
+      "bytes": 4622
+    },
+    {
+      "path": "references/evidence/g5-cue-precision-fix-trace-20261025.json",
+      "sha256": "252bfb9c0a4b7e02c2501859bade07df616e9dc8821e2f39769f1cc33761f745",
+      "bytes": 2770
+    },
+    {
+      "path": "references/evidence/g5-final-status-promotion-trace-20261025.json",
+      "sha256": "11e3daf60366144e4532b8578b706a47113edd2ea08f9234544c168bf2b7a5e8",
+      "bytes": 1368
+    },
+    {
+      "path": "references/evidence/g5-PC07-animation-fix-trace-20261025.json",
+      "sha256": "33bd0d40af42c46eb703e826e27c721cd810f7d0d01a11397d566a45d94b10af",
+      "bytes": 916
+    },
+    {
+      "path": "references/evidence/g5-regression-readable-status-trace-20261025.json",
+      "sha256": "a934b3f2adb663ddf666c06b8f9c8fc0700e657d65bc8f0b52e879536984086b",
+      "bytes": 273
+    },
+    {
+      "path": "references/evidence/g5-source-visual-precision-fix-trace-20261025.json",
+      "sha256": "cf07b58eedbb442ae3ee02751257f924d8a10ede51b68ea9cf3cbe54600dc263",
+      "bytes": 1162
+    },
+    {
+      "path": "references/evidence/independent-g5-final-20261025.md",
+      "sha256": "65f3f2e1df5c96108aba7eba12f1e570d356e478cc92f3b2caca83c634f1fa1e",
+      "bytes": 5767
+    },
+    {
+      "path": "references/evidence/independent-g5-final-patch-crosscheck-worker2-20261025.md",
+      "sha256": "77c3aa5cb6867e8f30ea998e8b01fdad7ba6bc3ba94881496079e055035503c1",
+      "bytes": 4525
+    },
+    {
+      "path": "references/evidence/independent-g5-partA-worker2-20261025.md",
+      "sha256": "ff28907a4364de590e2ebabe8364deda9d9d5ebd952f44c100ff62181593d7f0",
+      "bytes": 8729
+    },
+    {
+      "path": "references/evidence/independent-g5-partB-recheck-worker3-20261025.md",
+      "sha256": "2b36d729927a5f6988fbde5c4b2cdf1926dbb85b8e2e9186a0d536505cd35b2e",
+      "bytes": 8853
+    },
+    {
+      "path": "references/evidence/independent-g5-partB-worker3-20261025.md",
+      "sha256": "a6cb704cb41e4971e0e0aa0d43d7d445dfda14f8a914bcf743e121a2d44897f8",
+      "bytes": 15712
+    },
+    {
+      "path": "references/evidence/independent-g5-PC07-final-micro-recheck-worker3-20261025.md",
+      "sha256": "f8a78a1ef466c0aef21ec180ebba54b4884e1db3a0b3a56541ed0f730da561b0",
+      "bytes": 2436
+    },
+    {
+      "path": "references/evidence/independent-g5-pending.md",
+      "sha256": "d58d0870441e03d0da7b837a38a8b733fff9b2a411eb4893d274f92a7f390e60",
+      "bytes": 4603
+    },
+    {
+      "path": "references/evidence/joint-case-evidence.json",
+      "sha256": "c2c3f654eb091179c5cbf80ab1e567dbf4ecdbe480bac39254eb6820b119a5ec",
+      "bytes": 30722
+    },
+    {
+      "path": "references/evidence/joint-case-evidence.json.before_g5_english_cue_precision_20261025.bak",
+      "sha256": "ed23af4c594b8b9dcf91df7e83c3cab1a375c8a49f51f7ea14f2957acb6c710f",
+      "bytes": 27974
+    },
+    {
+      "path": "references/evidence/joint-case-evidence.json.before_g5_PC07_animation_fix_20261025.bak",
+      "sha256": "1f401ad14c33844cc6b7900d79aa0d12bd0684891078e4ac84baf162d2f81561",
+      "bytes": 30609
+    },
+    {
+      "path": "references/evidence/joint-case-evidence.json.before_G5_status_promotion_20261025.bak",
+      "sha256": "95306d044f8b0346d1564bdbe10bda6f102f6d2b7027ae92b88eb5eb8eb12762",
+      "bytes": 30722
+    },
+    {
+      "path": "references/evidence/joint-case-evidence.json.before_g5_visual_precision_20261025.bak",
+      "sha256": "ef60d4575c22756a839f41cf10a4432aa818f91d1fe8c02ccb69991a1a0bad6f",
+      "bytes": 28824
+    },
+    {
+      "path": "references/evidence/knowledge-regression-cases.json",
+      "sha256": "a7b05c5aaf3699ece0c31e0af16cedea523ba2acc2611bb0a0b036b961b1599a",
+      "bytes": 13370
+    },
+    {
+      "path": "references/evidence/knowledge-regression-cases.json.before_G5_status_promotion_20261025.bak",
+      "sha256": "17adafc18bf9e9f5beeb7d958a7ae23b446171a34574b8b22ece642e64de0d42",
+      "bytes": 14053
+    },
+    {
+      "path": "references/evidence/knowledge-regression-cases.md",
+      "sha256": "b0ba32474bf17d95a1c610688dc14cd6f85eb6e7189f7054c42293c14933babd",
+      "bytes": 7577
+    },
+    {
+      "path": "references/evidence/knowledge-regression-cases.md.before_G5_header_reconcile_20261025.bak",
+      "sha256": "f9833d45968ebd1bf5eb93c40ad4b747bb95fe75331fbfc7234aecb099a55423",
+      "bytes": 7565
+    },
+    {
+      "path": "references/evidence/obsidian-history-audit.md",
+      "sha256": "0177a8ff007b23231011213801361e16f5b43309d95fc6e2aef45f78a3cea1cc",
+      "bytes": 4659
+    },
+    {
+      "path": "references/evidence/pre-g5-anchor-source-zip-sha-qa.json",
+      "sha256": "8b462f2d26e7098f4cb059b302da98da3d54fb52b471b6c1bd2835f6cd826dd3",
+      "bytes": 5499
+    },
+    {
+      "path": "references/evidence/pre-g5-technical-case-regression-qa.json",
+      "sha256": "7ee463b06e8d5de6b46356f3ae0ed9971b3147951c62d6f5692e616ae4b9f054",
+      "bytes": 526
+    },
+    {
+      "path": "references/evidence/source-ledger-coverage.json",
+      "sha256": "b0ce606baf6d845d4c3aeaff6725b1b8f627ffec529d3622deeff73e8f6f1d55",
+      "bytes": 574
+    },
+    {
+      "path": "references/evidence/source-outline.md",
+      "sha256": "3e560a1399fcf2e952faf7c2770c438de3a7ef4ccb0c1367d7c604665fc50628",
+      "bytes": 6453
+    },
+    {
+      "path": "references/evidence/timestamp-check.json",
+      "sha256": "ecb4e9f00a00a571dd801b2e7e4a59f4e62a18d8636558000c460a0350528d66",
+      "bytes": 53808
+    },
+    {
+      "path": "references/evidence/transcript-review.json",
+      "sha256": "b3db43b196c1fa105cf6493c0207513cf5b7a92fc802d4f2853ac6b3875c818a",
+      "bytes": 211363
+    },
+    {
+      "path": "references/evidence/translation-qa.md",
+      "sha256": "9435eb8e1f3e8ed0b7f6c104d59cf20f84583466be4fda77a1eafc174739d036",
+      "bytes": 8274
+    },
+    {
+      "path": "references/evidence/translation-term-audit.jsonl",
+      "sha256": "2ce9a384dc9fbed9ab2f38b35998f1828ae9efe96f8f9207659353859c5a9b50",
+      "bytes": 9090
+    },
+    {
+      "path": "references/evidence/video-probe.json",
+      "sha256": "9aa31824274e19969e522b26012ac0c0b3d8fd1a2989ae6f2bdcbbb227277a89",
+      "bytes": 437
+    },
+    {
+      "path": "references/knowledge.md",
+      "sha256": "bb0b418c9c5cd5280ca5e834f044de65f913885f7a0c9b3988b6915c2ed15339",
+      "bytes": 12765
+    },
+    {
+      "path": "references/sources/2D-ch.srt",
+      "sha256": "ca185868ab085b40858e636f911c7043f6dd5b05280a76abd5494bd0489d9c8d",
+      "bytes": 40380
+    },
+    {
+      "path": "references/sources/2D-en.srt",
+      "sha256": "3fc4fa1833d0981434e9d776c8ccca3a3e7c395c1d6f40a8808902ca0e7a148b",
+      "bytes": 44889
+    },
+    {
+      "path": "scripts/build_joint_case_metadata.py",
+      "sha256": "53836990d69b7c0a3b0dffb8247bd0421a755a4209addd5b90cb12e0126549fb",
+      "bytes": 2421
+    },
+    {
+      "path": "scripts/build_transcript_review.py",
+      "sha256": "6c10f7c822345f3d38b28be2712e6ceac1f3a8286ba304c11bc1ea59dab53ba8",
+      "bytes": 7556
+    },
+    {
+      "path": "scripts/materialize_source_and_regressions.py",
+      "sha256": "46f16f1bec228a82c0864200d754f2ae7d6bd4ef40f1724fcf5c79cbbccd699a",
+      "bytes": 3457
+    },
+    {
+      "path": "scripts/prepare_standard_evidence.py",
+      "sha256": "c32f1090e024d93667443c19439d632955a8b4cda5ff2bd118e1f76f5f8c6326",
+      "bytes": 1620
+    },
+    {
+      "path": "scripts/restore_case_anchor_sources.py",
+      "sha256": "2350133f859fb4a3f06a274e3740feaa4c3303162af7afe21d26ad2bd5f7d59d",
+      "bytes": 1182
+    },
+    {
+      "path": "scripts/review_transcripts.py",
+      "sha256": "b7bbffba8b77aaf5d9346ed2d30f3498a5332ce753b2716894df00a5789b5599",
+      "bytes": 1234
+    },
+    {
+      "path": "scripts/verify_case_anchor_zip_sha.py",
+      "sha256": "6fa1a6231377d641681c0ebedc6da2051036f95649238c8b4978f505f7c8e60e",
+      "bytes": 1917
+    },
+    {
+      "path": "scripts/verify_course_acceptance.py",
+      "sha256": "b08fb6243f92ad8af79c47c28bef23b48429b62d26891684f2c38fa0aa54cc8f",
+      "bytes": 7533
+    },
+    {
+      "path": "scripts/verify_source_case_regression.py",
+      "sha256": "7bbf1d298e6de7a8b6a4b63a5c7b2fa2b7a4c3bc0a5801292349e421499ba239",
+      "bytes": 6226
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "78b8f88dcff04fb55cbe0191e15e748e0481474fd01c1b9821a9ab9999ac79a9",
+      "bytes": 5191
+    },
+    {
+      "path": "SKILL.md.before_G5_status_promotion_20261025.bak",
+      "sha256": "4752c32bb6e5d90daf45036564ebb18e8f21ba55fdb72768f3a9cb9217209aaa",
+      "bytes": 4973
+    }
+  ]
+}

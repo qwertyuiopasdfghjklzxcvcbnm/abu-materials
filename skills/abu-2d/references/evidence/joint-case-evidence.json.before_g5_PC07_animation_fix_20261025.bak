@@ -1,0 +1,687 @@
+{
+  "course": "2D",
+  "status": "DRAFT_PENDING_INDEPENDENT_G5",
+  "source_priority": "English 498 original SRT cues then 3281 individual original full source images; ZH translation and Obsidian references lower priority",
+  "method": "Prime targeted personally reopened and visually checked key original full 1920x1080 JPGs listed in each case; individual verified global G2 source ledger is in project; future outcomes and drawn annotations separated.",
+  "cases": [
+    {
+      "id": "PC01-bear-trend-candlestick-bottom",
+      "frame_ids": [
+        180
+      ],
+      "knowledge_chapters": [
+        "C03"
+      ],
+      "visual_observation": "原始1920×1080 Slide6标明'How to Trade Candlestick Bottom: Wait for More Information'；右边最先巨黑K跌落，反抽几根小白/黑K未推翻熊势，红Sell箭头落在靠近横向止顿后再向下的黑K之前，后面可见更长黑K。红矩形是示教多头出逃区域，蓝环约x1402/y675是讲者指针，不是逐根实时新行情。",
+      "author_meaning": "先不要因为一根底部蜡烛反转形态立刻做多；等几根K，考虑在被套的蜡烛图多头离场时做空。",
+      "market_context": "连续强熊实体主导，局部几根白K只是一次小反抽；只有跌破后才形成卖方确认。",
+      "reasoning": "左侧大阴K是当时已知环境，之后短线牛方试探未形成较高高点；跌破小底会使刚买入者可能触发止损。真实账户卖单无法由静图观察。",
+      "bull_and_bear_behaviors": "牛方误把小反弹当底部并可能止损；空方耐心等待再下破或反抽卖。",
+      "alternative_explanations": "反抽有时会发展成强突破并建立牛趋势，也可能回到区间；并非任何熊K后都必须卖。",
+      "known_at_time": "反转底出现的时点仅见当时及左侧熊K；后面黑色再破K和后验Sell箭头并不可见。",
+      "hindsight_only": "完整图绘制的最后大黑K已实现跌幅与红Sell/红框都是教学时后视。",
+      "failure_conditions": "强阳连续收高、突破前高与下行通道，卖方无后续跟随；下破失败重返区间。",
+      "knowledge_conclusion": "背景、等待和失败确认优先于蜡烛形态名称。",
+      "frame_sources": [
+        {
+          "seq": 180,
+          "file": "frame_000180.jpg",
+          "path": "高清原始分辨率/frame_000180.jpg",
+          "sha256": "8ff7854474faa72237f64b2691c66e5482eb6e4ce9f85a30d5c146f9047f470a",
+          "bytes": 112555,
+          "w": 1920,
+          "h": 1080,
+          "t": 221.7,
+          "cues": [
+            58
+          ],
+          "batch": "B03"
+        }
+      ],
+      "english_subtitle_ids": [
+        58
+      ],
+      "english_subtitle_excerpts": [
+        {
+          "cue_id": 58,
+          "en": "so rather than buy here, look to sell..."
+        }
+      ]
+    },
+    {
+      "id": "PC02-bearish-engulfing-in-bull",
+      "frame_ids": [
+        250
+      ],
+      "knowledge_chapters": [
+        "C04"
+      ],
+      "visual_observation": "Slide7英文'Bearish Engulfing Top on Daily Chart: But What Is Probability?'；从左下向右上阶梯抬升多个白K，最后右侧一根较大黑K吞没前面小白K，蓝字明确'Bearish engulfing pattern, but strong bull trend'。全画面只有这一已完成例子，不能冒充后续实时演化。",
+      "author_meaning": "较好看的看跌吞没可以有好的理论盈亏比，但在强势上涨背景下做反转的概率并不自动高。",
+      "market_context": "左侧多个上行波段和更高高点；单一黑K不足以宣布完成趋势反转。",
+      "reasoning": "区分蜡烛实体反转信号和过去多根K构成的牛趋势惯性；先审背景与后续跟随。",
+      "bull_and_bear_behaviors": "空方可能在黑K出现后卖，牛方可能等待牛旗/回调买；双方都可能遭遇失败。",
+      "alternative_explanations": "该黑K也可能开启真正较大下行；不能保证再次创新高。",
+      "known_at_time": "只能在吞没黑K收盘后确认实体关系，后续是否真顶部未知。",
+      "hindsight_only": "课程后段指认的连续失败卖信号不可能在本K尚未收盘时得知。",
+      "failure_conditions": "连续熊K破关键低点、回升乏力，说明做空可能不再是低胜算。",
+      "knowledge_conclusion": "漂亮反转的风险报酬比并非条件概率或已测胜率。",
+      "frame_sources": [
+        {
+          "seq": 250,
+          "file": "frame_000250.jpg",
+          "path": "高清原始分辨率/frame_000250.jpg",
+          "sha256": "f74c3dde86d507556b7350267d8d5827c9ef45acf4f2276ada53afd545a7ba2a",
+          "bytes": 106558,
+          "w": 1920,
+          "h": 1080,
+          "t": 270.5,
+          "cues": [
+            73
+          ],
+          "batch": "B04"
+        }
+      ],
+      "english_subtitle_ids": [
+        72,
+        73
+      ],
+      "english_subtitle_excerpts": [
+        {
+          "cue_id": 72,
+          "en": "However, what about probability? 80% of reversal attempts fail."
+        },
+        {
+          "cue_id": 73,
+          "en": "So this failed, this failed, this failed, this failed, this failed."
+        }
+      ]
+    },
+    {
+      "id": "PC03-bullish-engulfing-in-tight-bear",
+      "frame_ids": [
+        400
+      ],
+      "knowledge_chapters": [
+        "C05"
+      ],
+      "visual_observation": "Slide8'Bullish Engulfing Bottom: Need Context'，左侧由高位急速跌落、随后横向小K，最右白色多头吞没K带长下影，蓝箭头指该K。右侧红文明确'Bear trend / Top of Tight Trading Range (TTR) / Not much Buying Pressure'。",
+      "author_meaning": "反弹牛K出现于熊势且靠近紧密区间上沿，不能仅凭名称看涨。",
+      "market_context": "前段黑实体卖压、较低高点，区间狭窄；图本身不能证实账户净持仓。",
+      "reasoning": "一根漂亮白K与左侧熊势冲突，追涨需要更强突破和跟随；也可能是熊旗的待跌高点。",
+      "bull_and_bear_behaviors": "牛方可能买形态反弹，熊方更可能等待回抽卖或下破再卖，哪方占优需看后续K。",
+      "alternative_explanations": "白K后出现连续强牛K，超出紧密区间上沿并守住则转多信号增强。",
+      "known_at_time": "可见白K及先前下降趋势，但下一根是否突破低点未知。",
+      "hindsight_only": "不能借后面新低来伪称在吞没发生前已验证熊旗。",
+      "failure_conditions": "连续上涨转较高高低点、空头卖出信号失效。",
+      "knowledge_conclusion": "紧密熊通道里的吞没底要审趋势与位置。",
+      "frame_sources": [
+        {
+          "seq": 400,
+          "file": "frame_000400.jpg",
+          "path": "高清原始分辨率/frame_000400.jpg",
+          "sha256": "82eb83a0409a7405f550e2b56e94cfda525b76730a7dda56173249b2c3077ab3",
+          "bytes": 113877,
+          "w": 1920,
+          "h": 1080,
+          "t": 336.6,
+          "cues": [
+            92
+          ],
+          "batch": "B07"
+        }
+      ],
+      "english_subtitle_ids": [
+        85,
+        86,
+        89,
+        90,
+        91,
+        92
+      ],
+      "english_subtitle_excerpts": [
+        {
+          "cue_id": 85,
+          "en": "But you need context."
+        },
+        {
+          "cue_id": 86,
+          "en": "Context means you have to look at all the bars to the left,"
+        },
+        {
+          "cue_id": 89,
+          "en": "A very Tight Bear Channel with very little in terms of pullbacks along the way."
+        },
+        {
+          "cue_id": 90,
+          "en": "What is the probability that the first reversal up is going..."
+        },
+        {
+          "cue_id": 91,
+          "en": "..to lead to a bull trend? The probability is very low,"
+        },
+        {
+          "cue_id": 92,
+          "en": "yet you have a great-looking candlestick pattern."
+        }
+      ]
+    },
+    {
+      "id": "PC04-trend-inertia-minor-reversal",
+      "frame_ids": [
+        600
+      ],
+      "knowledge_chapters": [
+        "C06"
+      ],
+      "visual_observation": "Slide10标题'Inertia In Trends: 80% Rule'。左侧文字'In trends, 80% of reversals fail'，右侧从x917附近连续大黑K下跌，四处粉红短横框标反转/小熊旗，向右进一步下降后在低点转向较强白K反弹；红字'Minor reversals become bear flags'。",
+      "author_meaning": "趋势延续通常比单个小反转强，小反转可能成为顺势旗形；80%为课程经验，未给样本。",
+      "market_context": "连续较低的高低点和多次小反抽，尚未出现有力上破或高低点切换。",
+      "reasoning": "小幅白K没有抵消前面多个强黑K；直到实质买压形成前以熊旗候选处理。",
+      "bull_and_bear_behaviors": "逆势牛方盼底部并有连续止损风险；顺势熊方借反抽卖但亦承担后来强反弹。",
+      "alternative_explanations": "末端可以真正出现重大反转，尤其两次下探后高低抬升。",
+      "known_at_time": "每一粉框前只知先前熊K和当时小反抽；不能提前知道另三次失败和最后成功反弹。",
+      "hindsight_only": "四个标框、最后涨势和80%口径不是用户回测的实际命中率。",
+      "failure_conditions": "强牛突破、多个后续阳线与更高低点确认，熊旗判断失效。",
+      "knowledge_conclusion": "作者的趋势惯性是条件背景，不是交易系统硬编码0.8。",
+      "frame_sources": [
+        {
+          "seq": 600,
+          "file": "frame_000600.jpg",
+          "path": "高清原始分辨率/frame_000600.jpg",
+          "sha256": "85142628739c9b87affb660338a3a7a52af44d43bfc382dcc671ab5cb43cf8d3",
+          "bytes": 89102,
+          "w": 1920,
+          "h": 1080,
+          "t": 460.7,
+          "cues": [
+            121
+          ],
+          "batch": "B10"
+        }
+      ],
+      "english_subtitle_ids": [
+        119,
+        120,
+        121
+      ],
+      "english_subtitle_excerpts": [
+        {
+          "cue_id": 119,
+          "en": "My 80% rule, inertia."
+        },
+        {
+          "cue_id": 120,
+          "en": "When the market’s in a trend, 80% of reversal attempts will fail."
+        },
+        {
+          "cue_id": 121,
+          "en": "They’re minor reversals and they become bear flags,"
+        }
+      ]
+    },
+    {
+      "id": "PC05-range-breakout-fail",
+      "frame_ids": [
+        900
+      ],
+      "knowledge_chapters": [
+        "C07"
+      ],
+      "visual_observation": "Slide11 'Inertia in Trading Ranges: 80% Rule'，'In Trading Ranges (TR), 80% of breakouts fail'。黑白K跨两组蓝色上沿/下沿水平线反复越界，红框在右中、右下、最右上示意越过边界后又返回，蓝指针在中部回抽K约x900。右侧最终大黑K落下。",
+      "author_meaning": "在确认的交易区间中，许多尝试突破会回到原区间。",
+      "market_context": "多次高低围绕水平价格往返，买卖均未能持久主导。",
+      "reasoning": "卖高买低和反向处理突破只是区间背景下可讨论；初次外穿不是最终失败。",
+      "bull_and_bear_behaviors": "边界外追多追空者易被困，逆向交易者可能获利，但遇真突破也会亏。",
+      "alternative_explanations": "强实体带连续跟随可能把旧区间变成新趋势，逆向交易失效。",
+      "known_at_time": "只有当前上下边界和当下首次穿越可见，必须等后续确认或回归才可标记失败。",
+      "hindsight_only": "红色失败框和完成后的穿越-回归图是后验教材；80%未经独立实证。",
+      "failure_conditions": "趋势性成功突破并持续离开区间、边界统计定义不稳定。",
+      "knowledge_conclusion": "'80%区间突破失败'与'80%趋势反转失败'两个分母完全不同。",
+      "frame_sources": [
+        {
+          "seq": 900,
+          "file": "frame_000900.jpg",
+          "path": "高清原始分辨率/frame_000900.jpg",
+          "sha256": "f3a9123b715389796a9837b0de25bf770f36dcecb0947ce11dcd0cd647695683",
+          "bytes": 115523,
+          "w": 1920,
+          "h": 1080,
+          "t": 556.6,
+          "cues": [
+            150
+          ],
+          "batch": "B15"
+        }
+      ],
+      "english_subtitle_ids": [
+        146,
+        147,
+        148,
+        150
+      ],
+      "english_subtitle_excerpts": [
+        {
+          "cue_id": 146,
+          "en": "Now, my 80% rule also applies to Trading Ranges."
+        },
+        {
+          "cue_id": 147,
+          "en": "In a trend, 80% of reversal attempts fail."
+        },
+        {
+          "cue_id": 148,
+          "en": "In a Trading Range, 80% of attempts to break out into a trend will fail."
+        },
+        {
+          "cue_id": 150,
+          "en": "A new low, reversed up."
+        }
+      ]
+    },
+    {
+      "id": "PC06-support-resistance-prior-level",
+      "frame_ids": [
+        1230,
+        1370
+      ],
+      "knowledge_chapters": [
+        "C09",
+        "C10"
+      ],
+      "visual_observation": "Slide16标题'What Do Traders Repeatedly Talk About?'；左侧Support and Resistance列表 Moving Averages/Channels/Prior highs and lows；右边橙色下降通道内先跌，紫色前高/前低水平线跨后续K，浅绿均线穿底部与右方。另Slide17画面通过右端更高高点/更高低点示例牛趋势，未见统计性固定阈值。",
+      "author_meaning": "S/R、通道、均线、前高前低和逐步抬升或降低的高低点，是读趋势的重要结构。",
+      "market_context": "支撑阻力可以由此前真实已确认高低点或递推均线得到；后来的线段需排除。",
+      "reasoning": "若价格碰前低有买盘可能，若突破前高可能转为支撑，但要观察真正反应与跟随。",
+      "bull_and_bear_behaviors": "双方在水平位置更可能关注是否守住，不能据图确认实际净挂单或订单身份。",
+      "alternative_explanations": "水平区间多次反复假突破；均线穿越若无价格响应则没独立预测性。",
+      "known_at_time": "只可使用信号时刻左侧已确定的支撑阻力和均线历史值。",
+      "hindsight_only": "完整图的橙通道右端和后续新高低点、演示标线不全是旧时点已经画成的。",
+      "failure_conditions": "上破迅速回落、触碰支持直接跌穿、多/空假信号。",
+      "knowledge_conclusion": "位置、价格反应和时间边界是结构信号必要组成。",
+      "frame_sources": [
+        {
+          "seq": 1230,
+          "file": "frame_001230.jpg",
+          "path": "高清原始分辨率/frame_001230.jpg",
+          "sha256": "5f42df2fb6bd300d5ccba1087000f0f71a3522f2113b665db83ea2fddb7414c4",
+          "bytes": 139441,
+          "w": 1920,
+          "h": 1080,
+          "t": 775.7,
+          "cues": [
+            220
+          ],
+          "batch": "B20"
+        },
+        {
+          "seq": 1370,
+          "file": "frame_001370.jpg",
+          "path": "高清原始分辨率/frame_001370.jpg",
+          "sha256": "db53cd2b8c91cea6afd59c54327668c059ed799b2f22fb44518372e24b468d52",
+          "bytes": 110601,
+          "w": 1920,
+          "h": 1080,
+          "t": 817.6,
+          "cues": [
+            233
+          ],
+          "batch": "B22"
+        }
+      ],
+      "english_subtitle_ids": [
+        220,
+        233
+      ],
+      "english_subtitle_excerpts": [
+        {
+          "cue_id": 220,
+          "en": "The market rallied to this point and sold off."
+        },
+        {
+          "cue_id": 233,
+          "en": "You want to see Higher Highs."
+        }
+      ]
+    },
+    {
+      "id": "PC07-momentum-breakout-pullback",
+      "frame_ids": [
+        1800,
+        2110,
+        2310
+      ],
+      "knowledge_chapters": [
+        "C11",
+        "C12"
+      ],
+      "visual_observation": "Slide19标题'Two Forces Control All Markets: Context and Momentum'，左端连续黑实体卖压被粉色框标出，红字'Sell bear breakout (BO) or pullback (PB)'，中段粉色由急跌到企稳，右端突破时强白K绿框与回踩绿区；蓝文'Buy reversal up in weak bear trend'。Slide20为Buying/Selling Pressure，标出红色暴跌段和数段绿色强阳推进。 The blue Buy reversal up in weak bear trend overlay is first visible in source seq2110, not the earlier animation phase in seq1800.",
+      "author_meaning": "趋势强时更多顺势跟进，动能衰减及反转需结合背景考虑，BO/PB为可选交易位置不是具体固定单。",
+      "market_context": "先熊推、低点震荡、中部试低及出现一组明显牛K，随后较高低点和上行。",
+      "reasoning": "卖方的几个大黑实体及弱反抽是当时卖压；买方要看到强牛K突破和跟随后才能提升逆转信念。",
+      "bull_and_bear_behaviors": "熊方卖突破或反抽，牛方可等熊势弱化和更强上行买突破/回踩，均须面对失败情形。",
+      "alternative_explanations": "涨K可只是熊旗，熊K也可能是假跌破并弹回区间。",
+      "known_at_time": "只有触发K已经收盘或有效stop-order触发后才能用其价量，右侧成功牛趋势未知。",
+      "hindsight_only": "用最后一路上行重新标记初始谷底为必胜买点属于偷看。",
+      "failure_conditions": "后续无买方跟随、跌回旧低、顺势反抽做空被强势突破止损。",
+      "knowledge_conclusion": "背景和动能必须一起看；进出场与成交执行属于工程细节。",
+      "frame_sources": [
+        {
+          "seq": 1800,
+          "file": "frame_001800.jpg",
+          "path": "高清原始分辨率/frame_001800.jpg",
+          "sha256": "ec8b1f9ff1ebeb2f96fabebd82252ec36e549b61d8c7f70855f024d9f46436e6",
+          "bytes": 177286,
+          "w": 1920,
+          "h": 1080,
+          "t": 983.1,
+          "cues": [
+            275
+          ],
+          "batch": "B29"
+        },
+        {
+          "seq": 2110,
+          "file": "frame_002110.jpg",
+          "path": "高清原始分辨率/frame_002110.jpg",
+          "sha256": "f619447e4c99d7c0271a2a679a23c98b987644564f9998caca9f33f736c556f3",
+          "bytes": 223376,
+          "w": 1920,
+          "h": 1080,
+          "t": 1080.4,
+          "cues": [
+            308
+          ],
+          "batch": "B33"
+        },
+        {
+          "seq": 2310,
+          "file": "frame_002310.jpg",
+          "path": "高清原始分辨率/frame_002310.jpg",
+          "sha256": "3d501cd4bb9209daaa6be11da5705c35a750e231587c6b322d6b4794866d9ea1",
+          "bytes": 109638,
+          "w": 1920,
+          "h": 1080,
+          "t": 1147.3,
+          "cues": [
+            326
+          ],
+          "batch": "B37"
+        }
+      ],
+      "english_subtitle_ids": [
+        275,
+        308,
+        326
+      ],
+      "english_subtitle_excerpts": [
+        {
+          "cue_id": 275,
+          "en": "..will probably stay below that high and be followed by lower prices."
+        },
+        {
+          "cue_id": 308,
+          "en": "..of the bear channel, and then a test of the bear trend low"
+        },
+        {
+          "cue_id": 326,
+          "en": "Odds are selling for any reason, we’ll get at least a little bit more down."
+        }
+      ]
+    },
+    {
+      "id": "PC08-indicators-versus-price-bars",
+      "frame_ids": [
+        2510,
+        2740
+      ],
+      "knowledge_chapters": [
+        "C14"
+      ],
+      "visual_observation": "Slide23标题'Trading Can Make You Rich!!'，在同一白黑K图层上压着红/蓝上下带、几条不同斜率指标线、均线和底部双振荡器；蓝字反问'Do all of these indicators really help you make money?'。Slide24标题'Same Chart, No Indicators: Easier to See What Market Is Doing'，不带指标但有红Sell、绿Buy、橙50% PB、蓝色小三角和水平线。",
+      "author_meaning": "堆指标让观察者忽略本已可见的趋势、区间、突破失败、回调和反转；并不是完全否定指标的信息用途。",
+      "market_context": "同一历史价格段下跌后反弹再震荡，讲师事后标出交易区域与均值回测点。",
+      "reasoning": "去掉指标可突出K线相对位置；是否更好交易仍需独立对照成本及样本外表现。",
+      "bull_and_bear_behaviors": "顺势和反转交易者会看价格破位与回踩、被困对手可能止损；框不等于当时真实成交流。",
+      "alternative_explanations": "某些指标组合可能改善执行或风险，但本课不提供有效性统计消融结果。",
+      "known_at_time": "当前已有K和当时已确认的支撑阻力可见，尚未发生的三角最终突破不可见。",
+      "hindsight_only": "所有绿色Buy/红Sell/50% PB标记和事后走势同时存在于成品课件，不是可预见的成交信号。",
+      "failure_conditions": "去指标后读出假结构、误判趋势/区间、无法复制图中理想成交价格。",
+      "knowledge_conclusion": "指标属于历史价格加工而非先验预测，工程需要样本外对照。",
+      "frame_sources": [
+        {
+          "seq": 2510,
+          "file": "frame_002510.jpg",
+          "path": "高清原始分辨率/frame_002510.jpg",
+          "sha256": "49536b051ed861648c75f82ffaa34c25a387a6104a4a90716bbe735388fdbe00",
+          "bytes": 240102,
+          "w": 1920,
+          "h": 1080,
+          "t": 1256.5,
+          "cues": [
+            358
+          ],
+          "batch": "B40"
+        },
+        {
+          "seq": 2740,
+          "file": "frame_002740.jpg",
+          "path": "高清原始分辨率/frame_002740.jpg",
+          "sha256": "2fb653642d24b0fa3d527656174d2358749911ef06bd9e42badc1c4c5d3aedb9",
+          "bytes": 132482,
+          "w": 1920,
+          "h": 1080,
+          "t": 1317.9,
+          "cues": [
+            376
+          ],
+          "batch": "B43"
+        }
+      ],
+      "english_subtitle_ids": [
+        358,
+        376
+      ],
+      "english_subtitle_excerpts": [
+        {
+          "cue_id": 358,
+          "en": "In fact, you can barely see the chart"
+        },
+        {
+          "cue_id": 376,
+          "en": "50% pullback from the selloff, I’m going to start looking to sell."
+        }
+      ]
+    },
+    {
+      "id": "PC09-divergence-bear-trend-thousand-cuts",
+      "frame_ids": [
+        2860,
+        3009
+      ],
+      "knowledge_chapters": [
+        "C15"
+      ],
+      "visual_observation": "Slide25上部K线从x600开始持续较低高低点，底部红绿振荡线不断起落，几次自低位反弹但价格继续下探。Slide26在相同K线图上新增两组蓝色上斜振荡器背离线和两条价格下斜线，红字明确'Buying in strong bear trend, has low probability'、'Tight stop, so lose less, but bleed to death from 1,000 paper cuts'。",
+      "author_meaning": "极佳理论盈亏比、超卖背离和紧止损不代表在强熊趋势中反复逆势试买具有高胜算。",
+      "market_context": "长时间熊势中多次超卖、振荡指标一再诱发反弹期待；价格未给可靠多方顺势证据。",
+      "reasoning": "止损点数小不是总损失小，频繁失败、成本和极端跳空可累积损失；低位背离只是计算过去价格的加工。 Engineering boundary: trade costs, spread, slippage and gaps aggravating net drawdown are Skill inference, not verified executions shown in this lesson; the author only illustrated repeated small losses.",
+      "bull_and_bear_behaviors": "逆势牛方可能反复止损；趋势空方可以继续卖但要警惕衰减与向上确认。",
+      "alternative_explanations": "局部底背离最后也可能与真正强牛突破相伴，不能永久禁止任何反转交易。",
+      "known_at_time": "底背离识别必须待相应指标转折和源K收完；更远右边的继续新低/反弹均未知。",
+      "hindsight_only": "两条向上画的振荡器趋势线，以及事后出现右侧更多下跌，不能提前倒推成已知道多次失败。",
+      "failure_conditions": "多根强牛K突破熊通道、形成较高低点并跟随，继续盲空或排除做多也会失败。",
+      "knowledge_conclusion": "反复小亏累积风险比单次理论R/R更加实在；'1000'为比喻。",
+      "frame_sources": [
+        {
+          "seq": 2860,
+          "file": "frame_002860.jpg",
+          "path": "高清原始分辨率/frame_002860.jpg",
+          "sha256": "89f34299ff1e09c1b64d6f6f5cc7ec191fd40ee833ceb8c3b1dea1bb6eb911ba",
+          "bytes": 140200,
+          "w": 1920,
+          "h": 1080,
+          "t": 1359.4,
+          "cues": [
+            388
+          ],
+          "batch": "B45"
+        },
+        {
+          "seq": 3009,
+          "file": "frame_003009.jpg",
+          "path": "高清原始分辨率/frame_003009.jpg",
+          "sha256": "684b5f820c937e1e127e150da9e8022e70ce9ad8ea3afb483c5dcff8cb77c791",
+          "bytes": 216192,
+          "w": 1920,
+          "h": 1080,
+          "t": 1441.7,
+          "cues": [
+            412
+          ],
+          "batch": "B48"
+        }
+      ],
+      "english_subtitle_ids": [
+        388,
+        412,
+        418,
+        438
+      ],
+      "english_subtitle_excerpts": [
+        {
+          "cue_id": 388,
+          "en": "To me, I don’t like indicators because I get stressed out constantly looking..."
+        },
+        {
+          "cue_id": 412,
+          "en": "So indicators, it’s an excuse to avoid thinking about the obvious."
+        },
+        {
+          "cue_id": 418,
+          "en": "However, what is the probability? The probability is extremely low."
+        },
+        {
+          "cue_id": 438,
+          "en": "however, you can bleed to death from a thousand papercuts."
+        }
+      ]
+    },
+    {
+      "id": "PC10-monthly-timeframe-risk",
+      "frame_ids": [
+        3137,
+        3199,
+        3200,
+        3206
+      ],
+      "knowledge_chapters": [
+        "C16"
+      ],
+      "visual_observation": "Slide27'EURJPY month'，2001–2015月K，2007/08两次约170高点双箭头，后随两根大黑K跌破149，2009–12红色下降通道至~95，2013–14强反弹。蓝色完整句'Looks like 5 minute, or any other chart'，橙色三行逐渐显示'Monthly chart, so bars are bigger / Stop is far, so risk is greater / Trade smaller size, to keep risk small'。 Source seq3206 was separately opened at its full original 1920x1080 resolution: the orange three-line monthly-risk text is now fully legible, unlike its faint fade-in at seq3199/3200. Original spoken evidence for smaller size is EN cue474-477.",
+      "author_meaning": "不同周期可见相似价格行为图形，但月K价格幅度更大、止损更远，需减仓避免单位交易风险增加。",
+      "market_context": "历史EURJPY月度数据跨多轮涨跌；红线/箭头为教学时已完成的结构描画。",
+      "reasoning": "若每手价值相同且风险止损距离更大，则同等风险预算要求更少手数。分形类比不代表每周期均有相同概率。",
+      "bull_and_bear_behaviors": "2007反转失败或成功时多空都需要在月线大幅波动下管理头寸，不可照搬短周期固定手数。",
+      "alternative_explanations": "不同品种、周期、交易时段与市场微观结构使结果、手续费及跳空风险不同。",
+      "known_at_time": "首次碰170阻力时无法知道2008崩跌；2012出现低点时不能知道2014反弹幅度。",
+      "hindsight_only": "2008下降和2012之后走势、事后顶底箭头以及上叠文字都属于完工教学图。",
+      "failure_conditions": "同手数跨周期造成超额止损风险、滑点跳空或隔夜费用扩大真实损失；月线反转标记也可能失败。",
+      "knowledge_conclusion": "跨周期形态类比不能推导同胜率，控制每笔资金风险需根据止损距离调整仓位。",
+      "frame_sources": [
+        {
+          "seq": 3137,
+          "file": "frame_003137.jpg",
+          "path": "高清原始分辨率/frame_003137.jpg",
+          "sha256": "9d78f95babb02b90b3955560df538bafb6b2b0128b66437aa8f10337f6bd9120",
+          "bytes": 155925,
+          "w": 1920,
+          "h": 1080,
+          "t": 1595.9,
+          "cues": [
+            465
+          ],
+          "batch": "B50"
+        },
+        {
+          "seq": 3199,
+          "file": "frame_003199.jpg",
+          "path": "高清原始分辨率/frame_003199.jpg",
+          "sha256": "021217526932bf4a084f0ef2bcc4fe2dddb3a0caa189a9d1f1859d8e88e7c21a",
+          "bytes": 176658,
+          "w": 1920,
+          "h": 1080,
+          "t": 1621.7,
+          "cues": [
+            473
+          ],
+          "batch": "B50"
+        },
+        {
+          "seq": 3200,
+          "file": "frame_003200.jpg",
+          "path": "高清原始分辨率/frame_003200.jpg",
+          "sha256": "421115c2ec0e7fd1373ba4fc8a4ac01fabf90f33073d2ff32d722ca411f1a5df",
+          "bytes": 180165,
+          "w": 1920,
+          "h": 1080,
+          "t": 1621.8,
+          "cues": [
+            473
+          ],
+          "batch": "B50"
+        },
+        {
+          "seq": 3206,
+          "file": "frame_003206.jpg",
+          "path": "高清原始分辨率/frame_003206.jpg",
+          "sha256": "7b4e532b0594a36f3fea2c665377ccd6be5d6f26a8b9452024fdfbab15de2a3f",
+          "bytes": 194919,
+          "w": 1920,
+          "h": 1080,
+          "t": 1622.4,
+          "cues": [
+            473
+          ],
+          "batch": "B51"
+        }
+      ],
+      "english_subtitle_ids": [
+        465,
+        473,
+        474,
+        475,
+        476,
+        477
+      ],
+      "english_subtitle_excerpts": [
+        {
+          "cue_id": 465,
+          "en": "The market’s going up."
+        },
+        {
+          "cue_id": 473,
+          "en": "It’s all the same thing."
+        },
+        {
+          "cue_id": 474,
+          "en": "If you do trade a monthly chart, the bars are very big,"
+        },
+        {
+          "cue_id": 475,
+          "en": "so the stop is very far away."
+        },
+        {
+          "cue_id": 476,
+          "en": "You have to trade very small to make sure that the risk on your trade..."
+        },
+        {
+          "cue_id": 477,
+          "en": "..is no bigger than the risk on any other trade."
+        }
+      ]
+    }
+  ],
+  "case_count": 10,
+  "metadata_enrichment": "Canonical official reviewed 2D ledger sha/t/path/cues plus unchanged source EN SRT; no automatic visual inference. Frame pictures were separately re-opened for selected anchors."
+}

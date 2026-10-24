@@ -1,0 +1,14 @@
+{
+  "status": "PC07_VISUAL_TIMELINE_PRECISION_PATCH_REQUIRES_INDEPENDENT_RECHECK",
+  "before_sha256": "1f401ad14c33844cc6b7900d79aa0d12bd0684891078e4ac84baf162d2f81561",
+  "after_sha256": "95306d044f8b0346d1564bdbe10bda6f102f6d2b7027ae92b88eb5eb8eb12762",
+  "prior_text": "The blue Buy reversal up in weak bear trend overlay is first visible in source seq2110, not the earlier animation phase in seq1800.",
+  "new_text": "The blue Buy reversal up in weak bear trend overlay is absent in seq1800 and seq2065, begins faint fade-in in seq2066, is fully legible in seq2075, and remains visible in seq2110; these are static slide animation stages, not live bar evolution.",
+  "backup": "joint-case-evidence.json.before_g5_PC07_animation_fix_20261025.bak",
+  "independent_discovery": "independent-g5-partB-recheck-worker3-20261025.md",
+  "prime_separate_visual_reopens": [
+    2065,
+    2066,
+    2075
+  ]
+}

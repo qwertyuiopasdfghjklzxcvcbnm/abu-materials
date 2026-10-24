@@ -1,0 +1,437 @@
+{
+  "course": "2D",
+  "status": "PRIME_DRAFT_PENDING_INDEPENDENT_G5",
+  "count": 30,
+  "tests": [
+    {
+      "id": "R01",
+      "question": "广告说K线形态90%有效，是2D实测胜率吗？",
+      "expected": "不是；作者是在批判广告声称的90%，没有给实测样本。",
+      "forbidden_error": "写成阿布策略成功率90%。",
+      "source_cues": [
+        23,
+        25,
+        27
+      ],
+      "frame_seq": 30,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R02",
+      "question": "熊势出现蜡烛底部时是否立即买？",
+      "expected": "作者先等几根K，若多头陷入失败并真实下破，可考虑顺势卖。",
+      "forbidden_error": "把完成图的后续黑K提前用于当下。",
+      "source_cues": [
+        50,
+        52,
+        54,
+        59
+      ],
+      "frame_seq": 180,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R03",
+      "question": "cue65讲的是跌破前一根K线低点吗？",
+      "expected": "不是；原话是closed on its low，收在自身低点；本K是否破前低另判。",
+      "forbidden_error": "把中文误译直接转成stop entry条件。",
+      "source_cues": [
+        64,
+        65,
+        66
+      ],
+      "frame_seq": 250,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R04",
+      "question": "强牛趋势看跌吞没必然是顶部吗？",
+      "expected": "不是；趋势惯性使其可能成为牛旗，但真转熊亦可能。",
+      "forbidden_error": "把作者80%经验当已回测胜率。",
+      "source_cues": [
+        72,
+        76,
+        80
+      ],
+      "frame_seq": 250,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R05",
+      "question": "紧熊通道多头吞没是高概率抄底吗？",
+      "expected": "不是；左侧小回调熊通道与区间上沿使买方背景薄弱。",
+      "forbidden_error": "忽视后续突破跟随或把白K机械卖出。",
+      "source_cues": [
+        85,
+        89,
+        91,
+        99,
+        100
+      ],
+      "frame_seq": 400,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R06",
+      "question": "Context具体指什么？",
+      "expected": "当前K左侧已形成的所有价格背景、支撑阻力和趋势关系。",
+      "forbidden_error": "用右侧未来K确认后把线回填到过去。",
+      "source_cues": [
+        86,
+        172,
+        245
+      ],
+      "frame_seq": 400,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R07",
+      "question": "惯性80%规则能设成下一根上涨概率0.2吗？",
+      "expected": "不行；趋势反转与区间突破各有条件、样本定义，讲师没有实证模型。",
+      "forbidden_error": "不同条件下将两个80%相加或混作同一事件。",
+      "source_cues": [
+        104,
+        119,
+        120,
+        147,
+        148
+      ],
+      "frame_seq": 600,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R08",
+      "question": "第一根熊趋势小牛K收在最高能无条件买？",
+      "expected": "不能；作者举例甚至考虑在高位卖或在熊K下方卖出。",
+      "forbidden_error": "以牛K颜色覆盖趋势状态。",
+      "source_cues": [
+        124,
+        126,
+        128,
+        130,
+        132
+      ],
+      "frame_seq": 600,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R09",
+      "question": "熊势低点最终弹升能证明此前每次逆势买合理吗？",
+      "expected": "不能；作者说明多次小损失累计，末次反弹未必补亏。",
+      "forbidden_error": "事后成功底回填此前全部反转信号。",
+      "source_cues": [
+        136,
+        138,
+        139,
+        140,
+        145
+      ],
+      "frame_seq": 600,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R10",
+      "question": "交易区间向上突破如何判假突破？",
+      "expected": "必须等待回落或失败跟随；单根穿越仅是尝试，作者说TR里很多突破失败。",
+      "forbidden_error": "在当前破高K尚未结束就标完整失败。",
+      "source_cues": [
+        147,
+        148,
+        159,
+        160
+      ],
+      "frame_seq": 900,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R11",
+      "question": "cue170说市场跌了两次吗？",
+      "expected": "不是；英语A sell, a sell意为两个卖出信号，市场却继续上涨。",
+      "forbidden_error": "把卖出信号误译成已发生跌势。",
+      "source_cues": [
+        169,
+        170,
+        171
+      ],
+      "frame_seq": 1016,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R12",
+      "question": "单根强牛反转K能否消除三根熊K的背景？",
+      "expected": "不能；作者提醒继续看左边，可能仍应该寻找卖点。",
+      "forbidden_error": "下行背景中见白K就逆势抄底。",
+      "source_cues": [
+        189,
+        190,
+        191,
+        193
+      ],
+      "frame_seq": 1016,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R13",
+      "question": "机构是否完全不使用蜡烛信息？",
+      "expected": "阿布认为其通常不以少数蜡烛形态名称交易，非机构行为普查。",
+      "forbidden_error": "声称所有机构不用K线或已经统计证明。",
+      "source_cues": [
+        31,
+        34,
+        42,
+        45
+      ],
+      "frame_seq": null,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R14",
+      "question": "前高突破回踩后能变支撑吗？",
+      "expected": "可以作为候选，须实际守住和反弹；同一线可能又转回阻力。",
+      "forbidden_error": "触线就当保证反弹/持有多单。",
+      "source_cues": [
+        219,
+        221,
+        223,
+        225
+      ],
+      "frame_seq": 1230,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R15",
+      "question": "下降通道与均线提供的趋势线会不会未来函数？",
+      "expected": "使用确认点/历史均线到当时才可画成，课件整图红线部分是后视。",
+      "forbidden_error": "使用未来高低点回填回测订单。",
+      "source_cues": [
+        203,
+        205,
+        217,
+        218
+      ],
+      "frame_seq": 1230,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R16",
+      "question": "区分牛熊趋势的高低点结构？",
+      "expected": "牛方更高高点/更高低点，熊方更低高点/更低低点。",
+      "forbidden_error": "把中文地点误写当价格低点或宏观经济趋势。",
+      "source_cues": [
+        231,
+        232,
+        233,
+        235
+      ],
+      "frame_seq": 1370,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R17",
+      "question": "阿布所说Context与Momentum关系？",
+      "expected": "背景决定价格位置和左侧结构；Momentum描述当前推进和趋势力量，两者均重要。",
+      "forbidden_error": "用单根指标数值代替背景和动能的双重判断。",
+      "source_cues": [
+        243,
+        244,
+        245,
+        268
+      ],
+      "frame_seq": 1800,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R18",
+      "question": "接近熊趋势线后立刻卖吗？",
+      "expected": "作者说接近并向下反转，可在前一K下方放卖stop；无反转时不能称已触发。",
+      "forbidden_error": "把触线、信号K及真实成交合成同一时点。",
+      "source_cues": [
+        252,
+        253,
+        254,
+        256
+      ],
+      "frame_seq": 1645,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R19",
+      "question": "过去低点支撑怎么买？",
+      "expected": "作者示例在反转后前根K高点上方设买stop，须等待价格触发。",
+      "forbidden_error": "把高点上方stop买误写为低点限价买。",
+      "source_cues": [
+        258,
+        260,
+        261,
+        262,
+        263
+      ],
+      "frame_seq": 1692,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R20",
+      "question": "强突破顺势在收盘入场一定赚钱？",
+      "expected": "不是；作者讲可考虑熊/牛K收盘、BO或PB，但后续跟随与成本未定。",
+      "forbidden_error": "直接套入固定收益率或保证每次成功。",
+      "source_cues": [
+        272,
+        274,
+        277,
+        282,
+        283
+      ],
+      "frame_seq": 1800,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R21",
+      "question": "大熊趋势变牛趋势需要哪些阶段证据？",
+      "expected": "卖压变弱、区间/双底、牛突破熊通道、试低和更高低点均需逐K确认。",
+      "forbidden_error": "由未来右侧完整反转回填最早底部。",
+      "source_cues": [
+        292,
+        301,
+        302,
+        306,
+        308
+      ],
+      "frame_seq": 2110,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R22",
+      "question": "四根强牛K判断如何保持原英文事实？",
+      "expected": "四根连续牛K、其中两根较大实体、四根都近高收盘，均属买压提示。",
+      "forbidden_error": "将cue313/314分句颠倒写成四根都有巨大实体。",
+      "source_cues": [
+        311,
+        313,
+        314,
+        317
+      ],
+      "frame_seq": 2310,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R23",
+      "question": "线图足够表达什么？",
+      "expected": "可显示上涨方向、高低点与结构，不代表OHLC的影线与触发信息没用。",
+      "forbidden_error": "禁止全部K线数据或者线图也提供精确止损影线。",
+      "source_cues": [
+        332,
+        334,
+        336,
+        340,
+        344
+      ],
+      "frame_seq": null,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R24",
+      "question": "叠很多指标有必然增益吗？",
+      "expected": "原图讽刺指标叠加使价格结构难看，效果须消融/样本外实测。",
+      "forbidden_error": "用静态例子证明任意指标必定亏损。",
+      "source_cues": [
+        347,
+        350,
+        354,
+        357,
+        360
+      ],
+      "frame_seq": 2510,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R25",
+      "question": "去指标后红Sell和绿Buy是否实时可知？",
+      "expected": "不是，已完成图中的注释大多是教学后的高低点与反应；保留信号最早知道时刻。",
+      "forbidden_error": "一看到事后红/绿框就声称无延迟成交。",
+      "source_cues": [
+        362,
+        364,
+        369,
+        375,
+        384,
+        385
+      ],
+      "frame_seq": 2740,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R26",
+      "question": "强熊趋势里两次背离意味着马上买？",
+      "expected": "不；震荡曲线可反复出现牛背离但价格继续熊势，需实际结构确认。",
+      "forbidden_error": "指标双底背离直接设成高胜率抄底。",
+      "source_cues": [
+        392,
+        394,
+        397,
+        399,
+        410
+      ],
+      "frame_seq": 2860,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R27",
+      "question": "极好盈亏比是否意味着一定有高胜算？",
+      "expected": "作者恰强调在强熊中买的概率很低，收益虽可能极大却常亏；作者经验非已测统计。",
+      "forbidden_error": "把无限大理论潜在盈利写成实际期望值。",
+      "source_cues": [
+        413,
+        417,
+        418,
+        423,
+        427
+      ],
+      "frame_seq": 3009,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R28",
+      "question": "一千次纸割对应什么？",
+      "expected": "频繁小止损累积重大损失的比喻，不是做了真实1000笔且有收益曲线。",
+      "forbidden_error": "用水滴石穿正面释义或实测千笔报告。",
+      "source_cues": [
+        431,
+        434,
+        437,
+        438,
+        439
+      ],
+      "frame_seq": 3009,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R29",
+      "question": "EURJPY月线看着像5分钟意味着概率一样吗？",
+      "expected": "只是作者分形结构类比，跨周期成交、波动、交易成本和风险不同。",
+      "forbidden_error": "把月线红箭头当实时/移植短周期手数。",
+      "source_cues": [
+        455,
+        459,
+        464,
+        469,
+        470
+      ],
+      "frame_seq": 3137,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    },
+    {
+      "id": "R30",
+      "question": "月K很大该如何调整仓位？",
+      "expected": "止损距离远要减小数量，目标是使每笔资金风险不超过其他交易。",
+      "forbidden_error": "用‘控制风险’模糊表述抹去同风险预算比较。",
+      "source_cues": [
+        474,
+        475,
+        476,
+        477
+      ],
+      "frame_seq": 3199,
+      "status": "PRIME_CHECKED_PENDING_G5_INDEPENDENT"
+    }
+  ]
+}

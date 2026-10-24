@@ -1,0 +1,36 @@
+---
+name: abu-2d
+description: 阿布 Chart Basics & Price Action #4/4（2D）证据型独立 Skill：孤立K线形态的陷阱、Context/Momentum、TR/趋势80%经验、支撑阻力、趋势线、无指标/背离陷阱、EURJPY月线风控。498对双语字幕、3281张课程保留JPG、逐帧索引与可追溯案例，严格区分讲师经验与量化验证。
+---
+
+# Abu 2D｜Candlestick Patterns · Context · Momentum · Indicators
+
+**状态由 `references/evidence/acceptance-five-gate.json` 与验证结果决定。不得仅凭本文件宣称 G1–G5 完成。**
+
+## 使用流程
+
+1. 阅读 `references/knowledge.md` 的 C01–C16（**内部知识索引，不是阿布原章节号**），理解熊趋势中的漂亮反转为何容易失败，结合左侧背景、趋势强度、支撑阻力和价格跟随判别。
+2. 对英文概率、条件句、否定语气、原课心理推断，优先查 `references/sources/2D-en.srt` 的真实 cue ID、时间戳；对比 `2D-ch.srt` 和 `references/evidence/translation-term-audit.jsonl`（原38条翻译争议及 translation-qa.md 新增8项，合计46项；不得误把译者注释当阿布原话）。
+3. 具体案例查 `references/evidence/joint-case-evidence.json` 的 PC01–PC10，按“原字幕 cue → 原图 seq/SHA → 可见K线与标注 → 事前仅知 → 跟随/替代 → 失败条件 → 工程限制”复核。
+4. 原图索引 `references/evidence/frame-inventory.jsonl` 有 3281 条，包括 3229 关键帧、48 精确视频帧、4 张联系表；静图在 2D 项目的 `restored/zip/`，上游媒体ZIP另存而非上传到 Skill。`references/evidence/frame-observations-all.jsonl` 是逐张原图证据，**read字段是否真实需结合 Core.view_image 独立调用日志和抽检报告，不可仅凭SHA证明**。
+5. 历史 Obsidian 仅是另一种来源：`references/evidence/obsidian-history-audit.md`；历史课件PDF页图 121–150 与本次视频 keyframe **不是同一张原图**，不得混作G2。
+6. 要评估是否可直接用于EA/Python策略，先读 `references/evidence/knowledge-regression-cases.md`，尤其 entry signal 必须在K线形成后才知道、趋势线高低点的确认不得未来回填、样本外统计与点差滑点/跳空。
+
+## 课程论点和不能跨越的边界
+
+- **Context = 左侧已经形成的所有K线及位置关系**；Momentum = 当前趋势推进强弱。强熊趋势里的一根看涨吞没不代表可靠底部，牛趋势里的一根看跌吞没也不保证顶。
+- 课程“80%趋势反转失败 / 80%交易区间突破失败”等，是 Al Brooks 在特定背景下的**经验口径**；没有独立测量定义、样本、置信区间，不等于任意下一根K线的胜率，更不能作为策略报表。
+- 教学图中的红色 Sell、绿色 Buy、趋势线、框、50% PB 多为事后标注；呈现完整历史不意味着在左侧入场时就已知道后面的高低点。
+- 原课告诫不要被振荡器的牛背离诱导在强熊/小回调熊趋势中连续逆势买入；即使每笔止损窄，反复小亏仍可累积为严重回撤。指标来自过去的K线，不提供额外预知未来的信息。
+- 月线图可能与5分钟图形态相似，但每根K线的绝对幅度、成交制度、止损距离、资金占用不同。原课明确说月线止损远、**手数要减小使单笔风险不比其他交易大**；公式是工程表达，不是作者在图中给出的固定算法。
+- “交易者如何想”“机构怎么做”“趋势继续概率”属于作者心理/市场叙事；单凭静图不能观察订单簿、账户持仓或已实现收益，不得把解释写成核实成交事实。
+- 本课没有提供统一参数化EMA长度、量化止损倍数、阶梯仓位或已验证的国内期货/外盘黄金策略。开发要单独回测、逐笔执行成本与风险测试。
+
+## 源完整性与验收
+
+- 唯一课程：2D，原视频1920×1080 H.264，约1711.33秒；英文/中文各498条字幕；原素材3281张JPEG含重复/转场/联系表，所有物理源图分别编号。
+- 上游项目：`C:\Users\48302\Desktop\量化交易\_Claude_abu2d_handoff_20261024`，来自仓库 `abu-materials` 的 `chatgpt/abu-2d-continuation`，原ZIP SHA256 `161cce2c4419b9a8a57b9da9e16d286d45dab1cb767880ca3721299cd4170b67`。
+- 原声音轨没有全程人耳听审，动态视频没有全程连续观看；二者按统一标准不属于强制门禁。时间同步验证见 `references/evidence/timestamp-check.json`，但不等于语义目视。
+- 统一门禁 `G1` 全英中、`G2` 全高清保留图、`G3` 因果案例、`G4` 知识及真正 Obsidian、`G5` 独立语义终验。只有全部核证 PASS 方标 COMPLETE；检查 `references/evidence/acceptance-five-gate.json` 和 `scripts/verify_course_acceptance.py`。
+
+参照同课程系列独立 Skill `abu-1a`、`abu-2a`、`abu-2b`、`abu-2c` 时，不用它们的帧号、英文cue或媒体冒充2D证据。

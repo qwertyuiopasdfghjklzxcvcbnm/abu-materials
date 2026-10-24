@@ -1,0 +1,14 @@
+{
+  "course": "2D",
+  "status": "SOURCE_MERGE_TECHNICAL_PASS",
+  "count": 3281,
+  "batches": 51,
+  "first_seq": 1,
+  "last_seq": 3281,
+  "original_sha_records": 3281,
+  "review_claim_records": 3281,
+  "frame_observations_file": "C:\\Users\\48302\\.codex\\skills\\abu-2d\\references\\evidence\\frame-observations-all.jsonl",
+  "file_sha256": "a8dad0ce9932734129bb51e38ec6ede8eb7ca1e21e791ec6cefbcc8e016a2df0",
+  "regressions": 30,
+  "note": "Read claims from prior Core.view_image sessions and per-frame evidence, not an independent test of visual semantics"
+}

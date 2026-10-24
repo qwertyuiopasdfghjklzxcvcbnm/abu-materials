@@ -1,0 +1,113 @@
+{
+  "course": "2D",
+  "status": "PRIME_SOURCE_CUE_TRACE_FIX_PENDING_INDEPENDENT_RECHECK",
+  "pre_sha256": "ed23af4c594b8b9dcf91df7e83c3cab1a375c8a49f51f7ea14f2957acb6c710f",
+  "post_sha256": "ef60d4575c22756a839f41cf10a4432aa818f91d1fe8c02ccb69991a1a0bad6f",
+  "source": "references/sources/2D-en.srt",
+  "backup": "joint-case-evidence.json.before_g5_english_cue_precision_20261025.bak",
+  "changes": [
+    {
+      "case_id": "PC04-trend-inertia-minor-reversal",
+      "old_cue_ids": [
+        121
+      ],
+      "new_cue_ids": [
+        119,
+        120,
+        121
+      ],
+      "added_cue_excerpts": [
+        {
+          "cue_id": 119,
+          "en": "My 80% rule, inertia."
+        },
+        {
+          "cue_id": 120,
+          "en": "When the market’s in a trend, 80% of reversal attempts will fail."
+        }
+      ]
+    },
+    {
+      "case_id": "PC05-range-breakout-fail",
+      "old_cue_ids": [
+        150
+      ],
+      "new_cue_ids": [
+        146,
+        147,
+        148,
+        150
+      ],
+      "added_cue_excerpts": [
+        {
+          "cue_id": 146,
+          "en": "Now, my 80% rule also applies to Trading Ranges."
+        },
+        {
+          "cue_id": 147,
+          "en": "In a trend, 80% of reversal attempts fail."
+        },
+        {
+          "cue_id": 148,
+          "en": "In a Trading Range, 80% of attempts to break out into a trend will fail."
+        }
+      ]
+    },
+    {
+      "case_id": "PC09-divergence-bear-trend-thousand-cuts",
+      "old_cue_ids": [
+        388,
+        412
+      ],
+      "new_cue_ids": [
+        388,
+        412,
+        418,
+        438
+      ],
+      "added_cue_excerpts": [
+        {
+          "cue_id": 418,
+          "en": "However, what is the probability? The probability is extremely low."
+        },
+        {
+          "cue_id": 438,
+          "en": "however, you can bleed to death from a thousand papercuts."
+        }
+      ]
+    },
+    {
+      "case_id": "PC10-monthly-timeframe-risk",
+      "old_cue_ids": [
+        465,
+        473
+      ],
+      "new_cue_ids": [
+        465,
+        473,
+        474,
+        475,
+        476,
+        477
+      ],
+      "added_cue_excerpts": [
+        {
+          "cue_id": 474,
+          "en": "If you do trade a monthly chart, the bars are very big,"
+        },
+        {
+          "cue_id": 475,
+          "en": "so the stop is very far away."
+        },
+        {
+          "cue_id": 476,
+          "en": "You have to trade very small to make sure that the risk on your trade..."
+        },
+        {
+          "cue_id": 477,
+          "en": "..is no bigger than the risk on any other trade."
+        }
+      ]
+    }
+  ]
+}

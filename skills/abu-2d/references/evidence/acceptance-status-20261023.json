@@ -1,0 +1,73 @@
+{
+  "course": "2D",
+  "standard_version": "2026-10-23-five-gate-v1",
+  "checked_at": "2026-10-25T02:30:54.163528+08:00",
+  "course_status": "COMPLETE",
+  "five_gates": {
+    "G1": {
+      "name": "Full English/Chinese subtitle semantic review",
+      "passed": true,
+      "evidence": [
+        "references/evidence/transcript-review.json",
+        "references/evidence/translation-qa.md",
+        "references/evidence/translation-term-audit.jsonl"
+      ],
+      "reasons": []
+    },
+    "G2": {
+      "name": "All native retained frames individually inspected",
+      "passed": true,
+      "evidence": [
+        "references/evidence/frame-inventory.json",
+        "references/evidence/frame-observations-standard.jsonl",
+        "references/evidence/frame-observations-all.jsonl",
+        "references/evidence/source-ledger-coverage.json",
+        "references/evidence/g2-full-source-qa-20261024.md"
+      ],
+      "reasons": []
+    },
+    "G3": {
+      "name": "Important cases jointly interpreted across original captions and frames",
+      "passed": true,
+      "evidence": [
+        "references/evidence/joint-case-evidence.json",
+        "references/evidence/knowledge-regression-cases.md",
+        "references/evidence/knowledge-regression-cases.json"
+      ],
+      "reasons": []
+    },
+    "G4": {
+      "name": "Full knowledge and real Obsidian historical notes reconciliation",
+      "passed": true,
+      "evidence": [
+        "references/knowledge.md",
+        "references/evidence/obsidian-history-audit.md",
+        "references/evidence/source-outline.md"
+      ],
+      "reasons": []
+    },
+    "G5": {
+      "name": "Independent semantic final adjudication and zero unresolved major issues",
+      "passed": true,
+      "evidence": [
+        "references/evidence/independent-g5-partA-worker2-20261025.md",
+        "references/evidence/independent-g5-partB-worker3-20261025.md",
+        "references/evidence/independent-g5-partB-recheck-worker3-20261025.md",
+        "references/evidence/independent-g5-final-patch-crosscheck-worker2-20261025.md",
+        "references/evidence/independent-g5-PC07-final-micro-recheck-worker3-20261025.md",
+        "references/evidence/independent-g5-final-20261025.md"
+      ],
+      "reasons": []
+    }
+  },
+  "gate_pass_count": 5,
+  "structural_warnings": [],
+  "optional_audio_video_recorded_without_blocking": {
+    "motion_reviewed_count": 0,
+    "audio_reviewed_count": 0,
+    "continuous_video_playback_required": false,
+    "full_audio_listening_required": false,
+    "preserve_original_media_and_review_flags": true
+  },
+  "human_semantic_judgment_caveat": "This checker validates evidence/decision structure only; it cannot verify the reviewer actually understood the primary material."
+}

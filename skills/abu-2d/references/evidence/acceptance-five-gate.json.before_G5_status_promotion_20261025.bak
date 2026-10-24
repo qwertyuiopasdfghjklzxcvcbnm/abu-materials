@@ -1,0 +1,97 @@
+{
+  "standard_version": "2026-10-23-five-gate-v1",
+  "course": "2D",
+  "gates": {
+    "G1": {
+      "passed": true,
+      "reviewer": "Prime 2026-10-24 actual 498 paired EN and ZH source SRT semantic read and 46 translation/overstatement issues",
+      "evidence": [
+        "references/evidence/transcript-review.json",
+        "references/evidence/translation-qa.md",
+        "references/evidence/translation-term-audit.jsonl"
+      ],
+      "note": "Full texts manually read in sequential chunks; English prioritized; original audio not listened."
+    },
+    "G2": {
+      "passed": true,
+      "reviewer": "Full-source reviewers Prime / Chat On Steroids worker-1/2/3 in preserved original source sessions, with Prime visual spot-check and SHA ledger QA 2026-10-24",
+      "evidence": [
+        "references/evidence/frame-inventory.json",
+        "references/evidence/frame-observations-standard.jsonl",
+        "references/evidence/frame-observations-all.jsonl",
+        "references/evidence/source-ledger-coverage.json",
+        "references/evidence/g2-full-source-qa-20261024.md"
+      ],
+      "note": "3281 unique original source image opens documented in source sessions, 51/51 sealed; source SHA and ledger hash verified; script alone never proves vision. 4 source contact sheets 1920x1592 lack t/cue."
+    },
+    "G3": {
+      "passed": true,
+      "reviewer": "Prime 2026-10-24 targeted original full 1920x1080 image reopening, English cue tracing and ex-ante/hindsight case authoring",
+      "evidence": [
+        "references/evidence/joint-case-evidence.json",
+        "references/evidence/knowledge-regression-cases.md",
+        "references/evidence/knowledge-regression-cases.json"
+      ],
+      "note": "PC01–PC10 explicit source frame, SHA/t/cues, background, bulls/bears, author claim, alternative, known-at-time, hindsight-only, failure; independent G5 remains separate."
+    },
+    "G4": {
+      "passed": true,
+      "reviewer": "Prime 2026-10-24 real Obsidian Vault source SHA and continuous actual notes pages121–150 cross-comparison",
+      "evidence": [
+        "references/knowledge.md",
+        "references/evidence/obsidian-history-audit.md",
+        "references/evidence/source-outline.md"
+      ],
+      "note": "C01–C16 full lesson knowledge; original old PDF page 121–150 not confused with current video keyframes."
+    },
+    "G5": {
+      "passed": false,
+      "reviewer": "Independent substantive semantic reviewer not available in this resumed connection; do not imply completion",
+      "evidence": [
+        "references/evidence/independent-g5-pending.md"
+      ],
+      "note": "G5 cannot be certified from Prime self-review or structural scripts; requires independent C01–C16, PC01–PC10 and R01–R30 original-source challenge and fixes."
+    }
+  },
+  "subtitle_review": {
+    "review_ledger": "references/evidence/transcript-review.json",
+    "expected": 498
+  },
+  "native_frame_review": {
+    "inventory": "references/evidence/frame-inventory.json",
+    "merged_observations": "references/evidence/frame-observations-standard.jsonl"
+  },
+  "joint_cases": {
+    "path": "references/evidence/joint-case-evidence.json",
+    "required_case_ids": [
+      "PC01-bear-trend-candlestick-bottom",
+      "PC02-bearish-engulfing-in-bull",
+      "PC03-bullish-engulfing-in-tight-bear",
+      "PC04-trend-inertia-minor-reversal",
+      "PC05-range-breakout-fail",
+      "PC06-support-resistance-prior-level",
+      "PC07-momentum-breakout-pullback",
+      "PC08-indicators-versus-price-bars",
+      "PC09-divergence-bear-trend-thousand-cuts",
+      "PC10-monthly-timeframe-risk"
+    ]
+  },
+  "obsidian_history": {
+    "audit_report": "references/evidence/obsidian-history-audit.md",
+    "real_vault_searched": true
+  },
+  "independent_review": {
+    "report": "references/evidence/independent-g5-pending.md",
+    "judged_independently": false,
+    "unresolved_major_issues": [
+      "Await an actually independent adversarial semantic reading of entire Skill and original source anchors; no G5 reviewer has signed PASS."
+    ]
+  },
+  "optional_reviews": {
+    "motion_reviewed_count": 0,
+    "audio_reviewed_count": 0,
+    "continuous_video_playback_required": false,
+    "full_audio_listening_required": false,
+    "preserve_original_media_and_review_flags": true
+  }
+}

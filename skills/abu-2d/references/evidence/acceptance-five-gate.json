@@ -1,0 +1,106 @@
+{
+  "standard_version": "2026-10-23-five-gate-v1",
+  "course": "2D",
+  "gates": {
+    "G1": {
+      "passed": true,
+      "reviewer": "Prime 2026-10-24 actual 498 paired EN and ZH source SRT semantic read and 46 translation/overstatement issues",
+      "evidence": [
+        "references/evidence/transcript-review.json",
+        "references/evidence/translation-qa.md",
+        "references/evidence/translation-term-audit.jsonl"
+      ],
+      "note": "Full texts manually read in sequential chunks; English prioritized; original audio not listened."
+    },
+    "G2": {
+      "passed": true,
+      "reviewer": "Full-source reviewers Prime / Chat On Steroids worker-1/2/3 in preserved original source sessions, with Prime visual spot-check and SHA ledger QA 2026-10-24",
+      "evidence": [
+        "references/evidence/frame-inventory.json",
+        "references/evidence/frame-observations-standard.jsonl",
+        "references/evidence/frame-observations-all.jsonl",
+        "references/evidence/source-ledger-coverage.json",
+        "references/evidence/g2-full-source-qa-20261024.md"
+      ],
+      "note": "3281 unique original source image opens documented in source sessions, 51/51 sealed; source SHA and ledger hash verified; script alone never proves vision. 4 source contact sheets 1920x1592 lack t/cue."
+    },
+    "G3": {
+      "passed": true,
+      "reviewer": "Prime 2026-10-24 targeted original full 1920x1080 image reopening, English cue tracing and ex-ante/hindsight case authoring",
+      "evidence": [
+        "references/evidence/joint-case-evidence.json",
+        "references/evidence/knowledge-regression-cases.md",
+        "references/evidence/knowledge-regression-cases.json"
+      ],
+      "note": "10 causal cases, 18 original JPG anchors, 33 original English excerpts; completed independent G5 review and traced fixes."
+    },
+    "G4": {
+      "passed": true,
+      "reviewer": "Prime 2026-10-24 real Obsidian Vault source SHA and continuous actual notes pages121–150 cross-comparison",
+      "evidence": [
+        "references/knowledge.md",
+        "references/evidence/obsidian-history-audit.md",
+        "references/evidence/source-outline.md"
+      ],
+      "note": "C01–C16 full lesson knowledge; original old PDF page 121–150 not confused with current video keyframes."
+    },
+    "G5": {
+      "passed": true,
+      "reviewer": "Independent worker-2 (knowledge and regressions) and worker-3 (all joint cases and anchors), with independent final fixes verified by both on 2026-10-25",
+      "evidence": [
+        "references/evidence/independent-g5-partA-worker2-20261025.md",
+        "references/evidence/independent-g5-partB-worker3-20261025.md",
+        "references/evidence/independent-g5-partB-recheck-worker3-20261025.md",
+        "references/evidence/independent-g5-final-patch-crosscheck-worker2-20261025.md",
+        "references/evidence/independent-g5-PC07-final-micro-recheck-worker3-20261025.md",
+        "references/evidence/independent-g5-final-20261025.md"
+      ],
+      "note": "C01-C16 16/16; R01-R30 30/30; PC01-PC10 10/10; 18 original ZIP source image anchors and 33 EN cue excerpts. Final PC07 animation timeline independently re-reviewed."
+    }
+  },
+  "subtitle_review": {
+    "review_ledger": "references/evidence/transcript-review.json",
+    "expected": 498
+  },
+  "native_frame_review": {
+    "inventory": "references/evidence/frame-inventory.json",
+    "merged_observations": "references/evidence/frame-observations-standard.jsonl"
+  },
+  "joint_cases": {
+    "path": "references/evidence/joint-case-evidence.json",
+    "required_case_ids": [
+      "PC01-bear-trend-candlestick-bottom",
+      "PC02-bearish-engulfing-in-bull",
+      "PC03-bullish-engulfing-in-tight-bear",
+      "PC04-trend-inertia-minor-reversal",
+      "PC05-range-breakout-fail",
+      "PC06-support-resistance-prior-level",
+      "PC07-momentum-breakout-pullback",
+      "PC08-indicators-versus-price-bars",
+      "PC09-divergence-bear-trend-thousand-cuts",
+      "PC10-monthly-timeframe-risk"
+    ]
+  },
+  "obsidian_history": {
+    "audit_report": "references/evidence/obsidian-history-audit.md",
+    "real_vault_searched": true
+  },
+  "independent_review": {
+    "report": "references/evidence/independent-g5-final-20261025.md",
+    "judged_independently": true,
+    "unresolved_major_issues": [],
+    "reviewers": [
+      "worker-2",
+      "worker-3"
+    ],
+    "independently_reviewed_semantic_case_sha256": "95306d044f8b0346d1564bdbe10bda6f102f6d2b7027ae92b88eb5eb8eb12762",
+    "final_date": "2026-10-25"
+  },
+  "optional_reviews": {
+    "motion_reviewed_count": 0,
+    "audio_reviewed_count": 0,
+    "continuous_video_playback_required": false,
+    "full_audio_listening_required": false,
+    "preserve_original_media_and_review_flags": true
+  }
+}

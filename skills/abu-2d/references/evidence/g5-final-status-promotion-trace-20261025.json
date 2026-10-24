@@ -1,0 +1,28 @@
+{
+  "promotion_date_utc": "2026-10-24T18:27:46.562556+00:00",
+  "independently_reviewed_semantic_case_sha256": "95306d044f8b0346d1564bdbe10bda6f102f6d2b7027ae92b88eb5eb8eb12762",
+  "meaningful_content_changes_after_independent_signoff": false,
+  "status_only_updates": [
+    {
+      "file": "references\\evidence\\joint-case-evidence.json",
+      "before_sha256": "95306d044f8b0346d1564bdbe10bda6f102f6d2b7027ae92b88eb5eb8eb12762",
+      "after_sha256": "c2c3f654eb091179c5cbf80ab1e567dbf4ecdbe480bac39254eb6820b119a5ec"
+    },
+    {
+      "file": "references\\evidence\\knowledge-regression-cases.json",
+      "before_sha256": "17adafc18bf9e9f5beeb7d958a7ae23b446171a34574b8b22ece642e64de0d42",
+      "after_sha256": "a7b05c5aaf3699ece0c31e0af16cedea523ba2acc2611bb0a0b036b961b1599a"
+    },
+    {
+      "file": "references\\evidence\\acceptance-five-gate.json",
+      "before_sha256": "33149476a40587270e7c4c74a6521d4ada5c4524863d859c48215f9bf229111a",
+      "after_sha256": "8bc685ec7815ccc0941aa15164936736e85e92d42a65d8f2f52bd8a9fc8c650a"
+    },
+    {
+      "file": "SKILL.md",
+      "before_sha256": "4752c32bb6e5d90daf45036564ebb18e8f21ba55fdb72768f3a9cb9217209aaa",
+      "after_sha256": "78b8f88dcff04fb55cbe0191e15e748e0481474fd01c1b9821a9ab9999ac79a9"
+    }
+  ],
+  "independent_final_report": "independent-g5-final-20261025.md"
+}

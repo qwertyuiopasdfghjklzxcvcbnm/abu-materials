@@ -10,14 +10,14 @@ from pathlib import Path
 from review_lib import ROOT, manifest
 
 ap = argparse.ArgumentParser()
-ap.add_argument("--batch", required=True, choices=["B27", "B28", "B30", "B31", "B33", "B34", "B36", "B37", "B38"])
+ap.add_argument("--batch", required=True, choices=["B27", "B28", "B30", "B31", "B33", "B34", "B36", "B37", "B38", "B40", "B41"])
 args = ap.parse_args()
 b = args.batch
-name = b + ("-worker2.jsonl" if b in ("B28", "B31", "B34", "B38") else "-worker1.jsonl")
+name = b + ("-worker2.jsonl" if b in ("B28", "B31", "B34", "B38", "B41") else "-worker1.jsonl")
 source = ROOT / "evidence" / "2D" / "worker-review" / name
 target = source.with_name(b + "-mapped.jsonl")
 records = [json.loads(s) for s in source.read_text(encoding="utf-8-sig").splitlines() if s.strip()]
-first = {"B27":1665, "B28":1729, "B30":1857, "B31":1921, "B33":2049, "B34":2113, "B36":2241, "B37":2305, "B38":2369}[b]
+first = {"B27":1665, "B28":1729, "B30":1857, "B31":1921, "B33":2049, "B34":2113, "B36":2241, "B37":2305, "B38":2369, "B40":2497, "B41":2561}[b]
 assert [r["seq"] for r in records] == list(range(first, first + 64))
 _, rows = manifest()
 mapped = []
@@ -26,7 +26,7 @@ for r in records:
     m = rows[seq - 1]
     assert r.get("sha256") == m["sha256"], f"SHA mismatch seq{seq}"
     assert abs(float(r.get("t")) - float(m["t"])) < 0.000001
-    if b not in ("B28", "B31", "B34", "B38"):
+    if b not in ("B28", "B31", "B34", "B38", "B41"):
         assert r.get("viewed_full") is True
         assert r["f"] == m["file"] and r.get("cue") == m["cues"]
         point = r.get("pointer_approx")
@@ -56,7 +56,7 @@ for r in records:
     assert len(visual) >= 16 and r.get("pre") and r.get("post") and r.get("failure")
     mapped.append({
         "seq": seq, "f": m["file"], "sha256":m["sha256"], "t":m["t"], "cues":m["cues"],
-        "sc": scene, "ch": ("C15" if b == "B38" or (b == "B37" and "You Need All" in str(r.get("english_visible", ""))) else "C14" if b in ("B36", "B37") or (b == "B34" and seq >= 2145) or (b == "B33" and "Pressure" in str(r.get("english_visible", ""))) else "C13"), "see": visual, "mk":mk,
+        "sc": scene, "ch": ("C17" if b in ("B40","B41") and ("No Indicators" in str(r.get("english_visible", "")) or "No Indicators" in str(r.get("slide_title", ""))) else "C16" if b in ("B40","B41") else "C15" if b == "B38" or (b == "B37" and "You Need All" in str(r.get("english_visible", ""))) else "C14" if b in ("B36", "B37") or (b == "B34" and seq >= 2145) or (b == "B33" and "Pressure" in str(r.get("english_visible", ""))) else "C13"), "see": visual, "mk":mk,
         "cf": "h",
         "pp": {"ref":ref, "pre":r["pre"], "post":r["post"]},
         "fail":r["failure"], "read":True,

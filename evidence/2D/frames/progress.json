@@ -1,9 +1,9 @@
 {
-  "closed_batches": 36,
+  "closed_batches": 39,
   "total_batches": 51,
-  "images_done": 2304,
+  "images_done": 2496,
   "images_total": 3281,
-  "next_seq": 2305,
-  "next_file": "frame_002305.jpg",
-  "updated_utc": "2026-10-24T00:37:06+00:00"
+  "next_seq": 2497,
+  "next_file": "frame_002497.jpg",
+  "updated_utc": "2026-10-24T00:50:54+00:00"
 }

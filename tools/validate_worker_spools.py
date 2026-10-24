@@ -58,14 +58,14 @@ def main():
         if submitted_t is not None and abs(float(submitted_t) - float(m["t"])) > 0.00001:
             raise SystemExit(f"FAIL seq {seq}: worker timestamp mismatch")
         submitted_cues = note.get("cues")
-        if submitted_cues is not None and list(submitted_cues) != list(m["cues"]):
+        if submitted_cues is not None and list(submitted_cues) != list(m.get("cues", [])):
             raise SystemExit(f"FAIL seq {seq}: worker cue ID mismatch")
         if not isinstance(note.get("see"), str) or len(note["see"].strip()) < 12:
             raise SystemExit(f"FAIL seq {seq}: missing specific visual observation")
         metadata = {
             "seq":seq, "file":fname, "path":m["path"], "kind":m["kind"],
             "sha256":hash_hex, "bytes":len(contents), "w":m["w"], "h":m["h"],
-            "t":m["t"], "cues":m.get("cues", []), "cue_gap":m.get("cue_gap"),
+            "t":m.get("t"), "cues":m.get("cues", []), "cue_gap":m.get("cue_gap"),
             "batch":batch, "review_status":"worker_independent_provisional",
             "review_not_certified_by_sha":True,
         }

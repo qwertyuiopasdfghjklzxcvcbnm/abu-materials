@@ -73,9 +73,13 @@ def main():
                 continue
             src = ordered[seq - 1]
             for field in ("file", "path", "sha256", "bytes", "w", "h", "kind", "t",
-                          "cues", "cue_gap"):
+                          "cue_gap"):
                 if rec.get(field) != src.get(field):
                     errors.append(f"{batch}/{name}: mismatched {field}")
+            # Source contact sheets represent multiple time points and have no
+            # single active subtitle cue; normalize missing inventory cues to [].
+            if rec.get("cues", []) != src.get("cues", []):
+                errors.append(f"{batch}/{name}: mismatched cues")
             if rec.get("read") is not True or not rec.get("read_via"):
                 errors.append(f"{batch}/{name}: missing read claim/provenance")
             if rec.get("batch") != batch or name not in by_file:

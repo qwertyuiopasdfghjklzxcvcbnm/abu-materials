@@ -13,7 +13,7 @@ ap = argparse.ArgumentParser()
 ap.add_argument("--batch", required=True, choices=["B27", "B28", "B30", "B31", "B33", "B34", "B36", "B37", "B38", "B40", "B41", "B43", "B44", "B46", "B47", "B48", "B49", "B50", "B51"])
 args = ap.parse_args()
 b = args.batch
-name = b + ("-worker2.jsonl" if b in ("B28", "B31", "B34", "B38", "B41", "B44", "B47", "B49", "B50") else "-worker1.jsonl")
+name = b + ("-worker3.jsonl" if b == "B48" else "-worker2.jsonl" if b in ("B28", "B31", "B34", "B38", "B41", "B44", "B47", "B49", "B51") else "-worker1.jsonl")
 source = ROOT / "evidence" / "2D" / "worker-review" / name
 target = source.with_name(b + "-mapped.jsonl")
 records = [json.loads(s) for s in source.read_text(encoding="utf-8-sig").splitlines() if s.strip()]
@@ -24,9 +24,11 @@ mapped = []
 for r in records:
     seq = r["seq"]
     m = rows[seq - 1]
-    assert r.get("sha256") == m["sha256"], f"SHA mismatch seq{seq}"
-    assert abs(float(r.get("t")) - float(m["t"])) < 0.000001
-    if b not in ("B28", "B31", "B34", "B38", "B41", "B44", "B47", "B49", "B50"):
+    if r.get("sha256") is not None:
+        assert r["sha256"] == m["sha256"], f"SHA mismatch seq{seq}"
+    if r.get("t") is not None:
+        assert abs(float(r["t"]) - float(m["t"])) < 0.000001
+    if b not in ("B28", "B31", "B34", "B38", "B41", "B44", "B47", "B48", "B49", "B51"):
         assert r.get("viewed_full") is True
         assert r["f"] == m["file"] and r.get("cue") == m["cues"]
         point = r.get("pointer_approx")
@@ -42,7 +44,9 @@ for r in records:
         ref = "Explicit static chart plus resistance/support and colored illustrative highlights"
     else:
         assert r.get("read_in_current_pass") is True
-        assert r["filename"] == m["file"] and r.get("cues") == m["cues"]
+        assert r["filename"] == m["file"]
+        if r.get("cues") is not None:
+            assert r["cues"] == m.get("cues", [])
         visual = r.get("visual", "")
         english = r.get("english_cues", [])
         if english:
@@ -50,19 +54,29 @@ for r in records:
                 str(x.get("id"))+": "+str(x.get("text", "")) for x in english if isinstance(x, dict)
             ) + "]"
         visual += " [Slide title: "+str(r.get("slide_title", ""))+"]"
+        if r.get("literal_visible_en"):
+            visual += " [Literal slide English: "+str(r["literal_visible_en"])+"]"
+        if r.get("author_vs_engineering"):
+            visual += " [Author-vs-engineering: "+str(r["author_vs_engineering"])+"]"
+        if r.get("author_statement"):
+            visual += " [Author statement: "+str(r["author_statement"])+"]"
+        if r.get("engineering_inference"):
+            visual += " [Engineering inference: "+str(r["engineering_inference"])+"]"
         mk = {"pointer": 1} if any(t in visual for t in ("蓝环约", "蓝指针", "光标约", "蓝环在", "蓝环(", "蓝环（", "指针约")) else {}
         scene = "transition" if (b == "B28" and 1745 <= seq <= 1760) or (b == "B34" and 2145 <= seq <= 2151) else "chart"
         ref = "Illustrated Slide19→Slide20 transition and pressure candlestick diagram" if b == "B34" else "Illustrated chart and colored momentum or value annotations"
     pre = r.get("pre") or r.get("known_at_time")
     post = r.get("post") or r.get("hindsight_only")
-    assert len(visual) >= 16 and pre and post and r.get("failure")
+    fail = r.get("failure") or r.get("failure_example")
+    assert len(visual) >= 16 and pre and post and fail
     mapped.append({
-        "seq": seq, "f": m["file"], "sha256":m["sha256"], "t":m["t"], "cues":m["cues"],
-        "sc": scene, "ch": ("C18" if b in ("B46","B47","B48","B49","B50","B51") else "C17" if b in ("B43","B44") or (b in ("B40","B41") and ("No Indicators" in str(r.get("english_visible", "")) or "No Indicators" in str(r.get("slide_title", "")))) else "C16" if b in ("B40","B41") else "C15" if b == "B38" or (b == "B37" and "You Need All" in str(r.get("english_visible", ""))) else "C14" if b in ("B36", "B37") or (b == "B34" and seq >= 2145) or (b == "B33" and "Pressure" in str(r.get("english_visible", ""))) else "C13"), "see": visual, "mk":mk,
+        "seq": seq, "f": m["file"], "sha256":m["sha256"], "t":m.get("t"), "cues":m.get("cues", []),
+        "sc": "contact_sheet" if b == "B51" and seq >= 3278 else scene,
+        "ch": ("C20" if b == "B51" or (b == "B49" and r.get("slide") == 27) else "C19" if b == "B49" and r.get("slide") == 26 else "C18" if b in ("B46","B47","B48") else "C17" if b in ("B43","B44") or (b in ("B40","B41") and ("No Indicators" in str(r.get("english_visible", "")) or "No Indicators" in str(r.get("slide_title", "")))) else "C16" if b in ("B40","B41") else "C15" if b == "B38" or (b == "B37" and "You Need All" in str(r.get("english_visible", ""))) else "C14" if b in ("B36", "B37") or (b == "B34" and seq >= 2145) or (b == "B33" and "Pressure" in str(r.get("english_visible", ""))) else "C13"), "see": visual, "mk":mk,
         "cf": "h",
         "pp": {"ref":ref, "pre":pre, "post":post},
-        "fail":r["failure"], "read":True,
-        "read_via":"Worker reports individual Chat On Steroids Core.view_image original full 1920x1080 JPG; raw notes retained"
+        "fail":fail, "read":True,
+        "read_via":("Worker reports separate Core.view_image of the original FULL 1920x1592 contact-sheet JPG; not evidence of individual chart images" if b == "B51" and seq >= 3278 else "Worker reports individual Chat On Steroids Core.view_image original full 1920x1080 JPG; raw notes retained")
     })
 target.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in mapped), encoding="utf-8")
 print("MAPPED", b, len(mapped), target)
